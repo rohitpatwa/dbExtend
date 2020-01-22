@@ -1,0 +1,2370 @@
+db1,db2,fid.mid,db2.id,name1,name2,confidence
+fiw,msceleb,F0001.4,m.05z_td_,yasser abbas,Yasser Abbas,1
+fiw,msceleb,F0002.1,m.055mw6,greg abbott,Greg Abbott,1
+fiw,msceleb,F0002.1,m.0ngtc1z,greg abbott,Greg B. Abbott,0.94
+fiw,msceleb,F0003.1,m.05szp,paula abdul,Paula Abdul,1
+fiw,msceleb,F0004.1,m.01zl71,roman abramovich,Roman Abramovich,1
+fiw,msceleb,F0005.1,m.0dphkz,danneel ackles,Danneel Ackles,1
+fiw,msceleb,F0005.3,m.030697,jensen ackles,Jensen Ackles,1
+fiw,msceleb,F0006.3,m.05ywrj,amanda aday,Amanda Aday,1
+fiw,msceleb,F0006.4,m.0859dm,pearl aday,Pearl Aday,1
+fiw,msceleb,F0007.1,m.01cy1c,bhumibol adulyadej,Bhumibol Adulyadej,1
+fiw,msceleb,F0008.1,m.0151w_,ben affleck,Ben Affleck,1
+fiw,msceleb,F0008.2,m.04c_yqx,violet affleck,Violet Affleck,1
+fiw,msceleb,F0008.4,m.032_jg,casey affleck,Casey Affleck,1
+fiw,msceleb,F0008.5,m.0h1ngws,timothy affleck,Timothy Byers Affleck,0.94
+fiw,msceleb,F0009.1,m.05ztlnc,rob gronkowski,Rob Gronkowski,1
+fiw,msceleb,F0009.2,m.05c0nkk,dan gronkowski,Dan Gronkowski,1
+fiw,msceleb,F0009.6,m.0cc6wg6,chris gronkowski,Chris Gronkowski,1
+fiw,msceleb,F0009.7,m.05c0nkk,diane gronkowski,Dan Gronkowski,0.9333333333333333
+fiw,msceleb,F0011.3,m.0127s7,christina aguilera,Christina Aguilera,1
+fiw,msceleb,F0012.1,m.0dr5g9,troy aikman,Troy Aikman,1
+fiw,msceleb,F0013.1,m.01_vwx,bashar al-assad,Bashar al-Assad,1
+fiw,msceleb,F0013.2,m.0fmhjs,asma al-assad,Asma al-Assad,1
+fiw,msceleb,F0013.5,m.08tyvn,maher al-assad,Maher al-Assad,1
+fiw,msceleb,F0013.6,m.06yxy8,bassel al-assad,Bassel al-Assad,1
+fiw,msceleb,F0013.8,m.04d_n_5,bushra al-assad,Bushra al-Assad,1
+fiw,msceleb,F0015.1,m.01yf85,jessica alba,Jessica Alba,1
+fiw,msceleb,F0015.5,m.08g2ph,joshua alba,Joshua Alba,1
+fiw,msceleb,F0016.1,m.03lgv8,theo albrecht,Theo Albrecht,1
+fiw,msceleb,F0016.2,m.02w0y9,karl albrecht,Karl Albrecht,1
+fiw,msceleb,F0017.1,m.0jmj,alan alda,Alan Alda,1
+fiw,msceleb,F0017.2,m.0bjn4t,arlene alda,Arlene Alda,1
+fiw,msceleb,F0017.3,m.02qfx7b,beatrice alda,Beatrice Alda,1
+fiw,msceleb,F0017.4,m.02qfxb2,elizabeth alda,Elizabeth Alda,1
+fiw,msceleb,F0018.1,m.026z9db,lily aldridge,Lily Aldridge,1
+fiw,msceleb,F0018.4,m.07bmd4t,ruby aldridge,Ruby Aldridge,1
+fiw,msceleb,F0019.1,m.0hfml,buzz aldrin,Buzz Aldrin,1
+fiw,msceleb,F0020.1,m.02qw36n,muhammad ali,Muhammad Kurd Ali,0.94
+fiw,msceleb,F0020.2,m.012gr9,laila ali,Laila Ali,1
+fiw,msceleb,F0020.3,m.0j17c4m,rasheda ali,Rasheda Ali,1
+fiw,msceleb,F0020.5,m.0j17c9n,hana ali,Hana Ali,1
+fiw,msceleb,F0020.6,m.0j17c4d,jamillah ali,Jamillah Ali,1
+fiw,msceleb,F0020.9,m.0cjwq3,veronica ali,Veronica Porsche Ali,0.94
+fiw,msceleb,F0020.10,m.0dgq1jc,maryum ali,Maryum Ali,1
+fiw,msceleb,F0021.4,m.0gnfzf,robbie amell,Robbie Amell,1
+fiw,msceleb,F0022.1,m.03m83s,eva amurri,Eva Amurri,1
+fiw,msceleb,F0022.5,m.0g595c0,franco amurri,Franco Amurri,1
+fiw,msceleb,F0023.3,m.02vkbl,edward andrews,Edward Andrews,1
+fiw,msceleb,F0023.3,m.05x7bwq,edward andrews,Edward Deming Andrews,0.94
+fiw,msceleb,F0024.1,m.09yrh,jennifer aniston,Jennifer Aniston,1
+fiw,msceleb,F0024.3,m.01rgct,john aniston,John Aniston,1
+fiw,msceleb,F0024.5,m.04d08y_,alex aniston,Alex Aniston,1
+fiw,msceleb,F0025.1,m.0498f,kofi annan,Kofi Annan,1
+fiw,msceleb,F0026.1,m.05ty4m,judd apatow,Judd Apatow,1
+fiw,msceleb,F0026.2,m.04frvz9,iris apatow,Iris Apatow,1
+fiw,msceleb,F0026.3,m.04frvzh,maude apatow,Maude Apatow,1
+fiw,msceleb,F0027.1,m.01hcj2,christina applegate,Christina Applegate,1
+fiw,msceleb,F0027.2,m.03f4xtv,martyn applegate,Mary Applegate,0.9333333333333333
+fiw,msceleb,F0029.3,m.029c74,kris aquino,Kris Aquino,1
+fiw,msceleb,F0030.1,m.08849,yasser arafat,Yasser Arafat,1
+fiw,msceleb,F0030.2,m.049j0w,suha arafat,Suha Arafat,1
+fiw,msceleb,F0030.4,m.04mjn8,fathi arafat,Fathi Arafat,1
+fiw,msceleb,F0031.2,m.0csg_p,andres arango,Andres Arango,1
+fiw,msceleb,F0035.1,m.015grj,alan arkin,Alan Arkin,1
+fiw,msceleb,F0035.2,m.03v0vd,adam arkin,Adam Arkin,1
+fiw,msceleb,F0035.3,m.02qfy2h,matthew arkin,Matthew Arkin,1
+fiw,msceleb,F0035.4,m.02qfy3w,anthony arkin,Anthony Arkin,1
+fiw,msceleb,F0036.1,m.024htv,giorgio armani,Giorgio Armani,1
+fiw,msceleb,F0036.2,m.03f3pq8,roberta armani,Robert Armani,0.9629629629629629
+fiw,msceleb,F0037.1,m.05p0k__,lance armstrong,Lance Armstrong,1
+fiw,msceleb,F0037.6,m.04y99_b,max armstrong,Max Armstrong,1
+fiw,msceleb,F0037.8,m.0d_fn6,kristin armstrong,Kristin Armstrong,1
+fiw,msceleb,F0037.9,m.010f80p0,eddie armstrong,Eddie Armstrong,1
+fiw,msceleb,F0038.1,m.03lgx_,bernard arnault,Bernard Arnault,1
+fiw,msceleb,F0038.2,m.08tx3s,delphine arnault,Delphine Arnault,1
+fiw,msceleb,F0038.4,m.04j4qpn,antoine arnault,Antoine Arnault,1
+fiw,msceleb,F0039.1,m.01b1g9,gloria arroyo,Gloria Macapagal-Arroyo,0.94
+fiw,msceleb,F0039.2,m.0f1s4c,jose arroyo,Jose Miguel Arroyo,0.94
+fiw,msceleb,F0039.2,m.01nxcdf,jose arroyo,Joe Arroyo,0.9523809523809523
+fiw,msceleb,F0039.3,m.03whbq8,mikey arroyo,Mikey Arroyo,1
+fiw,msceleb,F0040.2,m.052rf2,mackenzie astin,Mackenzie Astin,1
+fiw,msceleb,F0040.3,m.0svqs,sean astin,Sean Astin,1
+fiw,msceleb,F0040.4,m.01rc4p,john astin,John Astin,1
+fiw,msceleb,F0041.1,m.04zw250,randy johnson,Randy Johnson,1
+fiw,msceleb,F0041.1,m.03cgrmv,randy johnson,Randy J. Johnson,0.94
+fiw,msceleb,F0042.1,m.026v5l,rene auberjonois,Rene Auberjonois,1
+fiw,msceleb,F0042.1,m.06mrp5,rene auberjonois,René Auberjonois,0.9375
+fiw,msceleb,F0042.2,m.0bv8554,remy auberjonois,Remy Auberjonois,1
+fiw,msceleb,F0042.5,m.03rpf3,fernand auberjonois,Fernand Auberjonois,1
+fiw,msceleb,F0043.1,m.03wws_,michelle bachelet,Michelle Bachelet,1
+fiw,msceleb,F0044.2,m.025spvt,sosie bacon,Sosie Bacon,1
+fiw,msceleb,F0046.1,m.027cmm9,charlie baker,Charlie Baker,1
+fiw,msceleb,F0047.1,m.06jbcn,leigh-allyn baker,Leigh-Allyn Baker,1
+fiw,msceleb,F0047.4,m.0blrvd,keith baker,Keith Baker,1
+fiw,msceleb,F0047.4,m.0z8xhyc,keith baker,Keith Alan Baker,0.94
+fiw,msceleb,F0048.1,m.018ygt,alec baldwin,Alec Baldwin,1
+fiw,msceleb,F0048.2,m.018yhr,stephen baldwin,Stephen Baldwin,1
+fiw,msceleb,F0048.3,m.018yj6,william baldwin,William Baldwin,1
+fiw,msceleb,F0048.3,m.09rxqwq,william baldwin,William E. Baldwin,0.94
+fiw,msceleb,F0048.3,m.0g53hsx,william baldwin,William Woodward Baldwin,0.94
+fiw,msceleb,F0048.7,m.0644qlt,ireland baldwin,Ireland Baldwin,1
+fiw,msceleb,F0048.9,m.0f8c54,carol baldwin,Carol M. Baldwin,0.94
+fiw,msceleb,F0048.10,m.010s1_g_,jane baldwin,Jane Baldwin,1
+fiw,msceleb,F0048.11,m.0br1hq,elizabeth baldwin,Elizabeth Baldwin,1
+fiw,msceleb,F0049.1,m.01wy5m,christian  bale,Christian Bale,0.96
+fiw,msceleb,F0049.4,m.0gwrv91,erin bale,Erin Bale,1
+fiw,msceleb,F0049.5,m.0gwrv8r,sharon bale,Sharon Bale,1
+fiw,msceleb,F0049.6,m.05d_z8,david bale,David Bale,1
+fiw,msceleb,F0050.1,m.0d9ry_,gareth bale,Gareth Bale,1
+fiw,msceleb,F0051.1,m.08_d4x,dustin pedroia,Dustin Pedroia,1
+fiw,msceleb,F0052.1,m.02__7n,christine baranski,Christine Baranski,1
+fiw,msceleb,F0053.3,m.01713c,javier bardem,Javier Bardem,1
+fiw,msceleb,F0053.4,m.02qgrn8,monica bardem,Mónica Bardem,0.9230769230769231
+fiw,msceleb,F0053.5,m.02qgrjt,carlos bardem,Carlos Bardem,1
+fiw,msceleb,F0053.6,m.02qgr9y,pilar bardem,Pilar Bardem,1
+fiw,msceleb,F0054.1,m.07dr3v,matt barnes,Matt Barnes,1
+fiw,msceleb,F0055.1,m.0fx7pk,claudine barretto,Claudine Barretto,1
+fiw,msceleb,F0055.5,m.02rsq_8,gretchen barretto,Gretchen Barretto,1
+fiw,msceleb,F0055.6,m.02rsrhs,marjorie barretto,Marjorie Barretto,1
+fiw,msceleb,F0055.8,m.0n_6k6v,julia barretto,Julia Barretto,1
+fiw,msceleb,F0058.1,m.026c1,drew barrymore,Drew Barrymore,1
+fiw,msceleb,F0058.2,m.0ht_k,john barrymore,John Barrymore,1
+fiw,msceleb,F0058.2,m.04jyz_,john barrymore,John Drew Barrymore,0.94
+fiw,msceleb,F0058.2,m.0d7z24,john barrymore,John Blyth Barrymore,0.94
+fiw,msceleb,F0058.3,m.0dl10t,jaid barrymore,Jaid Barrymore,1
+fiw,msceleb,F0059.1,m.0d81yf,hank baskett,Hank Baskett,1
+fiw,msceleb,F0061.1,m.032xhg,jason bateman,Jason Bateman,1
+fiw,msceleb,F0061.5,m.032xlq,justin bateman,Justine Bateman,0.9655172413793104
+fiw,msceleb,F0062.1,m.02gvwz,sean bean,Sean Bean,1
+fiw,msceleb,F0062.3,m.0chbbb4,molly bean,Molly Bean,1
+fiw,msceleb,F0063.1,m.03c4cpb,jim adams,Jim Adams,1
+fiw,msceleb,F0063.2,m.02klyg,cecily adams,Cecily Adams,1
+fiw,msceleb,F0064.1,m.02d9k,david beckham,David Beckham,1
+fiw,msceleb,F0064.2,m.0cgfb,victoria beckham,Victoria Beckham,1
+fiw,msceleb,F0064.3,m.04dylr1,brooklyn beckham,Brooklyn Joseph Beckham,0.94
+fiw,msceleb,F0064.4,m.02vk62d,romeo beckham,Romeo James Beckham,0.94
+fiw,msceleb,F0064.5,m.04dylr8,cruz beckham,Cruz David Beckham,0.94
+fiw,msceleb,F0064.6,m.0gxvrw2,harper beckham,Harper Seven Beckham,0.94
+fiw,msceleb,F0066.1,m.046_ty,vitor belfort,Vitor Belfort,1
+fiw,msceleb,F0068.1,m.0ghvhjk,alexis bellino,Alexis Bellino,1
+fiw,msceleb,F0069.1,m.0316pw,donald bellisario,Donald P. Bellisario,0.94
+fiw,msceleb,F0069.4,m.09k4c__,troian bellisario,Troian Bellisario,1
+fiw,msceleb,F0069.6,m.02q252q,michael bellisario,Michael Bellisario,1
+fiw,msceleb,F0071.1,m.0fm2h,benjamin netanyahu,Benjamin Netanyahu,1
+fiw,msceleb,F0071.2,m.0j5wlpc,sara netanyahu,Sara Netanyahu,1
+fiw,msceleb,F0071.5,m.05p3vsk,benzion netanyahu,Benzion Netanyahu,1
+fiw,msceleb,F0072.1,m.0bdt8,ingrid bergman,Ingrid Bergman,1
+fiw,msceleb,F0073.1,m.03knl,halle berry,Halle Berry,1
+fiw,msceleb,F0074.1,m.03k2ny,ernesto bertarelli,Ernesto Bertarelli,1
+fiw,msceleb,F0074.2,m.0gmbzxn,dona bertarelli,Dona Bertarelli,1
+fiw,msceleb,F0074.3,m.0805gt2,kirsty bertarelli,Kirsty Bertarelli,1
+fiw,msceleb,F0075.1,m.032t6d,liliane bettencourt,Liliane Bettencourt,1
+fiw,msceleb,F0075.2,m.05hd3w,andre bettencourt,André Bettencourt,0.9411764705882353
+fiw,msceleb,F0076.1,m.01bhq8,benazir bhutto,Benazir Bhutto,1
+fiw,msceleb,F0077.1,m.012gx2,joe  biden,Joe Biden,0.96
+fiw,msceleb,F0077.2,m.04jd87h,jill biden,Jill Biden,1
+fiw,msceleb,F0077.3,m.04j7k3x,ashley biden,Ashley Biden,1
+fiw,msceleb,F0077.4,m.026vs7_,beau biden,Beau Biden,1
+fiw,msceleb,F0077.6,m.04jknwl,hunter biden,Hunter Biden,1
+fiw,msceleb,F0078.1,m.06w2sn5,justin bieber,Justin Bieber,1
+fiw,msceleb,F0078.3,m.0gxnnv_,jeremy bieber,Jeremy Bieber,1
+fiw,msceleb,F0078.4,m.0gxnnwd,jazmyn bieber,Jazmyn Bieber,1
+fiw,msceleb,F0079.1,m.0320jz,jessica biel,Jessica Biel,1
+fiw,msceleb,F0079.3,m.0gx8rby,kimberly biel,Kimberly Biel,1
+fiw,msceleb,F0079.4,m.0gx8rc5,jonathan biel,Jonathan Edward Biel,0.94
+fiw,msceleb,F0080.3,m.043m195,kroy biermann,Kroy Biermann,1
+fiw,msceleb,F0080.5,m.0113lnrk,brielle biermann,Brielle Biermann,1
+fiw,msceleb,F0081.1,m.0czryc,kumar birla,Kumar Mangalam Birla,0.94
+fiw,msceleb,F0081.3,m.03c91hx,aditya birla,Aditya Vikram Birla,0.94
+fiw,msceleb,F0082.1,m.0948xk,tony blair,Tony Blair,1
+fiw,msceleb,F0082.2,m.01nws3,cherie blair,Cherie Blair,1
+fiw,msceleb,F0082.4,m.045wtm,euan blair,Euan Blair,1
+fiw,msceleb,F0082.6,m.0b_48r,leo blair,Leo Blair,1
+fiw,msceleb,F0083.1,m.0154qm,cate blanchett,Cate Blanchett,1
+fiw,msceleb,F0083.6,m.04fmmh1,june blanchett,June Blanchett,1
+fiw,msceleb,F0084.1,m.04gls3r,daley blind,Daley Blind,1
+fiw,msceleb,F0084.4,m.03f0yr,danny blind,Danny Blind,1
+fiw,msceleb,F0085.2,m.025s8pf,georgina bloomberg,Georgina Bloomberg,1
+fiw,msceleb,F0085.4,m.09pfj,michael bloomberg bloomberg,Michael Bloomberg,0.94
+fiw,msceleb,F0086.1,m.039rwf,john boehner,John Boehner,1
+fiw,msceleb,F0089.2,m.07s4bgc,bono bono,Bono,0.94
+fiw,msceleb,F0090.1,m.0dxg6,pete rose,Pete Rose,1
+fiw,msceleb,F0090.16,m.05q6p8l,david rose,David Rose,1
+fiw,msceleb,F0090.16,m.01lttt,david rose,David Stuart Rose,0.94
+fiw,msceleb,F0090.16,m.04n7gtv,david rose,David S. Rose,0.94
+fiw,msceleb,F0090.16,m.0n1yw_s,david rose,David E. Rose,0.94
+fiw,msceleb,F0091.1,m.0b5g_h,chris bosh,Chris Bosh,1
+fiw,msceleb,F0092.1,m.01ry44,fernando botero botero,Fernando Botero,0.94
+fiw,msceleb,F0093.1,m.031296,julie bowen,Julie Bowen,1
+fiw,msceleb,F0093.4,m.02_wc9,john bowen,John C. Bowen,0.94
+fiw,msceleb,F0093.4,m.02phbcv,john bowen,John S. Bowen,0.94
+fiw,msceleb,F0093.4,m.05pbjb2,john bowen,John Clyde Bowen,0.94
+fiw,msceleb,F0093.4,m.0bhch8y,john bowen,John W. Bowen,0.94
+fiw,msceleb,F0093.4,m.0by09n7,john bowen,John T. Bowen,0.94
+fiw,msceleb,F0093.6,m.047blf5,scott bowen,Scott Bowen,1
+fiw,msceleb,F0094.1,m.02qpwyb,billy boyd,Billy Boyd,1
+fiw,msceleb,F0094.3,m.0c00d7c,jack boyd,Jack Boyd,1
+fiw,msceleb,F0095.1,m.0gc0d,terry bradshaw,Terry Bradshaw,1
+fiw,msceleb,F0096.6,m.0354b7,john brady,John Joseph Brady,0.94
+fiw,msceleb,F0096.6,m.03x501,john brady,John Green Brady,0.94
+fiw,msceleb,F0096.6,m.04gmnx6,john brady,John F. Brady,0.94
+fiw,msceleb,F0097.1,m.036dyy,zach braff,Zach Braff,1
+fiw,msceleb,F0097.4,m.0v4q68_,adam braff,Adam J. Braff,0.94
+fiw,msceleb,F0097.5,m.0brpvb,joshua braff,Joshua Braff,1
+fiw,msceleb,F0098.1,m.0n839,richard branson,Richard Branson,1
+fiw,msceleb,F0098.4,m.0j8d0l6,sam branson,Sam Branson,1
+fiw,msceleb,F0099.1,m.030bdd,drew brees,Drew Brees,1
+fiw,msceleb,F0100.1,m.03wjxs,jordana brewster,Jordana Brewster,1
+fiw,msceleb,F0101.2,m.0h5r1m5,wendy bridges,Wendy Treece Bridges,0.94
+fiw,msceleb,F0101.3,m.03xkps,beau bridges,Beau Bridges,1
+fiw,msceleb,F0101.4,m.0gcdrbx,emily bridges,Emily Bridges,1
+fiw,msceleb,F0101.5,m.05bmv5,jordan bridges,Jordan Bridges,1
+fiw,msceleb,F0101.8,m.0flw6,jeff bridges,Jeff Bridges,1
+fiw,msceleb,F0104.1,m.01zg98,james brolin,James Brolin,1
+fiw,msceleb,F0104.2,m.03n_7k,josh brolin,Josh Brolin,1
+fiw,msceleb,F0104.6,m.063y2vd,eden brolin,Eden Brolin,1
+fiw,msceleb,F0104.7,m.0644ky1,trevor brolin,Trevor Brolin,1
+fiw,msceleb,F0105.1,m.018p4y,pierce brosnan,Pierce Brosnan,1
+fiw,msceleb,F0105.3,m.03m53fq,sean brosnan,Sean Brosnan,1
+fiw,msceleb,F0105.3,m.03hh0gs,sean brosnan,Seán Brosnan,0.9166666666666666
+fiw,msceleb,F0105.4,m.0brn47s,paris brosnan,Paris Brosnan,1
+fiw,msceleb,F0105.5,m.0brn48z,dylan brosnan,Dylan Brosnan,1
+fiw,msceleb,F0106.1,m.05x1r91,monica brown,Monica Brown,1
+fiw,msceleb,F0106.1,m.03wcpb5,monica brown,Monica Lin Brown,0.94
+fiw,msceleb,F0106.3,m.055t3g6,marilyn brown,Marilyn Brown,1
+fiw,msceleb,F0106.3,m.0glrrd8,marilyn brown,Marilyn A. Brown,0.94
+fiw,msceleb,F0106.5,m.03cj7lw,rodney brown,Rodney Brown,1
+fiw,msceleb,F0106.5,m.0czbfxq,rodney brown,Rodney W. Brown,0.94
+fiw,msceleb,F0107.1,m.01kmd4,kobe bryant,Kobe Bryant,1
+fiw,msceleb,F0107.2,m.0404dcw,vanessa bryant,Vanessa Lynne Bryant,0.94
+fiw,msceleb,F0107.2,m.05_5rbs,vanessa bryant,Vanessa Laine Bryant,0.94
+fiw,msceleb,F0107.5,m.024trx,joe bryant,Joe Bryant,1
+fiw,msceleb,F0110.1,m.0794g,sandra bullock,Sandra Bullock,1
+fiw,msceleb,F0110.3,m.0fd_kl,louis bullock,Louis Bullock,1
+fiw,msceleb,F0111.5,m.07k48q8,steve bullock,Steve Bullock,1
+fiw,msceleb,F0112.1,m.09rvxxs,edward burns,Edward F. Burns,0.94
+fiw,msceleb,F0112.3,m.0h2ndzf,finn burns,Finn Burns,1
+fiw,msceleb,F0112.4,m.03jy3w,christy burns,Christy Turlington Burns,0.94
+fiw,msceleb,F0113.1,m.03ds3,gary busey,Gary Busey,1
+fiw,msceleb,F0113.2,m.06z495,jake busey,Jake Busey,1
+fiw,msceleb,F0114.1,m.03shsv,george bush,George P. Bush,0.94
+fiw,msceleb,F0114.1,m.09b6zr,george bush,George W. Bush,0.94
+fiw,msceleb,F0114.2,m.04g8d,laura bush,Laura Bush,1
+fiw,msceleb,F0114.6,m.015nr6,barbara  bush,Barbara Bush,0.96
+fiw,msceleb,F0114.6,m.0bxdvw,barbara  bush,Barbara Pierce Bush,0.94
+fiw,msceleb,F0114.7,m.0bxdvw,barbara pierce bush,Barbara Pierce Bush,1
+fiw,msceleb,F0114.7,m.015nr6,barbara pierce bush,Barbara Bush,0.94
+fiw,msceleb,F0114.8,m.03shsv,george hw bush,George P. Bush,0.94
+fiw,msceleb,F0114.8,m.09b6zr,george hw bush,George W. Bush,0.94
+fiw,msceleb,F0114.8,m.034ls,george hw bush,George H. W. Bush,0.96
+fiw,msceleb,F0114.9,m.019x9z,jeb bush,Jeb Bush,1
+fiw,msceleb,F0115.1,m.01cwkq,amanda bynes,Amanda Bynes,1
+fiw,msceleb,F0116.1,m.0252fh,james caan,James Caan,1
+fiw,msceleb,F0116.5,m.03_dxb,scott caan,Scott Caan,1
+fiw,msceleb,F0117.1,m.090413,david cameron,David Young Cameron,0.94
+fiw,msceleb,F0118.1,m.035gcb,albert pujols,Albert Pujols,1
+fiw,msceleb,F0119.1,m.0dddmmd,edie campbell,Edie Campbell,1
+fiw,msceleb,F0119.3,m.0c09vs1,sophie campbell,Sophie Campbell,1
+fiw,msceleb,F0121.1,m.04t2l2,steve carell,Steve Carell,1
+fiw,msceleb,F0121.2,m.09c7qt,nancy carell,Nancy Carell,1
+fiw,msceleb,F0122.1,m.02rk8f,hugh  carey,Hugh Carey,0.96
+fiw,msceleb,F0122.5,m.02h7kh9,helen carey,Helen Carey,1
+fiw,msceleb,F0123.1,m.09k6c57,shay carl,Shay Carl,1
+fiw,msceleb,F0124.1,m.014z8v,george carlin,George Carlin,1
+fiw,msceleb,F0125.1,m.0lx2l,jim carrey,Jim Carrey,1
+fiw,msceleb,F0125.2,m.07z1v7v,rita carrey,Rita Carrey,1
+fiw,msceleb,F0125.4,m.07z1v8g,john carrey,John Carrey,1
+fiw,msceleb,F0125.5,m.02q3pr2,jane carrey,Jane Erin Carrey,0.94
+fiw,msceleb,F0125.6,m.07z1rb1,percy carrey,Percy Joseph Carrey,0.94
+fiw,msceleb,F0126.4,m.04fk_p1,gloria carter,Gloria Carter,1
+fiw,msceleb,F0126.5,m.011ckhcb,matthew carter,Matthew Carter,1
+fiw,msceleb,F0126.5,m.0j7nfzr,matthew carter,Matthew G. Carter,0.94
+fiw,msceleb,F0126.7,m.02sxzn,daniel carter,Daniel Carter,1
+fiw,msceleb,F0126.7,m.025v7xx,daniel carter,Daniel P. Carter,0.94
+fiw,msceleb,F0127.3,m.0t5lxz2,reginae carter,Reginae Carter,1
+fiw,msceleb,F0128.1,m.0p_l4,jimmy carter,Jimmy Carter,1
+fiw,msceleb,F0128.3,m.0566f4,amy carter,Amy Carter,1
+fiw,msceleb,F0128.4,m.05gprb,lillian carter,Lillian Gordy Carter,0.94
+fiw,msceleb,F0128.5,m.0865xp,jack carter,Jack Carter,1
+fiw,msceleb,F0128.6,m.03hl9w6,jeff carter,Jeff Carter,1
+fiw,msceleb,F0129.2,m.01h5f8,june cash,June Carter Cash,0.94
+fiw,msceleb,F0129.3,m.08yx6j,john cash,John Carter Cash,0.94
+fiw,msceleb,F0130.1,m.02jp6_,iker casillas,Iker Casillas,1
+fiw,msceleb,F0131.1,m.09k0f,fidel castro,Fidel Castro,1
+fiw,msceleb,F0131.1,m.09sgl5,fidel castro,Fidel de Castro,0.94
+fiw,msceleb,F0131.5,m.0yq1ykp,daniel castro,Daniel Castro,1
+fiw,msceleb,F0132.1,m.08m4c8,justin chambers,Justin Chambers,1
+fiw,msceleb,F0132.2,m.0bb_p3d,keisha chambers,Keisha Chambers,1
+fiw,msceleb,F0133.1,m.0v39r93,jackie chan,Jackie Chan,1
+fiw,msceleb,F0133.3,m.04c_bk,jaycee chan,Jaycee Chan,1
+fiw,msceleb,F0133.4,m.06pxlk,charles chan,Charles Chan,1
+fiw,msceleb,F0133.5,m.02kkpgt,lily chan,Lily Chan,1
+fiw,msceleb,F0134.1,m.069nzr,kyle chandler,Kyle Chandler,1
+fiw,msceleb,F0137.1,m.02p65p,don cheadle,Don Cheadle,1
+fiw,msceleb,F0138.1,m.0zm1,anton chekhov,Anton Chekhov,1
+fiw,msceleb,F0138.2,m.0gytn4t,nikolai chekhov,Nikolai Chekhov,1
+fiw,msceleb,F0138.3,m.0gfd055,alexander chekhov,Alexander Chekhov,1
+fiw,msceleb,F0138.4,m.0jw9nt3,pavel chekhov,Pavel Yegorovich Chekhov,0.94
+fiw,msceleb,F0138.6,m.0jw9nt9,yevgeniya chekhov,Yevgeniya Chekhov,1
+fiw,msceleb,F0139.1,m.0zmx3cj,chiara ferragni,Chiara Ferragni,1
+fiw,msceleb,F0140.1,m.0ldd,agatha christie,Agatha Christie,1
+fiw,msceleb,F0140.2,m.0hr2zrm,max christie,Max Christie,1
+fiw,msceleb,F0141.1,m.0f8t6k,chris christie,Chris Christie,1
+fiw,msceleb,F0142.2,m.041c4,john cleese,John Cleese,1
+fiw,msceleb,F0142.4,m.02rrblg,alyce cleese,Alyce Cleese,1
+fiw,msceleb,F0142.5,m.0h134k2,muriel cleese,Muriel Cleese,1
+fiw,msceleb,F0142.8,m.0fbr3n,cynthia cleese,Cynthia Cleese,1
+fiw,msceleb,F0143.1,m.0157m,bill clinton,Bill Clinton,1
+fiw,msceleb,F0143.2,m.0d06m5,hillary clinton,Hillary Rodham Clinton,0.94
+fiw,msceleb,F0143.3,m.01chwz,chelsea clinton,Chelsea Clinton,1
+fiw,msceleb,F0143.5,m.02z1qc3,roger clinton,Roger de Clinton,0.94
+fiw,msceleb,F0144.1,m.04b9_k,nick clooney clooney,Nick Clooney,0.94
+fiw,msceleb,F0144.3,m.014zcr,george clooney clooney,George Clooney,0.94
+fiw,msceleb,F0144.4,m.0h8hk,rosemary clooney clooney,Rosemary Clooney,0.94
+fiw,msceleb,F0144.6,m.0n4g087,betty clooney clooney,Betty Clooney,0.94
+fiw,msceleb,F0144.7,m.0gx9sc8,adelia clooney,Adelia Clooney,1
+fiw,msceleb,F0145.1,m.02kxbwx,ethan coen,Ethan Coen,1
+fiw,msceleb,F0145.2,m.02kxbx3,joel coen,Joel Coen,1
+fiw,msceleb,F0146.1,m.01xdf5,stephen colbert,Stephen Colbert,1
+fiw,msceleb,F0146.3,m.0k6_mh7,peter colbert,Peter Colbert,1
+fiw,msceleb,F0146.5,m.0gwssn0,evelyn colbert,Evelyn McGee-Colbert,0.94
+fiw,msceleb,F0146.6,m.0gwszq1,lorna colbert,Lorna Colbert,1
+fiw,msceleb,F0147.1,m.07k51gd,chris colfer,Chris Colfer,1
+fiw,msceleb,F0148.2,m.03hh6bw,lily collins,Lily Collins,1
+fiw,msceleb,F0149.1,m.06s4_k,misha collins,Misha Collins,1
+fiw,msceleb,F0150.1,m.013w7j,sean combs,Sean Combs,1
+fiw,msceleb,F0150.2,m.04g5fbs,justin combs,Justin Dior Combs,0.94
+fiw,msceleb,F0151.1,m.06mr6,sean connery,Sean Connery,1
+fiw,msceleb,F0151.3,m.02_sm0,jason connery,Jason Connery,1
+fiw,msceleb,F0152.1,m.0dq9wx,lauren conrad,Lauren Conrad,1
+fiw,msceleb,F0152.2,m.02w872,william conrad,William Conrad,1
+fiw,msceleb,F0152.3,m.025w2d2,breanna conrad,Breanna Conrad,1
+fiw,msceleb,F0153.1,m.0g824,alicia keys,Alicia Keys,1
+fiw,msceleb,F0154.1,m.01vbl,calvin coolidge,Calvin Coolidge,1
+fiw,msceleb,F0154.2,m.09p7rl,john coolidge,John Coolidge,1
+fiw,msceleb,F0154.2,m.08lqpr,john coolidge,John Gardner Coolidge,0.94
+fiw,msceleb,F0154.4,m.025pqb,grace coolidge,Grace Coolidge,1
+fiw,msceleb,F0155.2,m.02z14n,anderson cooper,Anderson Cooper,1
+fiw,msceleb,F0155.3,m.0317d_,wyatt cooper,Wyatt Emory Cooper,0.94
+fiw,msceleb,F0156.1,m.02vyw,francis  coppola,Francis Ford Coppola,0.94
+fiw,msceleb,F0156.2,m.02jfd7,elanor coppola,Eleanor Coppola,0.9655172413793104
+fiw,msceleb,F0156.3,m.074tyf,roman coppola,Roman Coppola,1
+fiw,msceleb,F0156.4,m.01_f_5,sofia coppola,Sofia Coppola,1
+fiw,msceleb,F0157.1,m.02_z3j,andrea corr,Andrea Corr,1
+fiw,msceleb,F0157.2,m.02_z57,sharon corr,Sharon Corr,1
+fiw,msceleb,F0157.4,m.02_z3_,caroline corr,Caroline Corr,1
+fiw,msceleb,F0158.1,m.0g_wk24,lily costner,Lily Costner,1
+fiw,msceleb,F0158.3,m.0127m7,kevin costner,Kevin Costner,1
+fiw,msceleb,F0158.8,m.0g_wk1q,annie costner,Annie Costner,1
+fiw,msceleb,F0159.1,m.07lt7b,marion cotillard,Marion Cotillard,1
+fiw,msceleb,F0159.3,m.0gxr9sw,guillaume cotillard,Guillaume Cotillard,1
+fiw,msceleb,F0160.3,m.02rb2ts,simon cowell,Simon Cowell,1
+fiw,msceleb,F0160.5,m.04jfj7z,nicholas cowell,Nicholas Cowell,1
+fiw,msceleb,F0160.7,m.04jhlh6,tony cowell,Tony Cowell,1
+fiw,msceleb,F0161.1,m.05fnl9,bryan cranston,Bryan Cranston,1
+fiw,msceleb,F0161.2,m.0h5r90j,taylor cranston,Taylor Cranston,1
+fiw,msceleb,F0161.4,m.0g9mgxr,joe cranston,Joe Cranston,1
+fiw,msceleb,F0162.6,m.09h4d3,john crawford,John Martin Crawford,0.94
+fiw,msceleb,F0162.6,m.0ch29kw,john crawford,John W. Crawford,0.94
+fiw,msceleb,F0162.6,m.0fvw56,john crawford,John R. Crawford,0.94
+fiw,msceleb,F0162.6,m.0glq3f2,john crawford,John McKinnon Crawford,0.94
+fiw,msceleb,F0162.6,m.0gvt9bw,john crawford,John Wallace Crawford,0.94
+fiw,msceleb,F0162.6,m.0k82y9c,john crawford,John Wilson Crawford,0.94
+fiw,msceleb,F0163.1,m.063g7l,terry crews,Terry Crews,1
+fiw,msceleb,F0163.2,m.0gykqw7,rebecca crews,Rebecca King-Crews,0.94
+fiw,msceleb,F0163.3,m.063g7l,terra crews,Terry Crews,0.9090909090909091
+fiw,msceleb,F0163.4,m.0gwqpnv,azriel crews,Azriel Crews,1
+fiw,msceleb,F0163.5,m.0n9d322,isaiah crews,Isaiah Crews,1
+fiw,msceleb,F0164.1,m.0dlmdn_,darren criss,Darren Criss,1
+fiw,msceleb,F0164.3,m.02r9tj2,charles criss,Charlie Criss,0.9230769230769231
+fiw,msceleb,F0165.1,m.01vsy9_,bing crosby,Bing Crosby,1
+fiw,msceleb,F0165.2,m.05_gr6,mary crosby,Mary Crosby,1
+fiw,msceleb,F0165.3,m.0925lj,harry crosby,Harry Crosby,1
+fiw,msceleb,F0165.3,m.02vwmj9,harry crosby,Harry W. Crosby,0.94
+fiw,msceleb,F0165.3,m.0j17gd6,harry crosby,Harry Lincoln Crosby,0.94
+fiw,msceleb,F0165.4,m.092mrr,nathaniel crosby,Nathaniel Crosby,1
+fiw,msceleb,F0165.5,m.074q6q,kathryn crosby,Kathryn Crosby,1
+fiw,msceleb,F0165.6,m.03l_y9,dennis crosby,Dennis Crosby,1
+fiw,msceleb,F0165.7,m.02q9xl7,gary crosby,Gary Crosby,1
+fiw,msceleb,F0165.8,m.092274,lindsay crosby,Lindsay Crosby,1
+fiw,msceleb,F0165.9,m.0922x6,phillip crosby,Phillip Crosby,1
+fiw,msceleb,F0166.1,m.06dv3,russell crowe,Russell Crowe,1
+fiw,msceleb,F0166.3,m.03d68v7,charles crowe,Charles Crowe,1
+fiw,msceleb,F0166.3,m.063wpfp,charles crowe,Charles Spencer Crowe,0.94
+fiw,msceleb,F0166.4,m.063xw6f,tennyson crowe,Tennyson Spencer Crowe,0.94
+fiw,msceleb,F0167.1,m.07r1h,tom cruise,Tom Cruise,1
+fiw,msceleb,F0167.3,m.02klfc3,suri cruise,Suri Cruise,1
+fiw,msceleb,F0167.4,m.04knr0d,isabella cruise,Isabella Jane Cruise,0.94
+fiw,msceleb,F0168.1,m.07j6ty,ted cruz,Ted Cruz,1
+fiw,msceleb,F0169.1,m.070507,benedict cumberbatch,Benedict Cumberbatch,1
+fiw,msceleb,F0170.1,m.03kxp7,kaley cuoco,Kaley Cuoco,1
+fiw,msceleb,F0171.1,m.02pjpd,andrew cuomo,Andrew Cuomo,1
+fiw,msceleb,F0171.4,m.02rtt7r,kerry cuomo,Jerry Cuomo,0.9090909090909091
+fiw,msceleb,F0171.6,m.0gbzy3l,michaela cuomo,Michael Cuomo,0.9629629629629629
+fiw,msceleb,F0172.1,m.01fwpt,joan cusack,Joan Cusack,1
+fiw,msceleb,F0172.5,m.091yzk,ann cusack,Ann Cusack,1
+fiw,msceleb,F0172.5,m.0b5kxhw,ann cusack,Ann Paula Cusack,0.94
+fiw,msceleb,F0172.6,m.0vpt2yy,john cusack,John Cusack,1
+fiw,msceleb,F0172.6,m.01fwpt,john cusack,Joan Cusack,0.9090909090909091
+fiw,msceleb,F0173.1,m.016qtt,billy cyrus,Billy Ray Cyrus,0.94
+fiw,msceleb,F0173.2,m.0bdxs5,miley cyrus,Miley Cyrus,1
+fiw,msceleb,F0173.3,m.07ykmdl,tish cyrus,Tish Cyrus,1
+fiw,msceleb,F0173.4,m.03wf794,brandi cyrus,Brandi Glenn Cyrus,0.94
+fiw,msceleb,F0173.5,m.047m830,trace cyrus,Trace Cyrus,1
+fiw,msceleb,F0173.6,m.04g4m5l,noah cyrus,Noah Cyrus,1
+fiw,msceleb,F0174.1,m.0169dl,matt damon,Matt Damon,1
+fiw,msceleb,F0174.2,m.04dml6c,kent damon,Kent Damon,1
+fiw,msceleb,F0174.5,m.04dmlcf,isabella damon,Isabella Damon,1
+fiw,msceleb,F0174.6,m.0h6jw2r,gia damon,Gia Zavala Damon,0.94
+fiw,msceleb,F0174.7,m.0h28vvv,stella damon,Stella Damon,1
+fiw,msceleb,F0175.1,m.02tc5y,hugh dancy,Hugh Dancy,1
+fiw,msceleb,F0176.1,m.02rkyj,serge dassault,Serge Dassault,1
+fiw,msceleb,F0176.3,m.08fcxz,olivier dassault,Olivier Dassault,1
+fiw,msceleb,F0179.1,m.0w_x887,nina davuluri,Nina Davuluri,1
+fiw,msceleb,F0182.1,m.01qscs,benicio del_toro,Benicio del Toro,0.96
+fiw,msceleb,F0184.1,m.013q3z,michael dell,Michael S. Dell,0.94
+fiw,msceleb,F0184.5,m.02_7s9g,adam dell,Adam R. Dell,0.94
+fiw,msceleb,F0185.3,m.0hhsmgk,jillian dempsey,Jillian Dempsey,1
+fiw,msceleb,F0185.5,m.02qtgzm,mary dempsey,Mark Dempsey,0.9166666666666666
+fiw,msceleb,F0186.1,m.0lpjn,judith dench,Judi Dench,0.9090909090909091
+fiw,msceleb,F0187.1,m.0c01c,alyson hannigan,Alyson Hannigan,1
+fiw,msceleb,F0188.1,m.0jfx1,johnny depp,Johnny Depp,1
+fiw,msceleb,F0188.2,m.04flf86,john depp,John Christopher Depp,0.94
+fiw,msceleb,F0188.5,m.04flfgj,lily depp,Lily-Rose Depp,0.94
+fiw,msceleb,F0189.1,m.03rl84,zooey deschanel,Zooey Deschanel,1
+fiw,msceleb,F0189.2,m.03vd_l,emily deschanel,Emily Deschanel,1
+fiw,msceleb,F0189.3,m.03rqww,caleb deschanel,Caleb Deschanel,1
+fiw,msceleb,F0189.4,m.0dwrpb,mary deschanel,Mary Jo Deschanel,0.94
+fiw,msceleb,F0190.1,m.0dvmd,leonardo dicaprio,Leonardo DiCaprio,1
+fiw,msceleb,F0190.2,m.04wq56,george dicaprio,George DiCaprio,1
+fiw,msceleb,F0191.1,m.02624g,peter dinklage,Peter Dinklage,1
+fiw,msceleb,F0191.4,m.0gyj3t5,jonathan dinklage,Jonathan Dinklage,1
+fiw,msceleb,F0192.1,m.081nh,walter disney,Walt Disney,0.9166666666666666
+fiw,msceleb,F0192.2,m.02nj20,lillian disney,Lillian Disney,1
+fiw,msceleb,F0192.3,m.07kyh5,sharon disney,Sharon Mae Disney,0.94
+fiw,msceleb,F0192.5,m.015yg9,roy disney,Roy O. Disney,0.94
+fiw,msceleb,F0192.5,m.015_2l,roy disney,Roy E. Disney,0.94
+fiw,msceleb,F0192.6,m.0fq8ws,flora disney,Flora Call Disney,0.94
+fiw,msceleb,F0192.7,m.0gy738g,ruth disney,Ruth Flora Disney,0.94
+fiw,msceleb,F0192.8,m.015xg2,elias disney,Elias Disney,1
+fiw,msceleb,F0193.1,m.04g1950,michael douglas,Michael Douglas,1
+fiw,msceleb,F0193.1,m.032pz5,michael douglas,Michael R. Douglas,0.94
+fiw,msceleb,F0193.2,m.07wsgq,catherine douglas,Catherine Douglas,1
+fiw,msceleb,F0193.3,m.0644nhv,dylan douglas,Dylan Michael Douglas,0.94
+fiw,msceleb,F0193.4,m.0644q6j,carys douglas,Carys Zeta Douglas,0.94
+fiw,msceleb,F0193.5,m.0h26lm,cameron douglas,Cameron Douglas,1
+fiw,msceleb,F0193.6,m.0j582,kirk douglas,Kirk Douglas,1
+fiw,msceleb,F0193.9,m.02qbbqs,joel douglas,Joel Douglas,1
+fiw,msceleb,F0193.11,m.07vrk_j,anne douglas,Anne Scripps Douglas,0.94
+fiw,msceleb,F0194.3,m.0gxtv8m,indio downey,Indio Falconer Downey,0.94
+fiw,msceleb,F0197.1,m.06c_zx,heather dubrow,Heather Dubrow,1
+fiw,msceleb,F0198.5,m.0g9xp1x,doug ducey,Doug Ducey,1
+fiw,msceleb,F0199.1,m.0lk90,hilary duff,Hilary Duff,1
+fiw,msceleb,F0199.5,m.02kkphl,susan duff,Susan Wheeler Duff,0.94
+fiw,msceleb,F0199.5,m.09044_,susan duff,Susan Colleen Duff,0.94
+fiw,msceleb,F0199.6,m.014v6x,haylie duff,Haylie Duff,1
+fiw,msceleb,F0200.2,m.05lvyg,jon duhamel,Ron Duhamel,0.9090909090909091
+fiw,msceleb,F0200.4,m.0331m0,josh duhamel,Josh Duhamel,1
+fiw,msceleb,F0201.1,m.0gcl8c7,paige dunham,Paige Dunham,1
+fiw,msceleb,F0201.3,m.0ch_0g,jeff dunham,Jeff Dunham,1
+fiw,msceleb,F0202.1,m.0gxrc1,kevin durant,Kevin Durant,1
+fiw,msceleb,F0202.5,m.06107g,tony durant,Tony Durant,1
+fiw,msceleb,F0203.2,m.08c8zn,sara dylan,Sara Dylan,1
+fiw,msceleb,F0203.5,m.035plv,jakob dylan,Jakob Dylan,1
+fiw,msceleb,F0203.6,m.05yw4_,jesse dylan,Jesse Dylan,1
+fiw,msceleb,F0205.3,m.05c2np_,scott eastwood,Scott Eastwood,1
+fiw,msceleb,F0205.4,m.0bwh6,clint eastwood,Clint Eastwood,1
+fiw,msceleb,F0205.5,m.074r6j,dina eastwood,Dina Eastwood,1
+fiw,msceleb,F0205.6,m.082857,kyle eastwood,Kyle Eastwood,1
+fiw,msceleb,F0205.7,m.048z00,allison eastwood,Alison Eastwood,0.967741935483871
+fiw,msceleb,F0205.8,m.05c4cd7,morgan eastwood,Morgan Eastwood,1
+fiw,msceleb,F0206.1,m.0hctb,nolan ryan,Nolan Ryan,1
+fiw,msceleb,F0206.3,m.0416yhl,reid ryan,Reid Ryan,1
+fiw,msceleb,F0206.4,m.03wwvm5,robert ryan,Robert L. Ryan,0.94
+fiw,msceleb,F0206.4,m.0gcks2b,robert ryan,Robert Michael Ryan,0.94
+fiw,msceleb,F0207.1,m.0253kx,bernie ecclestone,Bernie Ecclestone,1
+fiw,msceleb,F0207.2,m.0d_zjh,tamara ecclestone,Tamara Ecclestone,1
+fiw,msceleb,F0208.1,m.02q0vln,frankie edgar,Frankie Edgar,1
+fiw,msceleb,F0209.1,m.07bty,thomas edison edison,Thomas Edison,0.94
+fiw,msceleb,F0209.2,m.03k0n4z,madeleine edison,Madeleine Edison,1
+fiw,msceleb,F0209.3,m.01drxp,charles edison,Charles Edison,1
+fiw,msceleb,F0209.4,m.03k0n48,william edison,William Leslie Edison,0.94
+fiw,msceleb,F0209.7,m.027_3d4,theodore edison,Theodore Miller Edison,0.94
+fiw,msceleb,F0210.1,m.06wm0z,zac efron,Zac Efron,1
+fiw,msceleb,F0211.1,m.028rk,dwight eisenhower,Dwight D. Eisenhower,0.94
+fiw,msceleb,F0211.2,m.025pp3,mamie eisenhower,Mamie Eisenhower,1
+fiw,msceleb,F0211.3,m.0hndlgh,doud eisenhower,Doud Eisenhower,1
+fiw,msceleb,F0211.4,m.03_zt4,john eisenhower,John Eisenhower,1
+fiw,msceleb,F0212.1,m.02bh9,danny elfman,Danny Elfman,1
+fiw,msceleb,F0212.2,m.0h7r98d,mali elfman,Mali Elfman,1
+fiw,msceleb,F0212.5,m.02k7dhd,oliver elfman,Oliver Elfman,1
+fiw,msceleb,F0213.1,m.01w6fyt,chris elliott,Chris Elliott,1
+fiw,msceleb,F0213.2,m.04yd575,abby elliott,Abby Elliott,1
+fiw,msceleb,F0214.1,m.01762z,larry ellison,Larry Ellison,1
+fiw,msceleb,F0214.2,m.0kt3k3,david ellison,David Ellison,1
+fiw,msceleb,F0214.3,m.0f135hx,megan ellison,Megan Ellison,1
+fiw,msceleb,F0215.1,m.01sthx,john elway,John Elway,1
+fiw,msceleb,F0215.2,m.05pv5vb,jack elway,Jack Elway,1
+fiw,msceleb,F0215.5,m.05pv5vb,jack elway elway,Jack Elway,0.94
+fiw,msceleb,F0216.1,m.0256f7,rahm emanuel,Rahm Emanuel,1
+fiw,msceleb,F0216.7,m.07b3vt,ari emanuel,Ari Emanuel,1
+fiw,msceleb,F0219.1,m.02_tv5,omar epps,Omar Epps,1
+fiw,msceleb,F0221.2,m.0331rx,renee estevez,Renée Estevez,0.9230769230769231
+fiw,msceleb,F0221.4,m.08s1w8,ramon estevez,Ramon Estevez,1
+fiw,msceleb,F0221.5,m.01z7s_,emilio estevez,Emilio Estevez,1
+fiw,msceleb,F0222.1,m.06mhpx,chris evans evans,Chris Evans,0.94
+fiw,msceleb,F0222.2,m.0g_jjn,scott evans evans,Scott Evans,0.94
+fiw,msceleb,F0222.2,m.0dm3l78,scott evans evans,Scott F. Evans,0.94
+fiw,msceleb,F0222.3,m.0j24fpz,lisa evans evans,Lisa Evans,0.94
+fiw,msceleb,F0223.1,m.07ncs0,peter facinelli,Peter Facinelli,1
+fiw,msceleb,F0223.3,m.0644_f7,luca facinelli,Luca Bella Facinelli,0.94
+fiw,msceleb,F0224.1,m.01n5309,jimmy fallon,Jimmy Fallon,1
+fiw,msceleb,F0225.1,m.0fthdk,dakota fanning,Dakota Fanning,1
+fiw,msceleb,F0225.2,m.05kyb8,elle fanning,Elle Fanning,1
+fiw,msceleb,F0225.3,m.07p6zkw,steven fanning,Steven Fanning,1
+fiw,msceleb,F0226.1,m.07yp0f,vera farmiga,Vera Farmiga,1
+fiw,msceleb,F0226.2,m.0h98s1h,taissa farmiga,Taissa Farmiga,1
+fiw,msceleb,F0227.1,m.0cm80mt,colin farrell,Colin Farrell,1
+fiw,msceleb,F0227.2,m.0b67bb1,eamonn farrell,Eamonn Farrell,1
+fiw,msceleb,F0227.4,m.0gxrgpq,rita farrell,Rita Farrell,1
+fiw,msceleb,F0227.5,m.09zsqf,henry farrell,Henry Farrell,1
+fiw,msceleb,F0227.5,m.0kbyhkt,henry farrell,Henry Tadeusz Farrell,0.94
+fiw,msceleb,F0228.1,m.0cv72h,brett favre,Brett Favre,1
+fiw,msceleb,F0229.1,m.01my95,roger federer,Roger Federer,1
+fiw,msceleb,F0229.2,m.07w9t_,mirka federer,Mirka Federer,1
+fiw,msceleb,F0231.4,m.0642z7g,carla fendi,Carla Fendi,1
+fiw,msceleb,F0233.1,m.02sdx,enrico fermi fermi,Enrico Fermi,0.94
+fiw,msceleb,F0233.4,m.06y7kq,laura capon fermi,Laura Fermi,0.94
+fiw,msceleb,F0234.1,m.018grr,will ferrell ferrell,Will Ferrell,0.94
+fiw,msceleb,F0235.3,m.03vgp7,miguel ferrer,Miguel Ferrer,1
+fiw,msceleb,F0235.7,m.0fkhl5,rafael ferrer,Rafael Ferrer,1
+fiw,msceleb,F0236.1,m.02vxpgr,michele ferrero,Michele Ferrero,1
+fiw,msceleb,F0236.2,m.04zy0lx,pietro ferrero,Pietro Ferrero,1
+fiw,msceleb,F0236.4,m.012bldbq,giovanni ferrero,Giovanni Ferrero,1
+fiw,msceleb,F0237.1,m.0pz7h,tina fey,Tina Fey,1
+fiw,msceleb,F0238.1,m.06crk,richard feynman,Richard Feynman,1
+fiw,msceleb,F0238.4,m.0krzyf,joan feynman,Joan Feynman,1
+fiw,msceleb,F0239.1,m.0170qf,ralph fiennes,Ralph Fiennes,1
+fiw,msceleb,F0239.1,m.02tflp,ralph fiennes,Ranulph Fiennes,0.9285714285714286
+fiw,msceleb,F0239.2,m.0m31m,joseph fiennes,Joseph Fiennes,1
+fiw,msceleb,F0239.3,m.0bbcqb,martha fiennes,Martha Fiennes,1
+fiw,msceleb,F0239.4,m.0bbd14,sophie fiennes,Sophie Fiennes,1
+fiw,msceleb,F0240.1,m.02mwvv,carly fiorina,Carly Fiorina,1
+fiw,msceleb,F0241.1,m.072bb1,jenna fischer fischer,Jenna Fischer,0.94
+fiw,msceleb,F0242.1,m.014gf8,lawrence fishburne,Laurence Fishburne,0.9444444444444444
+fiw,msceleb,F0242.4,m.0cnzkhp,montana fishburne,Montana Fishburne,1
+fiw,msceleb,F0243.1,m.037tyq,isla fisher,Isla Fisher,1
+fiw,msceleb,F0244.1,m.0hnp7,errol flynn,Errol Flynn,1
+fiw,msceleb,F0244.2,m.0gykz2d,sean flynn,Sean Flynn,1
+fiw,msceleb,F0244.7,m.06456pf,arnella flynn,Arnella Roma Flynn,0.94
+fiw,msceleb,F0245.1,m.01w3xqs,jared followill,Jared Followill,1
+fiw,msceleb,F0245.4,m.01w3xr8,nathan followill,Nathan Followill,1
+fiw,msceleb,F0245.5,m.0c72b2,caleb followill,Caleb Followill,1
+fiw,msceleb,F0246.1,m.0h1mt,jane fonda,Jane Fonda,1
+fiw,msceleb,F0246.5,m.0cj8x,henry fonda,Henry Fonda,1
+fiw,msceleb,F0246.7,m.0170vn,peter fonda,Peter Fonda,1
+fiw,msceleb,F0248.1,m.01qh2w,betty ford ford,Betty Ford,0.94
+fiw,msceleb,F0248.2,m.0c_md_,gerald ford ford,Gerald Ford,0.94
+fiw,msceleb,F0248.2,m.027c9y_,gerald ford ford,Gerald Rudolff Ford,0.94
+fiw,msceleb,F0248.2,m.04sjwf,gerald ford ford,Gerald J. Ford,0.94
+fiw,msceleb,F0248.3,m.0h7zlm,susan ford,Susan Ford,1
+fiw,msceleb,F0249.1,m.07ss2p,harrison ford,Harrison Ford,1
+fiw,msceleb,F0249.4,m.0byrfkw,malcolm ford,Malcolm Ford,1
+fiw,msceleb,F0249.4,m.0dsmfv,malcolm ford,Malcolm Webster Ford,0.94
+fiw,msceleb,F0249.6,m.051x819,mary ford,Mary Alice Ford,0.94
+fiw,msceleb,F0249.8,m.010b2t6r,emily ford,Emily Axford,0.9090909090909091
+fiw,msceleb,F0249.10,m.0gykqym,georgia ford,Georgia Ford,1
+fiw,msceleb,F0250.1,m.03gxm,henry ford,Henry Ford,1
+fiw,msceleb,F0250.1,m.05xffh3,henry ford,Henry Jones Ford,0.94
+fiw,msceleb,F0250.1,m.0d0484,henry ford,Henry Justice Ford,0.94
+fiw,msceleb,F0250.3,m.0263tps,edsel ford,Edsel Ford,1
+fiw,msceleb,F0251.1,m.05bdcg,rob ford,Rob Ford,1
+fiw,msceleb,F0251.9,m.03d08cj,douglas ford,Douglas Ford,1
+fiw,msceleb,F0252.1,m.0chw_,jodie foster,Jodie Foster,1
+fiw,msceleb,F0252.2,m.0266fmg,charles foster,Charles A. Foster,0.94
+fiw,msceleb,F0252.2,m.05wv4q8,charles foster,Charles R. Foster,0.94
+fiw,msceleb,F0252.2,m.0gy5xly,charles foster,Charles Bernard Foster,0.94
+fiw,msceleb,F0252.4,m.0b6z0nx,connie foster,Connie Foster,1
+fiw,msceleb,F0252.5,m.0n49jp3,buddy foster,Buddy Foster,1
+fiw,msceleb,F0253.1,m.05vk_d,megan fox fox,Megan Fox,0.94
+fiw,msceleb,F0254.1,m.01wmxfs,jamie foxx,Jamie Foxx,1
+fiw,msceleb,F0255.1,m.05bnp0,james franco franco,James Franco,0.94
+fiw,msceleb,F0256.1,m.01c9j8,otto frank,Otto Frank,1
+fiw,msceleb,F0256.2,m.07jbww,edith frank,Edith Frank,1
+fiw,msceleb,F0256.3,m.03d9rk,anne frank,Anne Frank,1
+fiw,msceleb,F0256.4,m.05xttd,margot frank,Margot Frank,1
+fiw,msceleb,F0256.5,m.07pf4g,robert frank,Robert H. Frank,0.94
+fiw,msceleb,F0256.6,m.073jm1m,herbert frank,Herbert Frank,1
+fiw,msceleb,F0256.6,m.03c5670,herbert frank,J. Herbert Frank,0.9285714285714286
+fiw,msceleb,F0257.1,m.0yz1b4t,connor franta,Connor Franta,1
+fiw,msceleb,F0258.1,m.04z0g,milton friedman,Milton Friedman,1
+fiw,msceleb,F0258.2,m.06g0rk,rose friedman,Rose Friedman,1
+fiw,msceleb,F0258.2,m.0108511t,rose friedman,Ross Friedman,0.9230769230769231
+fiw,msceleb,F0259.1,m.0cbmmf,morgan freeman freeman,Morgan J. Freeman,0.94
+fiw,msceleb,F0259.1,m.0hjb_75,morgan freeman freeman,Morgan Porterfield Freeman,0.94
+fiw,msceleb,F0259.2,m.043qm7k,alfonso freeman,Alfonso Freeman,1
+fiw,msceleb,F0259.4,m.0gxsjg6,morgana freeman,Morgana Freeman,1
+fiw,msceleb,F0260.3,m.02w_gfj,seth gabel,Seth Gabel,1
+fiw,msceleb,F0262.1,m.05sg7z,jim gaffigan,Jim Gaffigan,1
+fiw,msceleb,F0263.1,m.02_0d2,zach galifianakis,Zach Galifianakis,1
+fiw,msceleb,F0264.1,m.04xfb,mahatma gandhi,Mahatma Gandhi,1
+fiw,msceleb,F0264.2,m.03x56j,harilal gandhi,Harilal Gandhi,1
+fiw,msceleb,F0264.6,m.0397gp,kasturba gandhi,Kasturba Gandhi,1
+fiw,msceleb,F0264.7,m.04bqxz,ramdas gandhi,Ramdas Gandhi,1
+fiw,msceleb,F0264.8,m.04bqxm,manilal gandhi,Manilal Gandhi,1
+fiw,msceleb,F0265.1,m.08qq05,eric garcetti,Eric Garcetti,1
+fiw,msceleb,F0267.1,m.0fjmbk,andrew garfield,Andrew Garfield,1
+fiw,msceleb,F0267.3,m.064p6c2,richard garfield,Richard Garfield,1
+fiw,msceleb,F0268.1,m.014gsd,pau gasol,Pau Gasol,1
+fiw,msceleb,F0268.2,m.09b01n,marc gasol,Marc Gasol,1
+fiw,msceleb,F0269.1,m.017nt,bill gates,Bill Gates,1
+fiw,msceleb,F0269.2,m.0dmp4,melinda gates,Melinda Gates,1
+fiw,msceleb,F0269.3,m.02s5z69,jennifer gates,Jennifer Katharine Gates,0.94
+fiw,msceleb,F0269.4,m.02n_gxg,phoebe gates,Phoebe Adele Gates,0.94
+fiw,msceleb,F0269.4,m.0151fv,phoebe gates,Phoebe Cates,0.9166666666666666
+fiw,msceleb,F0269.6,m.02n_gx7,rory gates,Rory John Gates,0.94
+fiw,msceleb,F0270.2,m.0bc3by0,natali germanotta,Natali Germanotta,1
+fiw,msceleb,F0270.3,m.05nmqzn,joseph germanotta,Joe Germanotta,0.9032258064516129
+fiw,msceleb,F0270.4,m.05nmr3j,cynthia germanotta,Cynthia Germanotta,1
+fiw,msceleb,F0271.1,m.01l1b90,tyrese gibson,Tyrese Gibson,1
+fiw,msceleb,F0272.1,m.0c1pj,mel gibson,Mel Gibson,1
+fiw,msceleb,F0272.2,m.0fp3tc,robyn gibson,Robyn Moore Gibson,0.94
+fiw,msceleb,F0272.3,m.03f1hwn,hannah gibson,Hannah Gibson,1
+fiw,msceleb,F0272.4,m.0j11q8_,lucia gibson,Lucia Gibson,1
+fiw,msceleb,F0273.1,m.0c63ld,cam gigandet,Cam Gigandet,1
+fiw,msceleb,F0274.1,m.0gnfc4,kirsten gillibrand,Kirsten Gillibrand,1
+fiw,msceleb,F0275.1,m.080cgxy,olivier giroud,Olivier Giroud,1
+fiw,msceleb,F0277.1,m.0gs6vr,selena gomez,Selena Gomez,1
+fiw,msceleb,F0277.3,m.0dglmg8,ricardo gomez,Ricardo Joel Gomez,0.94
+fiw,msceleb,F0278.3,m.03d5sfn,alex gonzaga,Alex Gonzaga,1
+fiw,msceleb,F0278.4,m.049fmby,tony gonzaga,Toni Gonzaga,0.9166666666666666
+fiw,msceleb,F0279.1,m.0jv6jv,hinduja hinduja,Hinduja,0.94
+fiw,msceleb,F0280.1,m.058md,mikhail gorbachev,Mikhail Sergeyevich Gorbachev,0.94
+fiw,msceleb,F0280.3,m.0120qs,raisa gorbachev,Raisa Gorbacheva,0.967741935483871
+fiw,msceleb,F0281.1,m.0d05fv,al gore,Al Gore,1
+fiw,msceleb,F0282.1,m.05j1wlp,hannah gosselin,Hannah Joy Gosselin,0.94
+fiw,msceleb,F0282.2,m.05j1wmf,alexis gosselin,Alexis Faith Gosselin,0.94
+fiw,msceleb,F0282.3,m.05j1wl3,joel gosselin,Joel Kevin Gosselin,0.94
+fiw,msceleb,F0282.4,m.05j1wlh,aaden gosselin,Aaden Jonathan Gosselin,0.94
+fiw,msceleb,F0282.5,m.05j1wl9,leah gosselin,Leah Hope Gosselin,0.94
+fiw,msceleb,F0282.6,m.05j1wm1,collin gosselin,Collin Thomas Gosselin,0.94
+fiw,msceleb,F0282.7,m.05j1wlw,cara gosselin,Cara Nicole Gosselin,0.94
+fiw,msceleb,F0282.8,m.05qbc_9,kate gosselin,Kate Gosselin,1
+fiw,msceleb,F0282.9,m.046s1z1,john gosselin,Jon Gosselin,0.96
+fiw,msceleb,F0282.10,m.05j1wm7,madelyn gosselin,Madelyn Kate Gosselin,0.94
+fiw,msceleb,F0284.1,m.09gkdy4,ariana grande,Ariana Grande,1
+fiw,msceleb,F0284.2,m.0k2_pc3,frankie grande,Frankie J. Grande,0.94
+fiw,msceleb,F0285.1,m.06p0q8,deron williams,Deron Williams,1
+fiw,msceleb,F0285.3,m.091qv3d,amy williams,Amy Williams,1
+fiw,msceleb,F0286.1,m.07kcclw,hank green,Hank Green,1
+fiw,msceleb,F0286.2,m.03d3c5,john green,John Willison Green,0.94
+fiw,msceleb,F0286.2,m.04jh_r,john green,John Leslie Green,0.94
+fiw,msceleb,F0286.2,m.05ykn2d,john green,John C. Green,0.94
+fiw,msceleb,F0286.2,m.080lbg1,john green,John Francis Green,0.94
+fiw,msceleb,F0286.4,m.06w35m1,henry green,Henry W. Green,0.94
+fiw,msceleb,F0286.4,m.0gghj4,henry green,Henry Dickinson Green,0.94
+fiw,msceleb,F0288.1,m.0839s,wayne gretzky,Wayne Gretzky,1
+fiw,msceleb,F0288.5,m.0j2h3yn,tristan gretzky,Tristan Gretzky,1
+fiw,msceleb,F0288.6,m.02314q,paulina gretzky,Paulina Gretzky,1
+fiw,msceleb,F0289.1,m.0285c,dave grohl,Dave Grohl,1
+fiw,msceleb,F0290.2,m.02rbh5p,mammie gummer,Mamie Gummer,0.96
+fiw,msceleb,F0290.3,m.09v5vgp,grace gummer,Grace Gummer,1
+fiw,msceleb,F0290.4,m.0643m3g,louisa gummer,Louisa Jacobson Gummer,0.94
+fiw,msceleb,F0290.5,m.06jnnf,don gummer,Don Gummer,1
+fiw,msceleb,F0291.1,m.080ly8j,vicki gunvalson,Vicki Gunvalson,1
+fiw,msceleb,F0293.1,m.08hpv7,richard gutierrez,Richard Gutierrez,1
+fiw,msceleb,F0293.2,m.08khg3,ruffa gutierrez,Ruffa Gutierrez,1
+fiw,msceleb,F0293.3,m.08mx7j,raymond gutierrez,Raymond Gutierrez,1
+fiw,msceleb,F0293.5,m.0cc62xp,eddie gutierrez,Eddie Gutierrez,1
+fiw,msceleb,F0293.6,m.0gb_r5l,elvis gutierrez,Elvis Gutierrez,1
+fiw,msceleb,F0294.1,m.0bq2g,gwyneth paltrow,Gwyneth Paltrow,1
+fiw,msceleb,F0295.1,m.023mdt,maggie gyllenhaal,Maggie Gyllenhaal,1
+fiw,msceleb,F0295.2,m.02js6_,jake gyllenhaal,Jake Gyllenhaal,1
+fiw,msceleb,F0295.3,m.06dr9y,stephen gyllenhaal,Stephen Gyllenhaal,1
+fiw,msceleb,F0295.4,m.06dr2c,naomi gyllenhaal,Naomi Foner Gyllenhaal,0.94
+fiw,msceleb,F0296.2,m.0105fj_p,gigi hadid,Gigi Hadid,1
+fiw,msceleb,F0296.4,m.04g2fh6,mohamed hadid,Mohammed Hadid,0.9629629629629629
+fiw,msceleb,F0297.1,m.0bv796,kathryn hahn,Kathryn Hahn,1
+fiw,msceleb,F0298.1,m.027fsyf,nikki haley,Nikki Haley,1
+fiw,msceleb,F0298.2,m.0gbx27l,michael haley,Michael Haley,1
+fiw,msceleb,F0299.1,m.0154d7,mark hamill,Mark Hamill,1
+fiw,msceleb,F0300.1,m.01pyxhr,george hamilton,George Hamilton IV,0.9090909090909091
+fiw,msceleb,F0300.1,m.0426_n,george hamilton,George Rostrevor Hamilton,0.94
+fiw,msceleb,F0300.1,m.0_y8_hj,george hamilton,George Heard Hamilton,0.94
+fiw,msceleb,F0300.1,m.0dsf1_,george hamilton,George Wellesley Hamilton,0.94
+fiw,msceleb,F0300.3,m.01v39yb,ashley hamilton,Ashley Hamilton,1
+fiw,msceleb,F0301.1,m.0g538tf,harold hamm,Harold Hamm,1
+fiw,msceleb,F0304.1,m.04rmtv,jim harbaugh,Jim Harbaugh,1
+fiw,msceleb,F0304.2,m.0c2fvr,john harbaugh,John Harbaugh,1
+fiw,msceleb,F0304.2,m.05w_2tc,john harbaugh,John Warvelle Harbaugh,0.94
+fiw,msceleb,F0304.3,m.0c2fvr,john harbaugh,John Harbaugh,1
+fiw,msceleb,F0304.3,m.05w_2tc,john harbaugh,John Warvelle Harbaugh,0.94
+fiw,msceleb,F0305.1,m.05p0v4x,edward hardy,Edward Hardy,1
+fiw,msceleb,F0307.2,m.027j40,mariska hargitay,Mariska Hargitay,1
+fiw,msceleb,F0307.4,m.0jyv4n,peter hargitay,Peter Hargitay,1
+fiw,msceleb,F0309.1,m.0787mg,eddie brown,Eddie Brown,1
+fiw,msceleb,F0309.1,m.0ffppn,eddie brown,"Eddie \""Bongo\"" Brown",0.94
+fiw,msceleb,F0309.1,m.0hr56wk,eddie brown,Eddie C. Brown,0.94
+fiw,msceleb,F0309.2,m.09v1tx9,antonio brown,Antonio Brown,1
+fiw,msceleb,F0309.6,m.05bw1m,chelsea brown,Chelsea Brown,1
+fiw,msceleb,F0311.3,m.099w_f,dave harris,Dave Harris,1
+fiw,msceleb,F0311.4,m.0cpsqj,neil harris,Neil Harris,1
+fiw,msceleb,F0311.4,m.0347db,neil harris,Neil Patrick Harris,0.94
+fiw,msceleb,F0312.2,m.0gy5wzz,torrei hart,Torrei Hart,1
+fiw,msceleb,F0313.1,m.0c1gv6,robert hartono,Robert Budi Hartono,0.94
+fiw,msceleb,F0313.2,m.0r8pmy2,michael hartono,Michael Bambang Hartono,0.94
+fiw,msceleb,F0315.1,m.03zy1_,matt hasselbeck,Matt Hasselbeck,1
+fiw,msceleb,F0315.2,m.075wzy,tim hasselbeck,Tim Hasselbeck,1
+fiw,msceleb,F0315.4,m.0b5pkg,don hasselbeck,Don Hasselbeck,1
+fiw,msceleb,F0316.1,m.02vntj,anne hathaway,Anne Hathaway,1
+fiw,msceleb,F0316.2,m.07ylp2d,kate hathaway,Kate McCauley Hathaway,0.94
+fiw,msceleb,F0316.5,m.07ylp26,gerald hathaway,Gerald Hathaway,1
+fiw,msceleb,F0317.1,m.01tdnyh,stephen hawking,Stephen Hawking,1
+fiw,msceleb,F0317.2,m.05svgvt,jane hawking,Jane Wilde Hawking,0.94
+fiw,msceleb,F0317.4,m.0bzx8y,lucy hawking,Lucy Hawking,1
+fiw,msceleb,F0317.5,m.05svgy2,robert hawking,Robert Hawking,1
+fiw,msceleb,F0317.6,m.05svgfy,mary hawking,Mary Hawking,1
+fiw,msceleb,F0318.1,m.06x58,salma hayek,Salma Hayek,1
+fiw,msceleb,F0319.1,m.01pl9g,rita hayworth,Rita Hayworth,1
+fiw,msceleb,F0320.1,m.0825l,werner heisenberg,Werner Heisenberg,1
+fiw,msceleb,F0320.4,m.0dzq97,maria heisenberg,Martin Heisenberg,0.9090909090909091
+fiw,msceleb,F0320.5,m.0dzq97,martin heisenberg,Martin Heisenberg,1
+fiw,msceleb,F0320.6,m.043sg_8,jochen heisenberg,Jochen Heisenberg,1
+fiw,msceleb,F0320.11,m.0c42kby,elisabeth heisenberg,Elisabeth Heisenberg,1
+fiw,msceleb,F0321.1,m.0h7plyk,grace helbig,Grace Helbig,1
+fiw,msceleb,F0322.1,m.04yd0fh,liam hemsworth,Liam Hemsworth,1
+fiw,msceleb,F0322.2,m.04jnqj,chris hemsworth,Chris Hemsworth,1
+fiw,msceleb,F0322.3,m.02rlp16,luke hemsworth,Luke Hemsworth,1
+fiw,msceleb,F0323.3,m.0cv400,jean guillaume,Jean Guillaume,1
+fiw,msceleb,F0324.1,m.0dqcm,audrey hepburn,Audrey Hepburn,1
+fiw,msceleb,F0325.1,m.0dbg7w,gary herbert,Gary Herbert,1
+fiw,msceleb,F0326.1,m.0ng0k76,peter (bruno) hernandez,Peter Hernandez,0.94
+fiw,msceleb,F0326.4,m.0ng0k76,peter hernandez,Peter Hernandez,1
+fiw,msceleb,F0326.5,m.0n9jckr,tahiti hernandez,Tahiti Hernandez,1
+fiw,msceleb,F0326.6,m.0n9jcdv,jamie hernandez,Jamie Hernandez,1
+fiw,msceleb,F0326.7,m.0n9jcg6,presley hernandez,Presley Hernandez,1
+fiw,msceleb,F0326.8,m.0n9jchj,tiara hernandez,Tiara Hernandez,1
+fiw,msceleb,F0327.1,m.0227vl,paris hilton,Paris Hilton,1
+fiw,msceleb,F0327.3,m.01wwbz4,richard hilton,Richard Hilton,1
+fiw,msceleb,F0327.4,m.02h___,nicky hilton,Nicky Hilton,1
+fiw,msceleb,F0327.5,m.0n11z,conrad iii hilton,Conrad Hilton,0.94
+fiw,msceleb,F0327.5,m.05mxldp,conrad iii hilton,Conrad Hughes Hilton,0.94
+fiw,msceleb,F0327.6,m.033tjw,barron hilton,Barron Hilton,1
+fiw,msceleb,F0328.1,m.0h95jyr,nick hissom,Nick Hissom,1
+fiw,msceleb,F0330.1,m.0bl2g,dustin hoffman,Dustin Hoffman,1
+fiw,msceleb,F0330.3,m.0gkxg7b,lisa hoffman,Lisa Hoffman,1
+fiw,msceleb,F0330.5,m.04795w9,alexandra hoffman,Alexandra Hoffman,1
+fiw,msceleb,F0331.2,m.0h_71rj,tallulah hoffman,Tallulah Hoffman,1
+fiw,msceleb,F0331.4,m.02r9t0y,philip hoffman,Philip Hoffman,1
+fiw,msceleb,F0331.4,m.02qgqt,philip hoffman,Philip Seymour Hoffman,0.94
+fiw,msceleb,F0331.4,m.04glp23,philip hoffman,Philip Guthrie Hoffman,0.94
+fiw,msceleb,F0332.1,m.0_ylz5n,larry hogan,Larry Hogan,1
+fiw,msceleb,F0333.1,m.01_1wr,lou hoover,Lou Henry Hoover,0.94
+fiw,msceleb,F0333.3,m.04g5dxf,allan hoover,Allan Hoover,1
+fiw,msceleb,F0333.5,m.03m6921,margaret hoover,Margaret Hoover,1
+fiw,msceleb,F0335.1,m.06tjh6,nicholas hoult,Nicholas Hoult,1
+fiw,msceleb,F0335.3,m.0j8q1rv,rosanna hoult,Rosanna Hoult,1
+fiw,msceleb,F0336.1,m.086qd,whitney houston,Whitney Houston,1
+fiw,msceleb,F0336.3,m.01vt9nv,cissy houston,Cissy Houston,1
+fiw,msceleb,F0338.1,m.0lf9j,ronald howard,Ronald Howard,1
+fiw,msceleb,F0338.1,m.04jcz3,ronald howard,Ronald A. Howard,0.94
+fiw,msceleb,F0338.1,m.084zwk,ronald howard,Ronald Ray Howard,0.94
+fiw,msceleb,F0338.2,m.03kbb8,bryce howard,Bryce Dallas Howard,0.94
+fiw,msceleb,F0338.4,m.09trbys,paige howard,Paige Carlyle Howard,0.94
+fiw,msceleb,F0339.1,m.06g2d1,terrence howard,Terrence Howard,1
+fiw,msceleb,F0340.1,m.09h4b5,vanessa hudgens,Vanessa Hudgens,1
+fiw,msceleb,F0340.3,m.0cmtt2,stella hudgens,Stella Hudgens,1
+fiw,msceleb,F0341.1,m.01g23m,kate hudson,Kate Hudson,1
+fiw,msceleb,F0341.3,m.05bn39,oliver hudson,Oliver Hudson,1
+fiw,msceleb,F0342.2,m.0bvs3ns,david hudson,David J. Hudson,0.94
+fiw,msceleb,F0342.3,m.0k9y251,angela hudson,Angela Hudson,1
+fiw,msceleb,F0342.4,m.04tn3rv,keith hudson,Keith Hudson,1
+fiw,msceleb,F0342.4,m.03y9nm0,keith hudson,"Keith \""Tryfle\"" Hudson",0.94
+fiw,msceleb,F0342.5,m.0fqq11x,mary hudson,Mary Hudson,1
+fiw,msceleb,F0343.1,m.07mnx,ted hughes,Ted Hughes,1
+fiw,msceleb,F0343.3,m.02nnt22,nicholas hughes,Nicholas Hughes,1
+fiw,msceleb,F0343.4,m.07r4yw,frieda hughes,Frieda Hughes,1
+fiw,msceleb,F0344.1,m.027693h,matt hummels,Mats Hummels,0.9166666666666666
+fiw,msceleb,F0344.2,m.0j4z9nn,jonas hummels,Jonas Hummels,1
+fiw,msceleb,F0345.1,m.01pnn3,elizabeth hurley,Elizabeth Hurley,1
+fiw,msceleb,F0345.2,m.01tshx7,steve bing hurley,"Steve \""Silk\"" Hurley",0.94
+fiw,msceleb,F0345.4,m.0644psb,damian hurley,Damian Charles Hurley,0.94
+fiw,msceleb,F0347.2,m.0gy8l7p,connor hutcherson,Connor Hutcherson,1
+fiw,msceleb,F0348.1,m.0367hz,zlatan ibrahimovic,Zlatan Ibrahimović,0.9444444444444444
+fiw,msceleb,F0349.1,m.021zp0,roberto alomar,Roberto Alomar,1
+fiw,msceleb,F0349.6,m.021zp0,robertito alomar,Roberto Alomar,0.9333333333333333
+fiw,msceleb,F0350.1,m.0swd5,julio iglesias,Julio Iglesias,1
+fiw,msceleb,F0350.1,m.03gw5v6,julio iglesias,Julio Cesar Iglesias,0.94
+fiw,msceleb,F0350.2,m.01rckj,chabeli iglesias,Chabeli Iglesias,1
+fiw,msceleb,F0350.3,m.01s7ns,enrique iglesias,Enrique Iglesias,1
+fiw,msceleb,F0350.3,m.02qj82,enrique iglesias,Enrique V. Iglesias,0.94
+fiw,msceleb,F0352.1,m.016ywr,jeremy irons,Jeremy Irons,1
+fiw,msceleb,F0352.2,m.0gfn62h,max irons,Max Irons,1
+fiw,msceleb,F0353.1,m.02qqlrd,steve irwin,Steve Irwin,1
+fiw,msceleb,F0353.2,m.05qxxg,terri irwin,Terri Irwin,1
+fiw,msceleb,F0353.3,m.04y65nl,robert irwin,Robert Irwin,1
+fiw,msceleb,F0353.3,m.0g53tj7,robert irwin,Robert George Irwin,0.94
+fiw,msceleb,F0353.4,m.0h308_,bindi irwin,Bindi Irwin,1
+fiw,msceleb,F0354.1,m.03h_9lg,hugh jackman,Hugh Jackman,1
+fiw,msceleb,F0354.3,m.05v4j_z,oscar jackman,Oscar Maximilian Jackman,0.94
+fiw,msceleb,F0354.4,m.05v4j_s,ava jackman,Ava Eliot Jackman,0.94
+fiw,msceleb,F0354.6,m.03whg4s,christopher jackman,Christopher Jackman,1
+fiw,msceleb,F0355.1,m.04y6brr,georgia jagger,Georgia May Jagger,0.94
+fiw,msceleb,F0355.2,m.01kx_81,mick jagger,Mick Jagger,1
+fiw,msceleb,F0355.4,m.066xc8,jade jagger,Jade Jagger,1
+fiw,msceleb,F0356.1,m.01jz6d,lebron james,LeBron James,1
+fiw,msceleb,F0357.5,m.043n6dp,rob kardashian kardashian,Rob Kardashian,0.94
+fiw,msceleb,F0357.7,m.043ttm7,kourtney kardashian kardashian,Kourtney Kardashian,0.94
+fiw,msceleb,F0357.8,m.0261x8t,kim kardashian kardashian,Kim Kardashian,0.94
+fiw,msceleb,F0359.1,m.02r39q7,ken jeong,Ken Jeong,1
+fiw,msceleb,F0360.1,m.035rtn,lauralee bell,Lauralee Bell,1
+fiw,msceleb,F0360.4,m.0112q232,samantha bell,Samantha Nell,0.9230769230769231
+fiw,msceleb,F0360.5,m.027sb4c,william bell,William Yancy Bell,0.94
+fiw,msceleb,F0360.5,m.02pz0mp,william bell,William A. Bell,0.94
+fiw,msceleb,F0360.5,m.02r8j9f,william bell,William R. Bell,0.94
+fiw,msceleb,F0360.5,m.03m7ysh,william bell,William Brent Bell,0.94
+fiw,msceleb,F0360.5,m.057d89,william bell,William J. Bell,0.94
+fiw,msceleb,F0360.5,m.05pck6f,william bell,William Henry Bell,0.94
+fiw,msceleb,F0360.6,m.05_6dz,lee bell,Lee Phillip Bell,0.94
+fiw,msceleb,F0361.1,m.01yznp,penn jillette,Penn Jillette,1
+fiw,msceleb,F0362.1,m.049356,bobby jindal,Bobby Jindal,1
+fiw,msceleb,F0363.1,m.06y3r,steve jobs,Steve Jobs,1
+fiw,msceleb,F0363.2,m.025zhrp,laurene jobs,Laurene Powell Jobs,0.94
+fiw,msceleb,F0363.3,m.02jvr_q,reed jobs,Reed Jobs,1
+fiw,msceleb,F0363.4,m.02jvsf5,eve jobs,Eve Jobs,1
+fiw,msceleb,F0363.5,m.02jvs6w,erin jobs,Erin Siena Jobs,0.94
+fiw,msceleb,F0363.6,m.0269sm0,lisa jobs,Lisa Brennan-Jobs,0.94
+fiw,msceleb,F0364.1,m.0b_j2,billy joel,Billy Joel,1
+fiw,msceleb,F0364.2,m.07t_qv,alexa joel,Alexa Ray Joel,0.94
+fiw,msceleb,F0365.1,m.02114t,scarlett johansson,Scarlett Johansson,1
+fiw,msceleb,F0365.3,m.02klf7b,hunter johansson,Hunter Johansson,1
+fiw,msceleb,F0366.1,m.01vrz41,elton john,Elton John,1
+fiw,msceleb,F0367.1,m.04yj5z,john leguizamo,John Leguizamo,1
+fiw,msceleb,F0367.3,m.0ct2dd2,allegra leguizamo,Allegra Leguizamo,1
+fiw,msceleb,F0367.4,m.0ct2ddf,lucas leguizamo,Lucas Leguizamo,1
+fiw,msceleb,F0368.1,m.0g_p9q,dakota johnson,Dakota Johnson,1
+fiw,msceleb,F0368.2,m.02qftzj,don johnson,Don L. Johnson,0.94
+fiw,msceleb,F0368.7,m.0h1bmky,grace johnson,Grace Mott Johnson,0.94
+fiw,msceleb,F0369.1,m.05h2f5k,demetrious johnson,Demetrious Johnson,1
+fiw,msceleb,F0370.2,m.06451h7,simone johnson,Simone Alexandra Johnson,0.94
+fiw,msceleb,F0370.4,m.0cpmg2g,ata johnson,Ata Johnson,1
+fiw,msceleb,F0371.2,m.0c56jn,michelle johnson,Michelle D. Johnson,0.94
+fiw,msceleb,F0372.1,m.0f7fy,lyndon johnson,Lyndon B. Johnson,0.94
+fiw,msceleb,F0372.1,m.02z4yhc,lyndon johnson,Lyndon Johnston,0.9655172413793104
+fiw,msceleb,F0372.2,m.02vrd04,claudia johnson,Claudia L. Johnson,0.94
+fiw,msceleb,F0372.3,m.062zn8,luci johnson,Luci Baines Johnson,0.94
+fiw,msceleb,F0372.4,m.0ncmchb,lynda johnson,Lynda Johnson,1
+fiw,msceleb,F0372.5,m.03qp5_2,patrick lyndon nugent johnson,Patrick Read Johnson,0.94
+fiw,msceleb,F0372.7,m.01fpkg,lady johnson,Lady Bird Johnson,0.94
+fiw,msceleb,F0374.1,m.04f7c55,nick jonas,Nick Jonas,1
+fiw,msceleb,F0374.2,m.04d_mtq,kevin jonas,Kevin Jonas,1
+fiw,msceleb,F0374.3,m.04cr6qv,joe jonas,Joe Jonas,1
+fiw,msceleb,F0374.4,m.0gxp0s2,denise jonas,Denise Miller-Jonas,0.94
+fiw,msceleb,F0374.5,m.05xjst3,paul jonas,Paul Jonas,1
+fiw,msceleb,F0374.5,m.0b6l0ly,paul jonas,Paul Ramirez Jonas,0.94
+fiw,msceleb,F0374.6,m.05t1x7n,frankie jonas,Frankie Jonas,1
+fiw,msceleb,F0375.1,m.026bwr,jon jones,Jon Owen Jones,0.94
+fiw,msceleb,F0375.1,m.03wxc22,jon jones,Jon C. Jones,0.94
+fiw,msceleb,F0375.2,m.02qp85r,arthur jones,Arthur Creech Jones,0.94
+fiw,msceleb,F0375.2,m.0bhnmc,arthur jones,Arthur Morris Jones,0.94
+fiw,msceleb,F0375.3,m.0hzm8yw,chandler jones,Chandler Jones,1
+fiw,msceleb,F0376.1,m.07ds7l,ray allen,Ray Steadman-Allen,0.94
+fiw,msceleb,F0376.1,m.0bm8typ,ray allen,Ray R. Allen,0.94
+fiw,msceleb,F0376.2,m.03_j7l,walter allen,Walter Allen,1
+fiw,msceleb,F0376.9,m.026r48b,john allen,John P. Allen,0.94
+fiw,msceleb,F0376.9,m.02rwhjr,john allen,John S. Allen,0.94
+fiw,msceleb,F0376.9,m.02vvqj7,john allen,John Sandeman Allen,0.94
+fiw,msceleb,F0376.9,m.03c7jqz,john allen,John Clayton Allen,0.94
+fiw,msceleb,F0377.1,m.078jnn,rashida jones,Rashida Jones,1
+fiw,msceleb,F0377.2,m.05dyl9,quincy jones,A. Quincy Jones,0.9230769230769231
+fiw,msceleb,F0377.3,m.0dnyp2,kidada jones,Kidada Jones,1
+fiw,msceleb,F0377.4,m.0czdbhp,peggy lipton jones,Peggy Ann Jones,0.94
+fiw,msceleb,F0377.7,m.0h4qc7p,martina jones,Martina Jones,1
+fiw,msceleb,F0378.1,m.0573h5,michael jordan,Michael I. Jordan,0.94
+fiw,msceleb,F0378.1,m.072t_0,michael jordan,Michael B. Jordan,0.94
+fiw,msceleb,F0378.1,m.0b5br4,michael jordan,Michael-Hakim Jordan,0.94
+fiw,msceleb,F0378.1,m.0c010yc,michael jordan,Michael H. Jordan,0.94
+fiw,msceleb,F0378.2,m.0fy4yy,james jordan,James Jordan,1
+fiw,msceleb,F0378.2,m.02qd5kw,james jordan,James B. Jordan,0.94
+fiw,msceleb,F0378.2,m.0gc3n0w,james jordan,James Carroll Jordan,0.94
+fiw,msceleb,F0378.4,m.0hj5wlt,juanita jordan,Juanita Bonniedale Jordan,0.94
+fiw,msceleb,F0378.5,m.027kyy1,jeffrey jordan,Jeffrey Michael Jordan,0.94
+fiw,msceleb,F0378.6,m.02r549v,marcus jordan,Marcus Jordan,1
+fiw,msceleb,F0379.1,m.07w71b,victoria justice,Victoria Justice,1
+fiw,msceleb,F0382.1,m.0v0td77,ka-shing li,Ka Wing Li,0.94
+fiw,msceleb,F0382.3,m.01x6bp,richard li,Richard Li,1
+fiw,msceleb,F0383.3,m.02zzm_,john kasich,John Kasich,1
+fiw,msceleb,F0384.1,m.01pcvn,kate moss,Kate Moss,1
+fiw,msceleb,F0385.1,m.01csvq,diane keaton,Diane Keaton,1
+fiw,msceleb,F0386.1,m.0klh7,harvey keitel,Harvey Keitel,1
+fiw,msceleb,F0386.3,m.04p64ct,stella keitel,Stella Keitel,1
+fiw,msceleb,F0386.4,m.0j2lh4c,roman keitel,Roman Keitel,1
+fiw,msceleb,F0387.3,m.0bby0y1,albert kelly,Albert Kelly,1
+fiw,msceleb,F0387.7,m.0gyh9rx,margaret kelly,Margaret Kelly,1
+fiw,msceleb,F0387.7,m.0bfqnn,margaret kelly,Margaret B. Kelly,0.94
+fiw,msceleb,F0388.1,m.02qlltx,jim kelly,Jim Kelly,1
+fiw,msceleb,F0388.2,m.01qk9q,jill kelly,Jill Kelly,1
+fiw,msceleb,F0389.3,m.05zp_cm,michael kendrick,Michael Cooke Kendrick,0.94
+fiw,msceleb,F0390.1,m.02z4600,john kennedy,John Thomas Kennedy,0.94
+fiw,msceleb,F0390.1,m.03cc1dg,john kennedy,John Francis Kennedy,0.94
+fiw,msceleb,F0390.1,m.04055br,john kennedy,John David Kennedy,0.94
+fiw,msceleb,F0390.1,m.07sbfj4,john kennedy,John William Kennedy,0.94
+fiw,msceleb,F0390.1,m.0b6pgx,john kennedy,John L. Kennedy,0.94
+fiw,msceleb,F0390.2,m.02_78y9,joseph kennedy,Joseph S. Kennedy,0.94
+fiw,msceleb,F0390.2,m.02q6204,joseph kennedy,Joseph Phillip Kennedy,0.94
+fiw,msceleb,F0390.2,m.09s63hb,joseph kennedy,Joseph L. Kennedy,0.94
+fiw,msceleb,F0390.2,m.0fpxrh,joseph kennedy,Joseph W. Kennedy,0.94
+fiw,msceleb,F0390.5,m.01y603,caroline kennedy,Caroline Kennedy,1
+fiw,msceleb,F0390.7,m.07nw2n2,robert kennedy,Robert Kennedy,1
+fiw,msceleb,F0390.7,m.02xcxs4,robert kennedy,Robert E. Kennedy,0.94
+fiw,msceleb,F0390.7,m.03gvpyz,robert kennedy,Robert D. Kennedy,0.94
+fiw,msceleb,F0390.7,m.06hx2,robert kennedy,Robert F. Kennedy,0.94
+fiw,msceleb,F0390.7,m.0c056t,robert kennedy,Robert Foster Kennedy,0.94
+fiw,msceleb,F0390.7,m.0c46x04,robert kennedy,Robert Woods Kennedy,0.94
+fiw,msceleb,F0390.7,m.0t5ymcc,robert kennedy,Robert B. Kennedy,0.94
+fiw,msceleb,F0390.8,m.0d33tv,ted kennedy,Ted Kennedy,1
+fiw,msceleb,F0390.9,m.01x4d5,rose kennedy,Rose Kennedy,1
+fiw,msceleb,F0390.11,m.01x4d5,rose marie kennedy,Rose Kennedy,0.94
+fiw,msceleb,F0391.1,m.0f7y9f,tom kenny,Tom Kenny,1
+fiw,msceleb,F0391.1,m.09g9xqf,tom kenny,Tom 'Cork' Kenny,0.94
+fiw,msceleb,F0392.1,m.0d0s03,shane keough,Shane Keough,1
+fiw,msceleb,F0392.2,m.0c9h40,jeana keough,Jeana Keough,1
+fiw,msceleb,F0392.4,m.0f_gr6,matt keough,Matt Keough,1
+fiw,msceleb,F0394.1,m.0288nbh,sami khedira,Sami Khedira,1
+fiw,msceleb,F0394.2,m.0j29gdc,rani khedira,Rani Khedira,1
+fiw,msceleb,F0395.3,m.0n_2q2t,mostafa khomeini,Mostafa Khomeini,1
+fiw,msceleb,F0396.4,m.0bphp,nikita khrushchev,Nikita Khrushchev,1
+fiw,msceleb,F0399.1,m.039gzc,jaime king,Jaime King,1
+fiw,msceleb,F0399.1,m.0bgfxts,jaime king,Jaime Rucker King,0.94
+fiw,msceleb,F0399.2,m.0j9pnr_,james king,James King,1
+fiw,msceleb,F0399.2,m.058l0f,james king,James Lawrence King,0.94
+fiw,msceleb,F0399.2,m.0665_h,james king,James Horace King,0.94
+fiw,msceleb,F0401.3,m.04_wtm,alberta king,Alberta Williams King,0.94
+fiw,msceleb,F0401.4,m.0289jv,coretta king,Coretta Scott King,0.94
+fiw,msceleb,F0401.7,m.063ykg,bernice king,Bernice King,1
+fiw,msceleb,F0401.8,m.030gff,dexter king,Dexter Scott King,0.94
+fiw,msceleb,F0401.9,m.07hsw6,yolanda king,Yolanda King,1
+fiw,msceleb,F0401.10,m.05l712,alveda king,Alveda King,1
+fiw,msceleb,F0403.1,m.0gh6z10,stephen king king,Stephen King,0.94
+fiw,msceleb,F0403.1,m.076xzm7,stephen king king,Stephen James King,0.94
+fiw,msceleb,F0403.2,m.07j6g,tabitha king king,Tabitha King,0.94
+fiw,msceleb,F0403.4,m.09rf_x2,joe hill king,Joe King,0.94
+fiw,msceleb,F0403.5,m.05zx6_5,naomi king,Naomi King,1
+fiw,msceleb,F0404.2,m.01hhd7,nestor kirchner,Néstor Kirchner,0.9333333333333333
+fiw,msceleb,F0405.1,m.05bj_r,darci kistler kistler,Darci Kistler,0.94
+fiw,msceleb,F0406.1,m.01pctb,heidi klum,Heidi Klum,1
+fiw,msceleb,F0406.2,m.02r55t8,johan klum,Johanna Klum,0.9090909090909091
+fiw,msceleb,F0407.2,m.0gwhd6v,travis knight,Travis Knight,1
+fiw,msceleb,F0408.1,m.01l2fn,keira knightley,Keira Knightley,1
+fiw,msceleb,F0408.3,m.07y5vx,will knightley,Will Knightley,1
+fiw,msceleb,F0408.4,m.04fx93x,caleb knightley,Caleb Knightley,1
+fiw,msceleb,F0409.1,m.03sfhq,fred koch koch,Fred C. Koch,0.94
+fiw,msceleb,F0409.2,m.03d1cgg,william koch koch,William A. Koch,0.94
+fiw,msceleb,F0409.2,m.05p0yn8,william koch koch,William Frederick Koch,0.94
+fiw,msceleb,F0409.3,m.0w16rbk,david koch koch,David Koch,0.94
+fiw,msceleb,F0409.3,m.02m6s0,david koch koch,David H. Koch,0.94
+fiw,msceleb,F0409.4,m.03sfbh,charles koch koch,Charles Koch,0.94
+fiw,msceleb,F0410.1,m.07f8gw,michael kors kors,Michael Kors,0.94
+fiw,msceleb,F0411.1,m.060j8b,john krasinski krasinski,John Krasinski,0.94
+fiw,msceleb,F0412.1,m.0161sp,lenny kravitz kravitz,Lenny Kravitz,0.94
+fiw,msceleb,F0412.2,m.03c144k,zoe kravitz,Zoë Kravitz,0.9090909090909091
+fiw,msceleb,F0412.4,m.0gdgq9,sy kravitz,Sy Kravitz,1
+fiw,msceleb,F0414.1,m.04svlp,kjeld kirk kristiansen kristiansen,Kjeld Kirk Kristiansen,0.94
+fiw,msceleb,F0414.8,m.046jv7,ole kirk kristiansen,Ole Kirk Christiansen,0.926829268292683
+fiw,msceleb,F0414.9,m.02x2c6c,anders kristiansen,Anders Kristiansen,1
+fiw,msceleb,F0415.1,m.02rf301,toni kroos,Toni Kroos,1
+fiw,msceleb,F0415.2,m.05f72_r,felix kroos,Felix Kroos,1
+fiw,msceleb,F0416.2,m.01p4vl,ashton kutcher,Ashton Kutcher,1
+fiw,msceleb,F0421.1,m.02x969,estee lauder,Estée Lauder,0.9166666666666666
+fiw,msceleb,F0421.3,m.04svkm,leonard lauder,Leonard Lauder,1
+fiw,msceleb,F0421.4,m.0dxly4,ronald lauder,Ronald Lauder,1
+fiw,msceleb,F0421.5,m.05b4y99,evelyn lauder,Evelyn Lauder,1
+fiw,msceleb,F0421.6,m.027xrf1,william lauder,William P. Lauder,0.94
+fiw,msceleb,F0422.1,m.0k6jsk,andrew lauren,Andrew Lauren,1
+fiw,msceleb,F0422.3,m.0809zhq,david lauren,David Lauren,1
+fiw,msceleb,F0422.5,m.03bzkj5,dylan lauren,Dylan Lauren,1
+fiw,msceleb,F0422.6,m.02c748,ralph lauren,Ralph Lauren,1
+fiw,msceleb,F0422.10,m.07nzbr,greg lauren,Greg Lauren,1
+fiw,msceleb,F0423.1,m.02x0dzw,jennifer lawrence,Jennifer Lawrence,1
+fiw,msceleb,F0423.3,m.05mx2zt,ben lawrence,Ben Lawrence,1
+fiw,msceleb,F0423.3,m.0k8jg8l,ben lawrence,Ben St Lawrence,0.94
+fiw,msceleb,F0423.4,m.04zz1cn,gary lawrence,Gary Lawrence,1
+fiw,msceleb,F0423.5,m.0c0px4,karen lawrence,Karen Lawrence,1
+fiw,msceleb,F0424.1,m.04b939,cung le le,Cung Le,0.94
+fiw,msceleb,F0425.1,m.03pkym,bruce lee lee,Bruce George Peter Lee,0.94
+fiw,msceleb,F0425.2,m.05wtc6m,linda emery lee,Linda Francis Lee,0.94
+fiw,msceleb,F0425.5,m.0cnxpxc,grace lee,Grace Etsuko Lee,0.94
+fiw,msceleb,F0425.8,m.0gx3xy2,phoebe lee,Phoebe Lee,1
+fiw,msceleb,F0425.9,m.0c2zth,peter lee,Peter Lee,1
+fiw,msceleb,F0425.9,m.05y719z,peter lee,Peter H. Lee,0.94
+fiw,msceleb,F0425.10,m.01_nwj,robert lee,Robert Edwin Lee,0.94
+fiw,msceleb,F0425.10,m.02z5d9q,robert lee,Robert Merrill Lee,0.94
+fiw,msceleb,F0426.1,m.0j5xtc2,christopher lee,Christopher Lee,1
+fiw,msceleb,F0426.1,m.0c67xq,christopher lee,Christopher Khayman Lee,0.94
+fiw,msceleb,F0426.1,m.0h4njq1,christopher lee,Christopher A. Lee,0.94
+fiw,msceleb,F0426.3,m.0h80y4x,christina lee,Christina Erika Lee,0.94
+fiw,msceleb,F0426.4,m.0hmvh0z,geoffrey lee,Geoffrey Trollope Lee,0.94
+fiw,msceleb,F0426.6,m.0j1zzhh,xandra lee,Xandra Lee,1
+fiw,msceleb,F0427.1,m.03jt9g,kimora simmons,Kimora Lee Simmons,0.94
+fiw,msceleb,F0427.4,m.063xtby,ming simmons,Ming Lee Simmons,0.94
+fiw,msceleb,F0427.5,m.02xxbs,russell simmons simmons,Russell Simmons,0.94
+fiw,msceleb,F0428.1,m.013339,mario lemieux,Mario Lemieux,1
+fiw,msceleb,F0428.5,m.02r7n2v,alain lemieux,Alain Lemieux,1
+fiw,msceleb,F0429.1,m.05wh0sh,vladimir lenin lenin,Vladimir Lenin,0.94
+fiw,msceleb,F0430.1,m.047n3rc,john lennon,John Anthony Lennon,0.94
+fiw,msceleb,F0430.1,m.0b76zjs,john lennon,John Brown Lennon,0.94
+fiw,msceleb,F0430.3,m.01k4jy3,julian lennon,Julian Lennon,1
+fiw,msceleb,F0430.4,m.01m65sp,sean lennon,Sean Lennon,1
+fiw,msceleb,F0430.5,m.04bk9m,cynthia lennon,Cynthia Lennon,1
+fiw,msceleb,F0432.1,m.044mfr,adam levine levine,Adam Levine,0.94
+fiw,msceleb,F0432.2,m.01mp188,sam levine,Sam Levine,1
+fiw,msceleb,F0432.2,m.0bhjrpc,sam levine,Sam J. Levine,0.94
+fiw,msceleb,F0432.4,m.0n30r3g,michael levine,Michael Levine,1
+fiw,msceleb,F0432.4,m.0bb5wy,michael levine,Michael E. Levine,0.94
+fiw,msceleb,F0433.1,m.05qnmt,chuck liddell,Chuck Liddell,1
+fiw,msceleb,F0434.1,m.03_wj_,evangeline lilly,Evangeline Lilly,1
+fiw,msceleb,F0435.1,m.09k72lh,jeremy lin,Jeremy Lin,1
+fiw,msceleb,F0435.4,m.0fq39jt,joseph lin,Joseph Lin,1
+fiw,msceleb,F0436.1,m.0l8dq,charles lindbergh,Charles Lindbergh,1
+fiw,msceleb,F0436.1,m.0732wk,charles lindbergh,Charles August Lindbergh,0.94
+fiw,msceleb,F0436.1,m.0gcxnrc,charles lindbergh,Carl Lindbergh,0.9032258064516129
+fiw,msceleb,F0436.2,m.07jq6v,anne lindbergh,Anne Lindbergh,1
+fiw,msceleb,F0436.2,m.017dz3,anne lindbergh,Anne Morrow Lindbergh,0.94
+fiw,msceleb,F0437.1,m.011zd3,lucy liu liu,Lucy Liu,0.94
+fiw,msceleb,F0437.2,m.0b3q8k,john liu,John Liu,1
+fiw,msceleb,F0438.1,m.01pgzn_,lindsay lohan,Lindsay Lohan,1
+fiw,msceleb,F0438.2,m.0by7kz,ali lohan,Ali Lohan,1
+fiw,msceleb,F0438.3,m.02nyv0s,dina lohan,Dina Lohan,1
+fiw,msceleb,F0438.5,m.03bx5xy,michael lohan,Michael Lohan,1
+fiw,msceleb,F0438.6,m.09gg0s4,cody lohan,Cody Lohan,1
+fiw,msceleb,F0439.3,m.066j1k,bill ripken,Billy Ripken,0.9565217391304348
+fiw,msceleb,F0440.2,m.065stfm,christian long,Christian Long,1
+fiw,msceleb,F0440.3,m.0gsw3g,r. james long long,R. James Long,0.94
+fiw,msceleb,F0440.4,m.065st6z,wendy long,Wendy Long,1
+fiw,msceleb,F0440.4,m.064qb5n,wendy long,Wendy E. Long,0.94
+fiw,msceleb,F0441.1,m.02xfj0,george lopez,George Lopez,1
+fiw,msceleb,F0441.1,m.0463h8g,george lopez,George A. Lopez,0.94
+fiw,msceleb,F0441.2,m.06w9m5s,mayan lopez,Mayan Lopez,1
+fiw,msceleb,F0442.1,m.05k1h1,jennifer lopez,Jennifer Lopez,1
+fiw,msceleb,F0442.5,m.0885lc,guadalupe lopez,Guadalupe Loaeza,0.9032258064516129
+fiw,msceleb,F0442.6,m.04qnlc,lynda lopez,Lynda Lopez,1
+fiw,msceleb,F0442.7,m.04dq4hv,leslie lopez,Leslie Lopez,1
+fiw,msceleb,F0444.1,m.02wb6yq,demi lovato lovato,Demi Lovato,0.94
+fiw,msceleb,F0444.4,m.05zhhjq,dallas lovato,Dallas Lovato,1
+fiw,msceleb,F0445.3,m.0gsz6c,john lowe,John Lowe,1
+fiw,msceleb,F0445.3,m.03www4p,john lowe,John E. Lowe,0.94
+fiw,msceleb,F0445.3,m.05y90xf,john lowe,John S. Lowe,0.94
+fiw,msceleb,F0445.3,m.0gc2j0w,john lowe,John B. Lowe,0.94
+fiw,msceleb,F0445.3,m.0gx18j7,john lowe,John Duncan Lowe,0.94
+fiw,msceleb,F0445.4,m.0ch3x01,matthew lowe,Matthew Lowe,1
+fiw,msceleb,F0446.1,m.0343h,george lucas,George Lucas,1
+fiw,msceleb,F0446.1,m.03nnl6f,george lucas,George Joseph Lucas,0.94
+fiw,msceleb,F0446.2,m.043n07d,amanda lucas,Amanda Lucas,1
+fiw,msceleb,F0446.4,m.04fh3wx,katie lucas,Katie Lucas,1
+fiw,msceleb,F0446.7,m.0c6rzv,marcia lucas,Marcia Lucas,1
+fiw,msceleb,F0447.1,m.04bdzg,josh lucas,Josh Lucas,1
+fiw,msceleb,F0447.2,m.0cjd7x,jessica lucas,Jessica Lucas,1
+fiw,msceleb,F0448.1,m.02822jq,david luiz,David Luiz,1
+fiw,msceleb,F0449.2,m.01vzrpq,shane lynch,Shane Lynch,1
+fiw,msceleb,F0450.1,m.0hn95_t,ross lynch,Ross Lynch,1
+fiw,msceleb,F0450.2,m.0tlbx13,rocky lynch,Rocky Lynch,1
+fiw,msceleb,F0450.3,m.0tlbx0y,rydel lynch,Rydel Lynch,1
+fiw,msceleb,F0450.4,m.0gkyqpk,riker lynch,Riker Lynch,1
+fiw,msceleb,F0451.1,m.07cp7y,jack ma,Jack Ma,1
+fiw,msceleb,F0452.1,m.011zf2,yo-yo ma,Yo-Yo Ma,1
+fiw,msceleb,F0453.1,m.0dk882,lyoto  machida,Lyoto Machida,0.96
+fiw,msceleb,F0454.1,m.07xz75,holly madison,Holly Madison,1
+fiw,msceleb,F0455.1,m.0j_ytfd,madonna ciccone,Madonna Louise Ciccone,0.94
+fiw,msceleb,F0456.1,m.015pkc,tobey maguire,Tobey Maguire,1
+fiw,msceleb,F0456.2,m.0hn8z3s,jennifer maguire,Jennifer Maguire,1
+fiw,msceleb,F0456.3,m.0644_l6,ruby maguire,Ruby Sweetheart Maguire,0.94
+fiw,msceleb,F0458.1,m.04sjlv,john malone,John C. Malone,0.94
+fiw,msceleb,F0458.1,m.0gx2hd2,john malone,John Joseph Malone,0.94
+fiw,msceleb,F0459.1,m.05g7q,nelson mandela,Nelson Mandela,1
+fiw,msceleb,F0459.6,m.084n2,winnie mandela,Winnie Madikizela-Mandela,0.94
+fiw,msceleb,F0459.7,m.0r9p_r2,makaziwe mandela,Makaziwe Mandela,1
+fiw,msceleb,F0459.8,m.040zd_6,zindzi mandela,Zindziswa Mandela,0.9032258064516129
+fiw,msceleb,F0460.1,m.02zmsf,archie manning,Archie Manning,1
+fiw,msceleb,F0460.2,m.03ql5l,olivia manning,Olivia Manning,1
+fiw,msceleb,F0460.3,m.0d81g2,cooper manning,Cooper Manning,1
+fiw,msceleb,F0460.4,m.027jv8,peyton manning,Peyton Manning,1
+fiw,msceleb,F0460.5,m.02x6lw,eli manning,Eli Manning,1
+fiw,msceleb,F0463.1,m.027l_w5,luis manzano,Luis Manzano,1
+fiw,msceleb,F0463.2,m.02rsq3s,edu manzano,Edu Manzano,1
+fiw,msceleb,F0464.1,m.047cqf3,rooney mara,Rooney Mara,1
+fiw,msceleb,F0464.3,m.0b2pdr,kate mara,Kate Mara,1
+fiw,msceleb,F0465.1,m.02q7l91,laura marano,Laura Marano,1
+fiw,msceleb,F0465.2,m.02qlgn4,vanessa marano,Vanessa Marano,1
+fiw,msceleb,F0466.2,m.01r2tl,imelda marcos,Imelda Marcos,1
+fiw,msceleb,F0466.4,m.02rdqz,imee marcos,Imee Marcos,1
+fiw,msceleb,F0468.1,m.08473s,roberto marinho,Roberto Marinho,1
+fiw,msceleb,F0468.1,m.0wpw81c,roberto marinho,Roberto Irineu Marinho,0.94
+fiw,msceleb,F0469.1,m.03h_g9t,mark weber,Mark R. Weber,0.94
+fiw,msceleb,F0469.2,m.03bn5rt,alan weber,Alan Weber,1
+fiw,msceleb,F0471.1,m.0by163j,ice marrow,Vince Marrow,0.9090909090909091
+fiw,msceleb,F0472.2,m.025b87x,apple martin,Apple Martin,1
+fiw,msceleb,F0472.3,m.010hqr9x,chris martin,Chris Marvin,0.9166666666666666
+fiw,msceleb,F0472.4,m.06454th,moses martin,Moses Martin,1
+fiw,msceleb,F0473.2,m.03sf37,danny masterson,Danny Masterson,1
+fiw,msceleb,F0473.3,m.0h2mybq,alanna masterson,Alanna Masterson,1
+fiw,msceleb,F0473.4,m.063x12z,jordy masterson,Jordy Masterson,1
+fiw,msceleb,F0474.3,m.0cc5msd,kim mathers,Jim Mathers,0.9090909090909091
+fiw,msceleb,F0476.1,m.0391jz,rachel mcadams,Rachel McAdams,1
+fiw,msceleb,F0476.2,m.0b_w_wl,kayleen mcadams,Kayleen McAdams,1
+fiw,msceleb,F0477.1,m.02dgtb,terry mcauliffe,Terry McAuliffe,1
+fiw,msceleb,F0478.1,m.0bymv,john mccain,John McCain,1
+fiw,msceleb,F0478.2,m.0406qhb,megan mccain,Meghan McCain,0.96
+fiw,msceleb,F0478.4,m.02rp1fm,roberta mccain,Roberta McCain,1
+fiw,msceleb,F0478.7,m.04fgh4z,james mccain,James McCain,1
+fiw,msceleb,F0479.1,m.03j24kf,paul mccartney,Paul McCartney,1
+fiw,msceleb,F0479.3,m.0drhp3,james mccartney,James McCartney,1
+fiw,msceleb,F0479.3,m.0gg9jjb,james mccartney,James R. McCartney,0.94
+fiw,msceleb,F0479.4,m.03j437,stella mccartney,Stella McCartney,1
+fiw,msceleb,F0479.5,m.05bm10,heather mccartney,Heather McCartney,1
+fiw,msceleb,F0479.6,m.0bkgvn,mary  mccartney,Mary McCartney,0.96
+fiw,msceleb,F0480.2,m.0dghm8,susan mccaw,Susan McCaw,1
+fiw,msceleb,F0481.1,m.02mjf2,matthew mcconaughey,Matthew McConaughey,1
+fiw,msceleb,F0481.5,m.04dhywd,levi mcconaughey,Levi Alves McConaughey,0.94
+fiw,msceleb,F0482.1,m.0h35ll,jennette mccurdy,Jennette McCurdy,1
+fiw,msceleb,F0483.2,m.0rb4ftg,jean mckellen,Joan McKellen,0.9230769230769231
+fiw,msceleb,F0484.1,m.0j6cffz,terry mcqueen,Terry McQueen,1
+fiw,msceleb,F0484.2,m.012cj0,steve mcqueen,Steve McQueen,1
+fiw,msceleb,F0484.4,m.0j6cffz,terry (correct) mcqueen,Terry McQueen,0.94
+fiw,msceleb,F0484.6,m.0d9fh3,chad mcqueen,Chad McQueen,1
+fiw,msceleb,F0484.7,m.0d29ss,steven mcqueen,Steven R. McQueen,0.94
+fiw,msceleb,F0484.7,m.012cj0,steven mcqueen,Steve McQueen,0.9629629629629629
+fiw,msceleb,F0486.4,m.0py54td,milan mebarak,Milan Piqué Mebarak,0.94
+fiw,msceleb,F0489.1,m.06lbg8,john menard,Joan Menard,0.9090909090909091
+fiw,msceleb,F0490.1,m.06qjgc,lionel messi,Lionel Messi,1
+fiw,msceleb,F0491.1,m.05drr9,seth meyers,Seth Meyers,1
+fiw,msceleb,F0491.3,m.07dq__,josh meyers,Josh Meyers,1
+fiw,msceleb,F0492.1,m.068g1w,aj michalka,AJ Michalka,1
+fiw,msceleb,F0492.2,m.039qrr,aly michalka,Aly Michalka,1
+fiw,msceleb,F0493.1,m.02qw2xb,lea michele,Lea Michele,1
+fiw,msceleb,F0494.1,m.02t8t9,phil mickelson,Phil Mickelson,1
+fiw,msceleb,F0496.1,m.076svb,mads mikkelsen,Mads Mikkelsen,1
+fiw,msceleb,F0496.3,m.0j2lk4d,viola mikkelsen,Viola Jacobsen Mikkelsen,0.94
+fiw,msceleb,F0496.4,m.0j2lk4l,carl mikkelsen,Carl Jacobsen Mikkelsen,0.94
+fiw,msceleb,F0496.5,m.03f3ht2,lars mikkelsen,Lars Mikkelsen,1
+fiw,msceleb,F0497.1,m.05p8nxl,brian miller,Brian Stacy Miller,0.94
+fiw,msceleb,F0497.1,m.0j3rg49,brian miller,Brian A. Miller,0.94
+fiw,msceleb,F0497.3,m.02qry3b,sadie miller,Sadie Miller,1
+fiw,msceleb,F0500.1,m.049qx,kylie minogue,Kylie Minogue,1
+fiw,msceleb,F0500.2,m.0c7ct,dannii minogue,Dannii Minogue,1
+fiw,msceleb,F0500.5,m.075jpjb,brendan minogue,Brendan Minogue,1
+fiw,msceleb,F0501.1,m.077jnp,frank mir mir,Frank Mir,0.94
+fiw,msceleb,F0502.1,m.02k4_t,lakshmi mittal,Lakshmi Mittal,1
+fiw,msceleb,F0502.2,m.0b3vmr,aditya mittal,Aditya Mittal,1
+fiw,msceleb,F0503.1,m.04wqr,marilyn monroe,Marilyn Monroe,1
+fiw,msceleb,F0503.7,m.0348sz,robert monroe,Robert Monroe,1
+fiw,msceleb,F0504.1,m.064lgp7,holly montag,Holly Montag,1
+fiw,msceleb,F0504.2,m.0f3ghl,heidi montag,Heidi Montag,1
+fiw,msceleb,F0506.1,m.01v16v6,joe montana,Joe Montana,1
+fiw,msceleb,F0506.3,m.06zmlmd,nick montana,Nick Montana,1
+fiw,msceleb,F0507.1,m.0fn8jc,cory monteith,Cory Monteith,1
+fiw,msceleb,F0508.1,m.015zjx,juan montoya,Juan Pablo Montoya,0.94
+fiw,msceleb,F0508.2,m.0282st4,sebastian montoya,Sebastian Montoya,1
+fiw,msceleb,F0509.1,m.01kb2j,julianne moore,Julianne Moore,1
+fiw,msceleb,F0510.1,m.03ct22p,christopher morahan,Christopher Morahan,1
+fiw,msceleb,F0510.4,m.027h6qv,hattie morahan,Hattie Morahan,1
+fiw,msceleb,F0511.1,m.01pt2r,evo morales,Evo Morales,1
+fiw,msceleb,F0511.2,m.01pt2r,eva morales,Evo Morales,0.9090909090909091
+fiw,msceleb,F0512.4,m.0gxrlym,teri moretz,Teri Duke Moretz,0.94
+fiw,msceleb,F0513.1,m.0550x,mark mcgwire,Mark McGwire,1
+fiw,msceleb,F0514.1,m.054xvs,tia mowry,Tia Mowry,1
+fiw,msceleb,F0514.2,m.075kfb,tamara mowry,Tamera Mowry,0.9166666666666666
+fiw,msceleb,F0514.3,m.014jpp,taj mowry,Tahj Mowry,0.9473684210526315
+fiw,msceleb,F0514.4,m.0gygc67,tavior mowry,Tavior Mowry,1
+fiw,msceleb,F0515.1,m.0dnps,hosni mubarak,Hosni Mubarak,1
+fiw,msceleb,F0515.2,m.06cgy1,suzanne mubarak,Suzanne Mubarak,1
+fiw,msceleb,F0515.3,m.04d1cq,alaa mubarak,Alaa Mubarak,1
+fiw,msceleb,F0515.4,m.03v_2c,gamal mubarak,Gamal Mubarak,1
+fiw,msceleb,F0517.1,m.04g2wl3,noah munck,Noah Munck,1
+fiw,msceleb,F0517.3,m.0ddfzwh,ethan munck,Ethan Munck,1
+fiw,msceleb,F0518.1,m.04qdky,wendi murdoch,Wendi Deng Murdoch,0.94
+fiw,msceleb,F0518.4,m.06hrk,rupert murdoch,Rupert Murdoch,1
+fiw,msceleb,F0519.2,m.03qmkw8,william murray murray,William Murray,0.94
+fiw,msceleb,F0519.2,m.027s_zk,william murray murray,William Staite Murray,0.94
+fiw,msceleb,F0519.2,m.02rj_j4,william murray murray,William Francis Murray,0.94
+fiw,msceleb,F0519.2,m.05fbl6r,william murray murray,William D. Murray,0.94
+fiw,msceleb,F0519.2,m.05p6p8s,william murray murray,William Daniel Murray,0.94
+fiw,msceleb,F0519.2,m.05x76s1,william murray murray,William H. Murray,0.94
+fiw,msceleb,F0519.2,m.09gq5tw,william murray murray,William S. Murray,0.94
+fiw,msceleb,F0519.2,m.09k4w20,william murray murray,William Harvey Murray,0.94
+fiw,msceleb,F0519.2,m.0bm9fs4,william murray murray,William Edward Murray,0.94
+fiw,msceleb,F0519.4,m.0hr6yld,judy murray,Judy Murray,1
+fiw,msceleb,F0519.5,m.027b1xn,james murray,James Scott Murray,0.94
+fiw,msceleb,F0519.5,m.02l43k,james murray,James Alexander Murray,0.94
+fiw,msceleb,F0519.5,m.02pjjht,james murray,James Dixon Murray,0.94
+fiw,msceleb,F0519.5,m.02vvwtk,james murray,James Wolfe-Murray,0.94
+fiw,msceleb,F0519.5,m.03y042f,james murray,James Albert Murray,0.94
+fiw,msceleb,F0519.5,m.04q1lrz,james murray,James Lore Murray,0.94
+fiw,msceleb,F0519.5,m.079ksq,james murray,James E. Murray,0.94
+fiw,msceleb,F0519.5,m.07c82t,james murray,James C. Murray,0.94
+fiw,msceleb,F0520.2,m.0p_r5,brian murray,Brian Doyle-Murray,0.94
+fiw,msceleb,F0521.1,m.03nzf1,elon musk,Elon Musk,1
+fiw,msceleb,F0521.3,m.026pmy7,justine musk,Justine Musk,1
+fiw,msceleb,F0522.1,m.08nb6g,giorgio napolitano,Giorgio Napolitano,1
+fiw,msceleb,F0523.4,m.03qpb2_,khalid nasser,Khalid Abdel Nasser,0.94
+fiw,msceleb,F0524.1,m.025w65l,keylor navas,Keylor Navas,1
+fiw,msceleb,F0525.4,m.02tk74,natasha richardson,Natasha Richardson,1
+fiw,msceleb,F0526.1,m.044js,jawaharl nehru,Jawaharlal Nehru,0.9333333333333333
+fiw,msceleb,F0526.4,m.039bgt,motilal nehru,Motilal Nehru,1
+fiw,msceleb,F0527.1,m.05p2n8m,david nelson,David Aldrich Nelson,0.94
+fiw,msceleb,F0527.1,m.05p30_z,david nelson,David Sutherland Nelson,0.94
+fiw,msceleb,F0527.1,m.0b6hp65,david nelson,David Robert Nelson,0.94
+fiw,msceleb,F0527.1,m.0bh6c_,david nelson,David M. Nelson,0.94
+fiw,msceleb,F0527.1,m.0fphv88,david nelson,David D. Nelson,0.94
+fiw,msceleb,F0527.2,m.0266lv,ozzie nelson,Ozzie Nelson,1
+fiw,msceleb,F0527.4,m.039bjk,harriet nelson,Harriet Nelson,1
+fiw,msceleb,F0528.1,m.01thgd,roy halladay,Roy Halladay,1
+fiw,msceleb,F0531.2,m.023v03,pat nixon,Pat Nixon,1
+fiw,msceleb,F0532.1,m.0c2yrf,joakim noah,Joakim Noah,1
+fiw,msceleb,F0532.2,m.05qr52,yannick noah,Yannick Noah,1
+fiw,msceleb,F0532.5,m.0by122w,zacharie noah,Zacharie Noah,1
+fiw,msceleb,F0533.4,m.07shsp,eric norris,Eric Norris,1
+fiw,msceleb,F0533.4,m.09cgvdm,eric norris,Eric A. Norris,0.94
+fiw,msceleb,F0533.5,m.063y75s,danilee norris,Danilee Kelly Norris,0.94
+fiw,msceleb,F0533.6,m.0640w_w,dakota norris,Dakota Alan Norris,0.94
+fiw,msceleb,F0534.1,m.06qlr0,michael nutter,Michael Nutter,1
+fiw,msceleb,F0535.1,m.0l1t9wv,lupita nyong'o,Lupita Nyong'o,1
+fiw,msceleb,F0535.4,m.047phdg,peter nyong'o,Peter Anyang' Nyong'o,0.94
+fiw,msceleb,F0536.1,m.079jcl,alex o'loughlin,Alex O'Loughlin,1
+fiw,msceleb,F0537.1,m.03kf8m,martin o'malley,Martin O'Malley,1
+fiw,msceleb,F0537.2,m.079g4b,katie o'malley,Katie O'Malley,1
+fiw,msceleb,F0537.3,m.05zsdbw,william o'malley,William O'Malley,1
+fiw,msceleb,F0539.1,m.02mjmr,barack  obama,Barack Obama,0.96
+fiw,msceleb,F0539.2,m.025s5v9,michelle obama,Michelle Obama,1
+fiw,msceleb,F0539.3,m.0gh6dh1,malia obama,Malia Ann Obama,0.94
+fiw,msceleb,F0539.4,m.02nqgyw,natasha obama,Natasha Obama,1
+fiw,msceleb,F0540.1,m.03wcznn,sammy ofer,Sammy Ofer,1
+fiw,msceleb,F0540.2,m.03wvyw3,eyal ofer,Eyal Ofer,1
+fiw,msceleb,F0540.3,m.05l8h9g,idan ofer,Idan Ofer,1
+fiw,msceleb,F0540.4,m.0h51myc,yuli ofer ofer,Yuli Ofer,0.94
+fiw,msceleb,F0541.2,m.01_njt,sandra oh,Sandra Oh,1
+fiw,msceleb,F0542.1,m.04yd520,mary-kate olson,Mary Olson,0.94
+fiw,msceleb,F0542.1,m.01z0rcq,mary-kate olson,Mary-Kate Olsen,0.9333333333333333
+fiw,msceleb,F0542.4,m.05ybptx,david olson,David R. Olson,0.94
+fiw,msceleb,F0542.5,m.065sq24,jarnett olson,Jarnett Olsen,0.9230769230769231
+fiw,msceleb,F0543.1,m.09qxy,j. robert oppenheimer,J. Robert Oppenheimer,1
+fiw,msceleb,F0543.2,m.070x33,peter oppenheimer,Peter Oppenheimer,1
+fiw,msceleb,F0544.3,m.0bxzjj9,rita ora,Rita Ora,1
+fiw,msceleb,F0545.1,m.03756n,david ortiz ortiz,David Ortiz,0.94
+fiw,msceleb,F0545.1,m.049gg8b,david ortiz ortiz,David Fernández Ortiz,0.94
+fiw,msceleb,F0546.1,m.034bs,george orwell,George Orwell,1
+fiw,msceleb,F0547.1,m.0163t3,sharon osbourne,Sharon Osbourne,1
+fiw,msceleb,F0547.2,m.0p3r8,kelly osbourne,Kelly Osbourne,1
+fiw,msceleb,F0547.3,m.01vtqml,ozzy osbourne,Ozzy Osbourne,1
+fiw,msceleb,F0547.4,m.02348n,jack osbourne,Jack Osbourne,1
+fiw,msceleb,F0549.1,m.03xnq9_,emily osment,Emily Osment,1
+fiw,msceleb,F0549.2,m.01pd46,haley osment,Haley Joel Osment,0.94
+fiw,msceleb,F0551.1,m.0bj9k,al pacino pacino,Al Pacino,0.94
+fiw,msceleb,F0552.1,m.03pmbb,manny pacquiao,Manny Pacquiao,1
+fiw,msceleb,F0552.2,m.0wyn1n4,jinkee pacquiao,Jinkee Pacquiao,1
+fiw,msceleb,F0552.10,m.0g9r5q,bobby pacquiao,Bobby Pacquiao,1
+fiw,msceleb,F0553.1,m.03n4jd,jared padalecki,Jared Padalecki,1
+fiw,msceleb,F0554.1,m.05c25hv,olivia palermo,Olivia Palermo,1
+fiw,msceleb,F0554.1,m.08b0kn,olivia palermo,Olivia of Palermo,0.94
+fiw,msceleb,F0555.1,m.08f3b1,sarah palin palin,Sarah Palin,0.94
+fiw,msceleb,F0555.2,m.04jpfh5,todd palin palin,Todd Palin,0.94
+fiw,msceleb,F0555.3,m.04j65pl,trig palin,Trig Palin,1
+fiw,msceleb,F0555.4,m.04j65ps,track palin,Track Palin,1
+fiw,msceleb,F0555.5,m.04jg1kh,bristol palin,Bristol Palin,1
+fiw,msceleb,F0555.6,m.04j65p6,willow palin,Willow Palin,1
+fiw,msceleb,F0556.1,m.09bkfc,teresa palmer,Teresa Palmer,1
+fiw,msceleb,F0557.1,m.05r5w,pamela anderson,Pamela Anderson,1
+fiw,msceleb,F0557.1,m.0g4956,pamela anderson,Pamela Sue Anderson,0.94
+fiw,msceleb,F0557.2,m.09cc0c,tommy anderson,Tommy Anderson,1
+fiw,msceleb,F0557.4,m.07sbypr,brandon anderson,Brandon Anderson,1
+fiw,msceleb,F0558.2,m.01pcq3,anna paquin,Anna Paquin,1
+fiw,msceleb,F0558.3,m.0bbb_5f,andrew paquin,Andrew Paquin,1
+fiw,msceleb,F0559.1,m.08ffg6,sandara park,Sandara Park,1
+fiw,msceleb,F0559.2,m.011581gp,sanghyun park,Sanghun Park,0.96
+fiw,msceleb,F0560.3,m.04dx5rt,james broderick,James Wilkie Broderick,0.94
+fiw,msceleb,F0560.3,m.05p8fhn,james broderick,James Patrick Broderick,0.94
+fiw,msceleb,F0561.4,m.05vqkvj,julie parsons,Julie Parsons,1
+fiw,msceleb,F0562.1,m.094qg9,travis pastrana,Travis Pastrana,1
+fiw,msceleb,F0563.1,m.01c_xx,george pataki,George Pataki,1
+fiw,msceleb,F0563.2,m.0t_b0my,allison pataki,Allison Pataki,1
+fiw,msceleb,F0563.3,m.0c7t3k,libby pataki,Libby Pataki,1
+fiw,msceleb,F0564.1,m.03wf_lm,michelle paterson,Michelle Paige Paterson,0.94
+fiw,msceleb,F0564.2,m.05xm68g,david paterson,David Paterson,1
+fiw,msceleb,F0564.2,m.027lt2k,david paterson,David L. Paterson,0.94
+fiw,msceleb,F0564.2,m.0cmlth_,david paterson,David Ross Paterson,0.94
+fiw,msceleb,F0564.2,m.025ycyg,david paterson,Dai Paterson,0.9230769230769231
+fiw,msceleb,F0564.3,m.0chxr2,basil paterson,Basil A. Paterson,0.94
+fiw,msceleb,F0565.1,m.063rjh,danica patrick,Danica Patrick,1
+fiw,msceleb,F0566.6,m.05f5zpl,charles paul,Charles H. Paul,0.94
+fiw,msceleb,F0566.6,m.05n_p6g,charles paul,Charles Ferguson Paul,0.94
+fiw,msceleb,F0566.8,m.0gc4xfm,robin paul,Robin Paul,1
+fiw,msceleb,F0567.3,m.06k_t2,william rand,William Rand,1
+fiw,msceleb,F0572.1,m.0282b5j,stefan persson,Stefan Persson,1
+fiw,msceleb,F0572.3,m.0gh61xq,karl  persson,Karl-Johan Persson,0.94
+fiw,msceleb,F0573.1,m.06shgg,russell peters,Russell Peters,1
+fiw,msceleb,F0573.5,m.0hlprxm,clayton peters,Clayton Peters,1
+fiw,msceleb,F0574.1,m.07k5ksc,anthony pettis,Anthony Pettis,1
+fiw,msceleb,F0576.1,m.03cvfg,michael phelps,Michael Phelps,1
+fiw,msceleb,F0576.1,m.02wyx_l,michael phelps,Michael E. Phelps,0.94
+fiw,msceleb,F0578.1,m.04s_4q,wade phillips,Wade Phillips,1
+fiw,msceleb,F0578.2,m.03sr8y,bum phillips,Bum Phillips,1
+fiw,msceleb,F0579.1,m.036j06,summer phoenix,Summer Phoenix,1
+fiw,msceleb,F0579.4,m.018db8,joaquin phoenix,Joaquin Phoenix,1
+fiw,msceleb,F0579.5,m.03908r,rain phoenix,Rain Phoenix,1
+fiw,msceleb,F0579.6,m.0c6h_19,liberty phoenix,Liberty Phoenix,1
+fiw,msceleb,F0579.7,m.015076,river phoenix,River Phoenix,1
+fiw,msceleb,F0579.8,m.02vrd26,arlyn phoenix,Arlyn Phoenix,1
+fiw,msceleb,F0580.1,m.02r1l9w,francois-henri pinault,François-Henri Pinault,0.9545454545454546
+fiw,msceleb,F0580.2,m.03lgz4,francois pinault,François Pinault,0.9375
+fiw,msceleb,F0580.4,m.04f45b2,valentina pinault,Valentina Paloma Pinault,0.94
+fiw,msceleb,F0581.1,m.0c6qh,brad pitt,Brad Pitt,1
+fiw,msceleb,F0581.3,m.04dgfvp,jane pitt,Jane Etta Pitt,0.94
+fiw,msceleb,F0581.10,m.04dgfyw,doug pitt,Doug Pitt,1
+fiw,msceleb,F0583.1,m.03q45x,amy poehler,Amy Poehler,1
+fiw,msceleb,F0583.5,m.0_vk5yr,greg poehler,Greg Poehler,1
+fiw,msceleb,F0583.6,m.0gyj4x8,eileen poehler,Eileen Poehler,1
+fiw,msceleb,F0583.7,m.0gyj4x0,william poehler,William Poehler,1
+fiw,msceleb,F0586.1,m.05np4c,ellen pompeo,Ellen Pompeo,1
+fiw,msceleb,F0587.2,m.0f2_51,whitney port,Whitney Port,1
+fiw,msceleb,F0588.1,m.09l3p,natalie portman,Natalie Portman,1
+fiw,msceleb,F0589.1,m.03v1v3,vladimir potanin,Vladimir Potanin,1
+fiw,msceleb,F0590.1,m.01x3mg,nancy kerrigan,Nancy Kerrigan,1
+fiw,msceleb,F0591.1,m.07d3x,terry pratchett,Terry Pratchett,1
+fiw,msceleb,F0591.3,m.03bx3g7,rhianna pratchett,Rhianna Pratchett,1
+fiw,msceleb,F0592.1,m.0h3xq0q,chris pratt,Chris Pratt,1
+fiw,msceleb,F0593.1,m.05clth,jeremy affeldt,Jeremy Affeldt,1
+fiw,msceleb,F0595.1,m.01dk_,barry bonds,Barry Bonds,1
+fiw,msceleb,F0595.2,m.01kg0r,bobby bonds,Bobby Bonds,1
+fiw,msceleb,F0596.1,m.07rzvd,jon lester,Jon Lester,1
+fiw,msceleb,F0599.2,m.01j0y3,ramon martinez,Ramon Martinez,1
+fiw,msceleb,F0600.1,m.06hly,roger clemens,Roger Clemens,1
+fiw,msceleb,F0600.4,m.06jz6p,koby clemens,Koby Clemens,1
+fiw,msceleb,F0602.2,m.0k05zqx,jose garcia,Jose Garcia,1
+fiw,msceleb,F0602.2,m.0khr879,jose garcia,Jose Amado Garcia,0.94
+fiw,msceleb,F0602.4,m.05x73t,carolyn garcia,Carolyn Garcia,1
+fiw,msceleb,F0603.1,m.089d_0,jens pulver,Jens Pulver,1
+fiw,msceleb,F0604.3,m.021y88g,mariya putin,Mariya Putina,0.96
+fiw,msceleb,F0604.4,m.021y88p,yekaterina putin,Yekaterina Putina,0.9696969696969697
+fiw,msceleb,F0605.1,m.02rwkgm,zong qinghou,Zong Qinghou,1
+fiw,msceleb,F0606.1,m.01tnxc,dennis quaid,Dennis Quaid,1
+fiw,msceleb,F0606.2,m.03bvjh_,kimberly quaid,Kimberly Quaid,1
+fiw,msceleb,F0606.4,m.01w23w,randy quaid,Randy Quaid,1
+fiw,msceleb,F0606.6,m.0gkvtq5,jack quaid,Jack Quaid,1
+fiw,msceleb,F0607.1,m.04sj4z,johanna quandt,Johanna Quandt,1
+fiw,msceleb,F0607.2,m.03h6y0,stefan quandt,Stefan Quandt,1
+fiw,msceleb,F0608.1,m.03nntxx,jimmy page,Jimmy Page,1
+fiw,msceleb,F0608.2,m.027x74d,scarlet page,Scarlet Page,1
+fiw,msceleb,F0608.7,m.09gnsz6,james iii page,James Page,0.94
+fiw,msceleb,F0608.7,m.02wktl,james iii page,James O. Page,0.94
+fiw,msceleb,F0610.1,m.065zqw5,eric quizon,Eric Quizon,1
+fiw,msceleb,F0610.3,m.0bs83sb,epi quizon,Epi Quizon,1
+fiw,msceleb,F0610.5,m.0j7cpzw,ronnie quizon,Ronnie Quizon,1
+fiw,msceleb,F0610.7,m.0n52ydn,zia quizon,Zia Quizon,1
+fiw,msceleb,F0611.2,m.03pjhc,leah rabin,Leah Rabin,1
+fiw,msceleb,F0612.1,m.013_vh,daniel radcliffe,Daniel Radcliffe,1
+fiw,msceleb,F0614.2,m.078l6r,randy moffitt,Randy Moffitt,1
+fiw,msceleb,F0615.1,m.0b09h9,jackson rathbone,Jackson Rathbone,1
+fiw,msceleb,F0616.2,m.065_br2,raymond raymond,Raymond Raymond,1
+fiw,msceleb,F0617.1,m.06c0j,ronald reagan,Ronald Reagan,1
+fiw,msceleb,F0617.2,m.059rv,nancy (wife) reagan,Nancy Reagan,0.94
+fiw,msceleb,F0617.4,m.05b_kdx,ron (son) reagan,Ron Reagan,0.94
+fiw,msceleb,F0617.5,m.05zzg24,jack (father) reagan,Jack Reagan,0.94
+fiw,msceleb,F0617.6,m.080j3m8,neil (brother) reagan,Neil Reagan,0.94
+fiw,msceleb,F0617.7,m.03gy79l,nelle (mother) reagan,Nelle Wilson Reagan,0.94
+fiw,msceleb,F0618.1,m.0h10vt,eddie redmayne,Eddie Redmayne,1
+fiw,msceleb,F0619.1,m.03x_sks,kasim reed,Kasim Reed,1
+fiw,msceleb,F0621.2,m.0479b,keanu reeves,Keanu Reeves,1
+fiw,msceleb,F0621.4,m.09km2l9,kim (sister) reeves,Kim Reeves,0.94
+fiw,msceleb,F0622.2,m.0272zl1,david (father) reivers,David Reivers,0.94
+fiw,msceleb,F0623.1,m.0276hjs,david david,David Mathayo David,0.94
+fiw,msceleb,F0624.1,m.05c04hm,marco reus,Marco Reus,1
+fiw,msceleb,F0626.1,m.0240vt,jerry rice,Jerry Rice,1
+fiw,msceleb,F0627.1,m.0h7qhtq,michael richards,Michael Adrian Richards,0.94
+fiw,msceleb,F0627.1,m.0yzyr3b,michael richards,Michael W. Richards,0.94
+fiw,msceleb,F0628.1,m.022q32,nicole richie,Nicole Richie,1
+fiw,msceleb,F0629.1,m.09y20,alan rickman,Alan Rickman,1
+fiw,msceleb,F0630.1,m.0896s_,gine rinehart,Gina Rinehart,0.9230769230769231
+fiw,msceleb,F0630.3,m.0896s_,ginia rinehart,Gina Rinehart,0.9629629629629629
+fiw,msceleb,F0631.1,m.07sgfsl,naya rivera,Naya Rivera,1
+fiw,msceleb,F0631.2,m.0h_6rq6,mychal rivera,Mychal Rivera,1
+fiw,msceleb,F0632.2,m.02dzw5,melissa rivers,Melissa Rivers,1
+fiw,msceleb,F0633.1,m.038pvw,arjen robben,Arjen Robben,1
+fiw,msceleb,F0634.1,m.0kbb9pb,julia roberts,Julia Roberts,1
+fiw,msceleb,F0634.4,m.0bbxrhf,daniel roberts,Daniel Roberts,1
+fiw,msceleb,F0634.5,m.02r5n84,betty roberts,Betty Roberts,1
+fiw,msceleb,F0634.7,m.08v1vy3,lisa roberts,Lisa Taylor Roberts,0.94
+fiw,msceleb,F0634.8,m.03wt1mx,eric roberts,Eric Roberts,1
+fiw,msceleb,F0635.1,m.016_mj,chris rock,Chris Rock,1
+fiw,msceleb,F0635.2,m.0b_yvp,tony rock,Tony Rock,1
+fiw,msceleb,F0635.3,m.04dn76t,malaak rock,Malaak Compton Rock,0.94
+fiw,msceleb,F0635.4,m.04dn778,lola rock,Lola Simone Rock,0.94
+fiw,msceleb,F0635.5,m.04dn77g,zahra rock,Zahra Savannah Rock,0.94
+fiw,msceleb,F0636.2,m.04b1vx,mary rockefeller,Mary Rockefeller,1
+fiw,msceleb,F0636.2,m.01xmnh,mary rockefeller,Jay Rockefeller,0.9032258064516129
+fiw,msceleb,F0636.2,m.026ctmw,mary rockefeller,Avery Rockefeller,0.9090909090909091
+fiw,msceleb,F0636.6,m.08mq10,steven rockefeller,Steven Clark Rockefeller,0.94
+fiw,msceleb,F0636.7,m.08dlq5,happy rockefeller,Happy Rockefeller,1
+fiw,msceleb,F0638.7,m.03rq1x,mark rogan,Markus Rogan,0.9090909090909091
+fiw,msceleb,F0639.1,m.0dr_7c,nancy rogers,Nancy H. Rogers,0.94
+fiw,msceleb,F0639.5,m.05jxb1,james rogers,James Gamble Rogers,0.94
+fiw,msceleb,F0639.5,m.07kj64w,james rogers,James E. Rogers,0.94
+fiw,msceleb,F0639.5,m.09sp97,james rogers,James D. Rogers,0.94
+fiw,msceleb,F0639.5,m.0cvdhrg,james rogers,James Preston Rogers,0.94
+fiw,msceleb,F0639.5,m.0jtf6k,james rogers,James B. Rogers,0.94
+fiw,msceleb,F0639.7,m.05svdq4,john rogers,John W. Rogers,0.94
+fiw,msceleb,F0639.7,m.094c_4,john rogers,John T. Rogers,0.94
+fiw,msceleb,F0639.7,m.0b7sdf,john rogers,John Jacob Rogers,0.94
+fiw,msceleb,F0639.7,m.0cftz8,john rogers,John M. Rogers,0.94
+fiw,msceleb,F0639.7,m.0k2kz0n,john rogers,John Daniel Rogers,0.94
+fiw,msceleb,F0641.1,m.0271_s,mitt romney,Mitt Romney,1
+fiw,msceleb,F0641.1,m.02kvkl_,mitt romney,Matt Romney,0.9090909090909091
+fiw,msceleb,F0641.3,m.03m5dk9,tagg romney,Tagg Romney,1
+fiw,msceleb,F0641.4,m.02kvkmn,ben romney,Ben Romney,1
+fiw,msceleb,F0641.5,m.02kvkl_,matt romney,Matt Romney,1
+fiw,msceleb,F0641.5,m.0271_s,matt romney,Mitt Romney,0.9090909090909091
+fiw,msceleb,F0641.6,m.03qj3pv,josh romney,Josh Romney,1
+fiw,msceleb,F0641.7,m.02kvkmy,craig romney,Craig Romney,1
+fiw,msceleb,F0642.1,m.02xt6q,cristiano ronaldo,Cristiano Ronaldo,1
+fiw,msceleb,F0643.1,m.0644rm,sara roosevelt,Sara Roosevelt,1
+fiw,msceleb,F0643.2,m.02yy8,franklin roosevelt,Franklin D. Roosevelt,0.94
+fiw,msceleb,F0643.3,m.02n9k,eleanor roosevelt,Eleanor Roosevelt,1
+fiw,msceleb,F0644.1,m.07hyk,theodore roosevelt,Theodore Roosevelt,1
+fiw,msceleb,F0644.1,m.0450y9,theodore roosevelt,Theodore Roosevelt IV,0.9230769230769231
+fiw,msceleb,F0644.1,m.0450y_,theodore roosevelt,Theodore Roosevelt V,0.9473684210526315
+fiw,msceleb,F0644.4,m.025pvc,edith roosevelt,Edith Roosevelt,1
+fiw,msceleb,F0645.1,m.0283v6h,derrick rose,Derrick Rose,1
+fiw,msceleb,F0646.1,m.01wrcxr,diana ross,Diana Ross,1
+fiw,msceleb,F0646.3,m.03zcjf,tracee ross,Tracee Ellis Ross,0.94
+fiw,msceleb,F0647.1,m.04gttgp,ronda rousey,Ronda Rousey,1
+fiw,msceleb,F0648.1,m.042xh,jk rowling,J. K. Rowling,0.96
+fiw,msceleb,F0649.1,m.0652ty,saul rubinek,Saul Rubinek,1
+fiw,msceleb,F0650.1,m.0dpr5f,marco rubio,Marco Rubio,1
+fiw,msceleb,F0650.1,m.05b0hv_,marco rubio,Marco Antonio Rubio,0.94
+fiw,msceleb,F0650.9,m.04jjw1k,mario rubio,Mario Martínez Rubio,0.94
+fiw,msceleb,F0651.1,m.032w8h,paul rudd,Paul Rudd,1
+fiw,msceleb,F0651.1,m.0czf4cf,paul rudd,Paul Ryan Rudd,0.94
+fiw,msceleb,F0653.1,m.035rnz,mark ruffalo,Mark Ruffalo,1
+fiw,msceleb,F0653.3,m.0j1x863,keen ruffalo,Keen Ruffalo,1
+fiw,msceleb,F0653.4,m.0j1x86b,odette ruffalo,Odette Ruffalo,1
+fiw,msceleb,F0654.1,m.06110y,bas rutten,Bas Rutten,1
+fiw,msceleb,F0655.1,m.04cqpw_,dmitri rybolovlev,Dmitry Rybolovlev,0.9411764705882353
+fiw,msceleb,F0657.1,m.0d58h,anwar sadat,Anwar Sadat,1
+fiw,msceleb,F0657.2,m.05kgdw,jehan sadat,Jehan Sadat,1
+fiw,msceleb,F0658.1,m.05n_x5b,robert kraft,Robert A. Kraft,0.94
+fiw,msceleb,F0658.2,m.03wfy7n,myra kraft,Myra Kraft,1
+fiw,msceleb,F0658.8,m.02vp_8z,david kraft,David Anthony Kraft,0.94
+fiw,msceleb,F0659.2,m.07yb12,margaret salinger,Margaret Salinger,1
+fiw,msceleb,F0660.1,m.01_gbv,bernie sanders,Bernie Sanders,1
+fiw,msceleb,F0660.3,m.018gv8,larry sanders,Barry Sanders,0.9230769230769231
+fiw,msceleb,F0661.1,m.0pz91,adam sandler,Adam Sandler,1
+fiw,msceleb,F0661.2,m.0dj45l5,sadie sandler,Sadie Madison Sandler,0.94
+fiw,msceleb,F0661.3,m.0dj5jvl,sunny sandler,Sunny Madeline Sandler,0.94
+fiw,msceleb,F0661.4,m.0gm6m8,jackie sandler,Jackie Sandler,1
+fiw,msceleb,F0663.1,m.04gn4dh,pablo sandoval,Pablo Sandoval,1
+fiw,msceleb,F0664.1,m.056gk,margaret sanger,Margaret Sanger,1
+fiw,msceleb,F0665.1,m.02pqvmj,juan manuel santos,Juan Manuel Santos,1
+fiw,msceleb,F0665.1,m.0j5bzv5,juan manuel santos,Juan M. Santos,0.94
+fiw,msceleb,F0665.2,m.05mzfrh,maria clemencia santos,Maria Santos,0.94
+fiw,msceleb,F0665.5,m.05mzfrh,maria antonia santos,Maria Santos,0.94
+fiw,msceleb,F0666.1,m.09gdrgy,romeo santos,Romeo Santos,1
+fiw,msceleb,F0667.2,m.025szqq,maria schaeffler,Maria-Elisabeth Schaeffler,0.94
+fiw,msceleb,F0668.2,m.01j29r,sargent schriver,Sargent Shriver,0.967741935483871
+fiw,msceleb,F0670.1,m.02wcd14,amy schumer,Amy Schumer,1
+fiw,msceleb,F0671.1,m.01w74d,chuck schumer,Chuck Schumer,1
+fiw,msceleb,F0672.1,m.0tc7,arnold schwarzenegger,Arnold Schwarzenegger,1
+fiw,msceleb,F0672.3,m.022qznt,christopher schwarzenegger,Christopher Schwarzenegger,1
+fiw,msceleb,F0672.7,m.0dddvzg,katherine schwarzenegger,Katherine Schwarzenegger,1
+fiw,msceleb,F0673.1,m.03lpl1,stephen schwarzman,Stephen A. Schwarzman,0.94
+fiw,msceleb,F0673.6,m.02prn3_,owen schwarzman,Howie Schwarzman,0.9032258064516129
+fiw,msceleb,F0674.1,m.0q5hw,jerry seinfeld,Jerry Seinfeld,1
+fiw,msceleb,F0674.2,m.03bxqcb,jessica seinfeld,Jessica Seinfeld,1
+fiw,msceleb,F0675.1,m.063_t,peter sellers,Peter Sellers,1
+fiw,msceleb,F0675.3,m.0j_cpg,michael sellers,Michael D. Sellers,0.94
+fiw,msceleb,F0675.5,m.02r88mh,victoria sellers,Victoria Sellers,1
+fiw,msceleb,F0676.1,m.03zz8b,amanda seyfried,Amanda Seyfried,1
+fiw,msceleb,F0677.1,m.074bmq,shailene woodley,Shailene Woodley,1
+fiw,msceleb,F0678.1,m.012bk,ariel sharon,Ariel Sharon,1
+fiw,msceleb,F0678.4,m.0294lv,gilad sharon,Gilad Sharon,1
+fiw,msceleb,F0678.5,m.05_7v_,omri sharon,Omri Sharon,1
+fiw,msceleb,F0680.1,m.01pkhw,michael sheen,Michael Sheen,1
+fiw,msceleb,F0680.2,m.0ddfw0,lily sheen,Lily Mo Sheen,0.94
+fiw,msceleb,F0680.3,m.0gz664k,irene sheen,Irene Sheen,1
+fiw,msceleb,F0680.4,m.0gz664r,meyrick sheen,Meyrick Sheen,1
+fiw,msceleb,F0681.1,m.0fd_yv,mark sheppard,Mark Sheppard,1
+fiw,msceleb,F0683.1,m.04bs3j,sarah silverman,Sarah Silverman,1
+fiw,msceleb,F0683.2,m.046xr0r,donald silverman,Donald Silverman,1
+fiw,msceleb,F0683.2,m.02rbs8m,donald silverman,Ronald Silverman,0.9375
+fiw,msceleb,F0683.3,m.067j86,laura silverman,Laura Silverman,1
+fiw,msceleb,F0683.5,m.0gyckpz,susan silverman,Susan Silverman,1
+fiw,msceleb,F0684.1,m.040j_3,joseph simmons,Joseph Simmons,1
+fiw,msceleb,F0684.2,m.0bh7ymb,diggy simmons,Diggy Simmons,1
+fiw,msceleb,F0684.3,m.02xxbs,russell simmons,Russell Simmons,1
+fiw,msceleb,F0684.3,m.06450z1,russell simmons,Russell Simmons II,0.9090909090909091
+fiw,msceleb,F0684.5,m.0sh0tym,justine simmons,Justine Simmons,1
+fiw,msceleb,F0685.1,m.0c7xjb,jessica simpson,Jessica Simpson,1
+fiw,msceleb,F0685.2,m.033wx9,ashlee simpson,Ashlee Simpson,1
+fiw,msceleb,F0686.3,m.025n3p,vin diesel diesel,Vin Diesel,0.94
+fiw,msceleb,F0687.1,m.0j6mhch,charoen sirivadhanabhakdi,Charoen Sirivadhanabhakdi,1
+fiw,msceleb,F0688.1,m.025j1t,tom sizemore,Tom Sizemore,1
+fiw,msceleb,F0689.2,m.02mkkx,stellan skarsgard,Stellan Skarsgård,0.9411764705882353
+fiw,msceleb,F0690.1,m.02ygr1,carlos slim,Carlos Slim,1
+fiw,msceleb,F0691.1,m.0j8k3l1,reilly smith,Reilly Smith,1
+fiw,msceleb,F0691.2,m.02rxm6p,brendan smith,Brendan Smith,1
+fiw,msceleb,F0691.3,m.0cmd21w,lester smith,Lester Smith,1
+fiw,msceleb,F0691.4,m.0b6m3yp,ruth smith,Ruth P. Smith,0.94
+fiw,msceleb,F0692.1,m.03f2lp,jaclyn smith,Jaclyn Smith,1
+fiw,msceleb,F0692.1,m.03h16k_,jaclyn smith,Jaclyn A. Smith,0.94
+fiw,msceleb,F0692.2,m.01lm1s,margaret smith,Margaret Chase Smith,0.94
+fiw,msceleb,F0692.2,m.02x5z24,margaret smith,Margaret Taylor Smith,0.94
+fiw,msceleb,F0692.2,m.07kbz1p,margaret smith,Margaret Cabourn-Smith,0.94
+fiw,msceleb,F0692.2,m.0h0ts_j,margaret smith,Margaret Hutton-Smith,0.94
+fiw,msceleb,F0692.4,m.03gvyxy,anthony smith,Anthony Smith,1
+fiw,msceleb,F0692.4,m.026lvx6,anthony smith,Anthony Neil Smith,0.94
+fiw,msceleb,F0692.4,m.05y29y_,anthony smith,Anthony Douglas Smith,0.94
+fiw,msceleb,F0692.4,m.0d8p_q,anthony smith,Anthony D. Smith,0.94
+fiw,msceleb,F0692.4,m.0h1ff1f,anthony smith,Anthony Denison-Smith,0.94
+fiw,msceleb,F0693.2,m.0269mv1,robert smith,Robert Hall Smith,0.94
+fiw,msceleb,F0693.2,m.026cv8j,robert smith,Robert Kimmel Smith,0.94
+fiw,msceleb,F0693.2,m.02vxv9m,robert smith,Robert Burns Smith,0.94
+fiw,msceleb,F0693.2,m.02w2q7c,robert smith,Robert O. Smith,0.94
+fiw,msceleb,F0693.2,m.03m53hf,robert smith,Robert Dean Smith,0.94
+fiw,msceleb,F0693.2,m.04cyg04,robert smith,Robert P. Smith,0.94
+fiw,msceleb,F0693.2,m.04f5dpg,robert smith,Robert Ellis Smith,0.94
+fiw,msceleb,F0693.3,m.02wyzh0,toby stephen smith,Toby Smith,0.94
+fiw,msceleb,F0693.4,m.05zw19b,chris smith,"Chris \""Frenchie\"" Smith",0.94
+fiw,msceleb,F0693.4,m.09ds9zq,chris smith,D. Chris Smith,0.9166666666666666
+fiw,msceleb,F0693.4,m.0yqhnk8,chris smith,Chris W. Smith,0.94
+fiw,msceleb,F0694.1,m.09hqt4,matt smith,Matt Smith,1
+fiw,msceleb,F0694.1,m.02qymf1,matt smith,"Matt \""Money\"" Smith",0.94
+fiw,msceleb,F0694.2,m.01tl6lc,laura smith,Laura Smith,1
+fiw,msceleb,F0694.2,m.04l_90l,laura smith,Laura Hastings-Smith,0.94
+fiw,msceleb,F0694.2,m.05247yy,laura smith,Laura-Lee Smith,0.94
+fiw,msceleb,F0694.2,m.0lrcq_j,laura smith,Laura Francis Smith,0.94
+fiw,msceleb,F0694.4,m.0yns1x2,dave smith,Dave Smith,1
+fiw,msceleb,F0694.4,m.0fyjxt,dave smith,Dave Langford-Smith,0.94
+fiw,msceleb,F0695.2,m.0gmx7k,kate smith,Kate Smith,1
+fiw,msceleb,F0695.2,m.03qsrm,kate smith,Kate Wilson-Smith,0.94
+fiw,msceleb,F0695.3,m.03m7793,fred smith,Fred L. Smith,0.94
+fiw,msceleb,F0695.3,m.05p6wk8,fred smith,Fred A. Smith,0.94
+fiw,msceleb,F0695.3,m.064d82,fred smith,Fred Sonic Smith,0.94
+fiw,msceleb,F0695.3,m.06zrd64,fred smith,Fred E. Smith,0.94
+fiw,msceleb,F0696.1,m.0ql1szz,will smith,Will Carrick-Smith,0.94
+fiw,msceleb,F0696.4,m.01j7z7,jada smith,Jada Pinkett Smith,0.94
+fiw,msceleb,F0696.5,m.03gq433,willow smith,Willow Smith,1
+fiw,msceleb,F0696.7,m.09ds7gn,caroline smith,Caroline Smith,1
+fiw,msceleb,F0697.1,m.08j5l5,cobie smulders smulders,Cobie Smulders,0.94
+fiw,msceleb,F0698.1,m.0gyk6w,george soros,George Soros,1
+fiw,msceleb,F0698.5,m.04fyzq6,jonathan soros,Jonathan Soros,1
+fiw,msceleb,F0698.6,m.049mct,susan soros,Susan Weber Soros,0.94
+fiw,msceleb,F0698.7,m.03wqt04,paul soros,Paul Soros,1
+fiw,msceleb,F0699.1,m.015f7,britney spears spears,Britney Spears,0.94
+fiw,msceleb,F0699.5,m.0p52s,jamie lynn spears spears,Jamie Lynn Spears,0.94
+fiw,msceleb,F0699.8,m.0gkbntv,brian spears,Brian Spears,1
+fiw,msceleb,F0701.1,m.0p17j,tori spelling,Tori Spelling,1
+fiw,msceleb,F0701.2,m.01pcmd,aaron spelling,Aaron Spelling,1
+fiw,msceleb,F0701.3,m.03clxd2,candy spelling,Candy Spelling,1
+fiw,msceleb,F0701.3,m.03fhp1,candy spelling,Randy Spelling,0.9285714285714286
+fiw,msceleb,F0701.4,m.03fhp1,randy spelling,Randy Spelling,1
+fiw,msceleb,F0701.4,m.03clxd2,randy spelling,Candy Spelling,0.9285714285714286
+fiw,msceleb,F0701.6,m.0l6xnzj,dean spelling,Dan Spelling,0.96
+fiw,msceleb,F0702.2,m.03cbt8g,charles spencer,Charles S. Spencer,0.94
+fiw,msceleb,F0702.2,m.0h53pdt,charles spencer,Charles Cozens Spencer,0.94
+fiw,msceleb,F0702.5,m.0105syv8,jane spencer,Anne Spencer,0.9166666666666666
+fiw,msceleb,F0702.7,m.03qnjgw,john spencer,John H. Spencer,0.94
+fiw,msceleb,F0703.1,m.06pj8,steven spielberg,Steven Spielberg,1
+fiw,msceleb,F0703.3,m.0b73pyc,sasha spielberg,Sasha Spielberg,1
+fiw,msceleb,F0703.5,m.04hzmf2,arnold spielberg,Arnold Spielberg,1
+fiw,msceleb,F0703.6,m.04j6pmv,nancy spielberg,Nancy Spielberg,1
+fiw,msceleb,F0703.7,m.04hzmpr,sawyer spielberg,Sawyer Avery Spielberg,0.94
+fiw,msceleb,F0703.9,m.0bt7r4h,max spielberg,Max Spielberg,1
+fiw,msceleb,F0704.1,m.02cms2,eliot spitzer spitzer,Eliot Spitzer,0.94
+fiw,msceleb,F0704.2,m.027ff1c,silda spitzer spitzer,Silda Wall Spitzer,0.94
+fiw,msceleb,F0705.1,m.0b3x4c5,dylan sprouse,Dylan Sprouse,1
+fiw,msceleb,F0705.2,m.0b3x4c3,cole sprouse,Cole Sprouse,1
+fiw,msceleb,F0708.1,m.02jq1,elvis presley,Elvis Presley,1
+fiw,msceleb,F0708.2,m.01dml6,priscilla presley,Priscilla Presley,1
+fiw,msceleb,F0708.3,m.0qlry,lisa presley,Lisa Marie Presley,0.94
+fiw,msceleb,F0708.4,m.01cbg8,jesse presley,Jesse Garon Presley,0.94
+fiw,msceleb,F0708.5,m.0gc_qyr,vernon presley,Vernon Presley,1
+fiw,msceleb,F0708.6,m.0gc_qyj,gladys presley,Gladys Presley,1
+fiw,msceleb,F0709.2,m.014qv7,gavin rossdale rossdale,Gavin Rossdale,0.94
+fiw,msceleb,F0709.3,m.03ghqs1,kingston rossdale rossdale,Kingston Rossdale,0.94
+fiw,msceleb,F0711.1,m.0b75jtr,hailee steinfeld,Hailee Steinfeld,1
+fiw,msceleb,F0711.2,m.04n4pxz,peter steinfeld,Peter Steinfeld,1
+fiw,msceleb,F0711.3,m.0c428br,cheri steinfeld,Chris Steinfeld,0.9333333333333333
+fiw,msceleb,F0712.1,m.01y9bv,patrick stewart stewart,Patrick Shaw-Stewart,0.94
+fiw,msceleb,F0712.2,m.0cgxvz_,daniel stewart stewart,Daniel Stewart,0.94
+fiw,msceleb,F0712.3,m.0cm85z6,wendy neuss stewart,Wendy Stewart,0.94
+fiw,msceleb,F0713.1,m.07k6868,booboo stewart,Booboo Stewart,1
+fiw,msceleb,F0713.2,m.0834z_1,fivel stewart,Fivel Stewart,1
+fiw,msceleb,F0713.5,m.045rkzc,nils allen stewart,Nils Allen Stewart,1
+fiw,msceleb,F0714.1,m.0dfh_3,jon stewart,Jon Stewart,1
+fiw,msceleb,F0714.1,m.0123kx78,jon stewart,Jonny Stewart,0.9166666666666666
+fiw,msceleb,F0715.1,m.07swvb,kristen stewart,Kristen Stewart,1
+fiw,msceleb,F0715.2,m.0dfh_3,jon stewart,Jon Stewart,1
+fiw,msceleb,F0715.2,m.0123kx78,jon stewart,Jonny Stewart,0.9166666666666666
+fiw,msceleb,F0715.3,m.07sgghb,jules stewart,Jules Mann-Stewart,0.94
+fiw,msceleb,F0715.5,m.07sggng,cameron stewart,Cameron Stewart,1
+fiw,msceleb,F0715.5,m.0dgp3q1,cameron stewart,Cameron Leigh Stewart,0.94
+fiw,msceleb,F0715.5,m.0gkd_0m,cameron stewart,Cameron Deane Stewart,0.94
+fiw,msceleb,F0716.1,m.07kczv0,martha stewart stewart,Martha Stewart,0.94
+fiw,msceleb,F0716.2,m.03xhsr,andy stewart stewart,Andy Stewart,0.94
+fiw,msceleb,F0716.2,m.01ql_tl,andy stewart stewart,Andy M. Stewart,0.94
+fiw,msceleb,F0716.3,m.041q7j,alexis stewart stewart,Alexis Stewart,0.94
+fiw,msceleb,F0717.2,m.0464nvm,<ruby> stewart,Ruby Stewart,0.96
+fiw,msceleb,F0717.4,m.026mcjn,alana stewart,Alana Stewart,1
+fiw,msceleb,F0717.5,m.05x6rb,sean stewart,Sean Stewart,1
+fiw,msceleb,F0717.7,m.063smp,alastair stewart,Alastair Stewart,1
+fiw,msceleb,F0718.1,m.0mdqp,ben stiller stiller,Ben Stiller,0.94
+fiw,msceleb,F0718.3,m.04dq6dp,ella stiller stiller,Ella Olivia Stiller,0.94
+fiw,msceleb,F0718.4,m.04dq6dw,quinlin stiller stiller,Quinlin Dempsey Stiller,0.94
+fiw,msceleb,F0719.1,m.09yhzs,emma stone,Emma Stone,1
+fiw,msceleb,F0719.3,m.0lq1qs5,jeffrey stone,Jeffrey Stone,1
+fiw,msceleb,F0720.1,m.02bwjv,alyson stoner stoner,Alyson Stoner,0.94
+fiw,msceleb,F0722.1,m.0h3cm8d,harry styles,Harry Styles,1
+fiw,msceleb,F0723.1,m.06cddt,jason sudeikis sudeikis,Jason Sudeikis,0.94
+fiw,msceleb,F0724.1,m.0zm_391,zoe sugg,Zoe Sugg,1
+fiw,msceleb,F0725.1,m.06n0nr,bastian schweinsteiger,Bastian Schweinsteiger,1
+fiw,msceleb,F0725.2,m.02640s3,tobias schweinsteiger,Tobias Schweinsteiger,1
+fiw,msceleb,F0726.1,m.0dl567,taylor swift swift,Taylor Swift,0.94
+fiw,msceleb,F0726.2,m.0h32zhc,scott kingsly swift swift,Scott Kingsley Swift,0.94
+fiw,msceleb,F0726.4,m.0h32zj5,austin swift swift,Austin Swift,0.94
+fiw,msceleb,F0728.1,m.0br_6ht,william taft,William W. Taft,0.94
+fiw,msceleb,F0728.2,m.025ptz,helen herron taft,Helen Herron Taft,1
+fiw,msceleb,F0728.3,m.025ptz,helen taft taft,Helen Herron Taft,0.94
+fiw,msceleb,F0728.5,m.01_5y1,robert taft,Robert A. Taft,0.94
+fiw,msceleb,F0728.5,m.05q8tlw,robert taft,Robert F. Taft,0.94
+fiw,msceleb,F0728.5,m.05w2234,robert taft,Robert W. Taft,0.94
+fiw,msceleb,F0729.1,m.02r_d4,jeffrey tambor,Jeffrey Tambor,1
+fiw,msceleb,F0729.4,m.0jvnkj1,eve tambor,Eve Julia Tambor,0.94
+fiw,msceleb,F0730.1,m.06lvlf,channing tatum tatum,Channing Tatum,0.94
+fiw,msceleb,F0730.2,m.0gxnk4m,kay tatum tatum,Kay Tatum,0.94
+fiw,msceleb,F0730.3,m.0gxnk49,glenn tatum tatum,Glenn Tatum,0.94
+fiw,msceleb,F0730.5,m.0vsn9bz,everly tatum tatum,Everly Tatum,0.94
+fiw,msceleb,F0730.6,m.0k6g9jg,paige tatum,Paige Tatum,1
+fiw,msceleb,F0731.3,m.0t_cq_m,richard burton taylor,Richard Taylor,0.94
+fiw,msceleb,F0731.3,m.04049yl,richard burton taylor,Richard John Taylor,0.94
+fiw,msceleb,F0731.3,m.04746b,richard burton taylor,Richard Norton-Taylor,0.94
+fiw,msceleb,F0731.3,m.067s04,richard burton taylor,Richard E. Taylor,0.94
+fiw,msceleb,F0731.3,m.091fmg,richard burton taylor,Richard R. Taylor,0.94
+fiw,msceleb,F0731.3,m.0dgng3h,richard burton taylor,Richard H. Taylor,0.94
+fiw,msceleb,F0731.4,m.0b6kpjk,michael todd taylor,Michael R. Taylor,0.94
+fiw,msceleb,F0731.4,m.0zmylj7,michael todd taylor,Michael E. Taylor,0.94
+fiw,msceleb,F0731.4,m.05y6r51,michael todd taylor,Michael John Haddrick Taylor,0.94
+fiw,msceleb,F0731.5,m.0bbcmdk,christopher wilding taylor,Christopher M. Taylor,0.94
+fiw,msceleb,F0733.1,m.05m7zg,david tennant tennant,David Tennant,0.94
+fiw,msceleb,F0733.1,m.0mv8qt6,david tennant tennant,David Pax Tennant,0.94
+fiw,msceleb,F0733.4,m.0hhsrxc,peter davison tennant,Peter Tennant,0.94
+fiw,msceleb,F0734.1,m.0cmdlc,david tepper,David Tepper,1
+fiw,msceleb,F0736.1,m.03f5vvx,margaret thatcher,Margaret Thatcher,1
+fiw,msceleb,F0736.2,m.01rmgp,carol thatcher,Carol Thatcher,1
+fiw,msceleb,F0736.3,m.03qtws,mark thatcher,Mark Thatcher,1
+fiw,msceleb,F0736.4,m.01llbv,denis thatcher,Denis Thatcher,1
+fiw,msceleb,F0736.5,m.01wr1j,muriel thatcher,Maurice Thatcher,0.9032258064516129
+fiw,msceleb,F0737.1,m.01q32bd,robin thicke,Robin Thicke,1
+fiw,msceleb,F0737.2,m.02wd48,alan thicke,Alan Thicke,1
+fiw,msceleb,F0738.2,m.0kmj5_q,alana thompson thompson,Alana Thompson,0.94
+fiw,msceleb,F0738.3,m.03f6j_t,jessica shannon thompson,Jessica Thompson,0.94
+fiw,msceleb,F0738.5,m.0njm8xf,mike thompson thompson,Mike Thompson,0.94
+fiw,msceleb,F0739.1,m.0282hk3,bella thorne,Bella Thorne,1
+fiw,msceleb,F0739.3,m.0ch5yyb,kaili thorne,Kaili Thorne,1
+fiw,msceleb,F0739.4,m.0ch3phn,dani thorne,Dani Thorne,1
+fiw,msceleb,F0739.5,m.0qghvfn,reinaldo thorne,Reinaldo Thorne,1
+fiw,msceleb,F0740.1,m.0kjrx,uma thurman,Uma Thurman,1
+fiw,msceleb,F0740.2,m.0gz709h,taya thurman,Taya Thurman,1
+fiw,msceleb,F0740.3,m.02rbphl,rob thurman,Rob Thurman,1
+fiw,msceleb,F0740.3,m.027d799,rob thurman,Bob Thurman,0.9090909090909091
+fiw,msceleb,F0740.6,m.03q1ld8,dechen thurman,Dechen Thurman,1
+fiw,msceleb,F0741.1,m.0j1yf,justin timberlake,Justin Timberlake,1
+fiw,msceleb,F0741.2,m.04fw102,jonathan timberlake,Jonathan Perry Timberlake,0.94
+fiw,msceleb,F0741.3,m.04fw0_x,stephen timberlake,Stephen Robert Timberlake,0.94
+fiw,msceleb,F0741.7,m.04fls8j,randall timberlake,Randall Timberlake,1
+fiw,msceleb,F0742.1,m.097346,marcelo tinelli,Marcelo Tinelli,1
+fiw,msceleb,F0743.1,m.06tp4h,ashley tisdale tisdale,Ashley Tisdale,0.94
+fiw,msceleb,F0743.2,m.0gjtg9,jennifer tisdale tisdale,Jennifer Tisdale,0.94
+fiw,msceleb,F0743.3,m.05p57g2,mike tisdale tisdale,Mike Tisdale,0.94
+fiw,msceleb,F0744.2,m.0b6m4gp,sophia tolstoy,Sophie Tolstoy,0.9285714285714286
+fiw,msceleb,F0744.3,m.08l43j,lev tolstoy,Lev Lvovich Tolstoy,0.94
+fiw,msceleb,F0744.4,m.08l43j,lev tolstoy,Lev Lvovich Tolstoy,0.94
+fiw,msceleb,F0745.1,m.047kk6,fernando torres,Fernando Torres,1
+fiw,msceleb,F0745.8,m.011grgmj,maria torres,Mariana Torres,0.9230769230769231
+fiw,msceleb,F0746.1,m.0cf2h,spencer tracy,Spencer Tracy,1
+fiw,msceleb,F0746.2,m.03wxg8f,john tracy,John J Tracy,0.94
+fiw,msceleb,F0746.2,m.0gvr909,john tracy,John Emmet Tracy,0.94
+fiw,msceleb,F0746.3,m.06gvrp,louise tracy,Louise Tracy,1
+fiw,msceleb,F0747.1,m.0j8djs0,meghan trainor trainor,Meghan Trainor,0.94
+fiw,msceleb,F0749.1,m.052wf5z,ella travolta,Ella Bleu Travolta,0.94
+fiw,msceleb,F0749.2,m.0f502,john travolta,John Travolta,1
+fiw,msceleb,F0749.3,m.052wf5f,jett travolta,Jett Travolta,1
+fiw,msceleb,F0749.5,m.0hz__jw,benjamin travolta,Benjamin Travolta,1
+fiw,msceleb,F0750.1,m.02b5jh,justin trudeau,Justin Trudeau,1
+fiw,msceleb,F0750.2,m.01vvt53,sophie trudeau,Sophie Trudeau,1
+fiw,msceleb,F0750.6,m.01yffv,margaret trudeau,Margaret Trudeau,1
+fiw,msceleb,F0750.7,m.063vn,pierre trudeau,Pierre Trudeau,1
+fiw,msceleb,F0750.7,m.0c1p0lr,pierre trudeau,Pierre M. Trudeau,0.94
+fiw,msceleb,F0750.8,m.02q6n5,michel trudeau,Michel Trudeau,1
+fiw,msceleb,F0750.9,m.02b5m2,alexandre trudeau,Alexandre Trudeau,1
+fiw,msceleb,F0751.1,m.09bg4l,harry s truman truman,Harry S. Truman,0.94
+fiw,msceleb,F0751.1,m.09qsk,harry s truman truman,Harry Randall Truman,0.94
+fiw,msceleb,F0752.1,m.0cqt90,donald trump,Donald Trump,1
+fiw,msceleb,F0752.3,m.061wfm,ivanka trump,Ivanka Trump,1
+fiw,msceleb,F0752.4,m.026r8jg,eric trump,Eric Trump,1
+fiw,msceleb,F0753.1,m.02d5w,desmond tutu,Desmond Tutu,1
+fiw,msceleb,F0753.2,m.0yqmzcp,mpho tutu,Mpho Osei Tutu,0.94
+fiw,msceleb,F0754.3,m.01rh0w,liv tyler,Liv Tyler,1
+fiw,msceleb,F0754.4,m.04ghss,mia tyler,Mia Tyler,1
+fiw,msceleb,F0755.3,m.05m5xl5,miguel tyson,Miguel Leon Tyson,0.94
+fiw,msceleb,F0755.5,m.05m5xkt,rayna tyson,Rayna Tyson,1
+fiw,msceleb,F0757.1,m.0fgw19,kim jong un un,Kim Jong-un,0.94
+fiw,msceleb,F0757.2,m.0fgw19,kim jong ill un,Kim Jong-un,0.94
+fiw,msceleb,F0757.4,m.0fgw19,kim il-sung un,Kim Jong-un,0.94
+fiw,msceleb,F0757.8,m.0fgw19,kim jong name un,Kim Jong-un,0.94
+fiw,msceleb,F0757.9,m.0fgw19,kim kyong-hui un,Kim Jong-un,0.94
+fiw,msceleb,F0758.1,m.013ylm,holly valance,Holly Valance,1
+fiw,msceleb,F0759.1,m.0ch1j0l,buddy valastro,Buddy Valastro,1
+fiw,msceleb,F0762.6,m.06w93sc,sharon vaughn,Sharon Vaughn,1
+fiw,msceleb,F0763.1,m.025j0c,kurt warner,Kurt Warner,1
+fiw,msceleb,F0765.2,m.02gpyk,donatella versace versace,Donatella Versace,0.94
+fiw,msceleb,F0766.1,m.0ccy1d,shane victorino,Shane Victorino,1
+fiw,msceleb,F0767.1,m.016883,carlos vives vives,Carlos Vives,0.94
+fiw,msceleb,F0767.5,m.016883,carlos enrique vives,Carlos Vives,0.94
+fiw,msceleb,F0768.1,m.09lckt,ron vlaar,Ron Vlaar,1
+fiw,msceleb,F0770.1,m.04cr6gy,robert wagner,Robert Wagner,1
+fiw,msceleb,F0770.1,m.031lwb,robert wagner,Robert F. Wagner,0.94
+fiw,msceleb,F0770.1,m.059t6r,robert wagner,Robert Heinrich Wagner,0.94
+fiw,msceleb,F0770.3,m.0bstyg,katie wagner,Katie Wagner,1
+fiw,msceleb,F0770.4,m.07htp2,natasha wagner,Natasha Gregson Wagner,0.94
+fiw,msceleb,F0771.1,m.0gy6z9,mark wahlberg,Mark Wahlberg,1
+fiw,msceleb,F0773.1,m.04f27z8,paul walker walker,Paul Baxendale-Walker,0.94
+fiw,msceleb,F0773.1,m.0ftq5l,paul walker walker,Paul A. Walker,0.94
+fiw,msceleb,F0774.3,m.09qt_j,matt walker,Matt Walker,1
+fiw,msceleb,F0774.5,m.04048hp,pat walker,Pat Walker,1
+fiw,msceleb,F0774.7,m.026xnc9,david walker,David James Walker,0.94
+fiw,msceleb,F0774.7,m.02qcvv,david walker,David M. Walker,0.94
+fiw,msceleb,F0774.7,m.02rj74f,david walker,David G. Walker,0.94
+fiw,msceleb,F0774.7,m.04125hd,david walker,David A. Walker,0.94
+fiw,msceleb,F0774.7,m.05ykz36,david walker,David J. Walker,0.94
+fiw,msceleb,F0774.7,m.07hz4m,david walker,David Allan Walker,0.94
+fiw,msceleb,F0774.7,m.0bby2tk,david walker,David Maxwell Walker,0.94
+fiw,msceleb,F0774.7,m.0cnzczh,david walker,David Alan Walker,0.94
+fiw,msceleb,F0774.7,m.0g2jq7,david walker,David T. Walker,0.94
+fiw,msceleb,F0775.1,m.01xcr4,barbara walters,Barbara Walters,1
+fiw,msceleb,F0776.1,m.016nff,julie walters,Julie Walters,1
+fiw,msceleb,F0776.4,m.0267swr,mary walters,Gary Walters,0.9166666666666666
+fiw,msceleb,F0777.3,m.03mzc7,jim walton,Jim C. Walton,0.94
+fiw,msceleb,F0777.4,m.03mv31,alice walton,Alice Walton,1
+fiw,msceleb,F0777.5,m.03lp9t,robson walton,S. Robson Walton,0.9285714285714286
+fiw,msceleb,F0777.6,m.03mzh3,john walton,John T. Walton,0.94
+fiw,msceleb,F0777.6,m.05wjlvg,john walton,John H. Walton,0.94
+fiw,msceleb,F0777.6,m.0crdnw5,john walton,John Lawson Walton,0.94
+fiw,msceleb,F0777.6,m.0jx5n5,john walton,John Boy Walton,0.94
+fiw,msceleb,F0779.1,m.098x_,booker washington,Booker T. Washington,0.94
+fiw,msceleb,F0780.1,m.07myb2,kerry washington,Kerry Washington,1
+fiw,msceleb,F0781.1,m.0vxkrzs,suki waterhouse,Suki Waterhouse,1
+fiw,msceleb,F0782.2,m.06jbjq5,chris watson watson,Chris Watson,0.94
+fiw,msceleb,F0783.1,m.01xcfy,naomi watts,Naomi Watts,1
+fiw,msceleb,F0783.2,m.03ch6nm,ben watts,Ben Watts,1
+fiw,msceleb,F0784.1,m.03f40p0,gerard way,Gerard Way,1
+fiw,msceleb,F0785.1,m.02_l96,marlon wayans,Marlon Wayans,1
+fiw,msceleb,F0785.2,m.030g9z,shawn wayans,Shawn Wayans,1
+fiw,msceleb,F0785.3,m.030g8s,kim wayans,Kim Wayans,1
+fiw,msceleb,F0785.5,m.02tf1y,damon wayans,Damon Wayans,1
+fiw,msceleb,F0786.1,m.0h96g,sigourney weaver,Sigourney Weaver,1
+fiw,msceleb,F0786.3,m.05p417v,jim weaver,Jim Weaver,1
+fiw,msceleb,F0786.5,m.080ccrn,elizabeth weaver,Elizabeth Weaver,1
+fiw,msceleb,F0787.1,m.0bby4wn,chris weidman,Chris Weidman,1
+fiw,msceleb,F0789.1,m.09lj4s,gerard wertheimer,Gérard Wertheimer,0.9411764705882353
+fiw,msceleb,F0789.2,m.04sj47,alain wertheimer,Alain Wertheimer,1
+fiw,msceleb,F0790.2,m.01xvry,galen weston,Galen Weston,1
+fiw,msceleb,F0790.5,m.05f7gdv,hillary weston,Hillary Weston,1
+fiw,msceleb,F0793.1,m.09gbn5r,hayley williams,Hayley J Williams,0.94
+fiw,msceleb,F0794.1,m.0dmv4d,robin williams williams,Robin Williams,0.94
+fiw,msceleb,F0794.1,m.03ql9nk,robin williams williams,Robin M. Williams,0.94
+fiw,msceleb,F0794.7,m.04d2rf4,laura mclaurin williams,Laura Williams,0.94
+fiw,msceleb,F0794.7,m.05qfz85,laura mclaurin williams,Laura E. Williams,0.94
+fiw,msceleb,F0794.7,m.0bczsl,laura mclaurin williams,Laura J. Williams,0.94
+fiw,msceleb,F0795.3,m.0frx3c,john watt,John Millar Watt,0.94
+fiw,msceleb,F0796.1,m.040y5q,vanessa williams,Vanessa A. Williams,0.94
+fiw,msceleb,F0796.1,m.0b82lw,vanessa williams,Vanessa R. Williams,0.94
+fiw,msceleb,F0796.1,m.0pyg6,vanessa williams,Vanessa L. Williams,0.94
+fiw,msceleb,F0796.2,m.026vhrm,jillian williams,Jillian Camarena-Williams,0.94
+fiw,msceleb,F0796.3,m.0c6kfg,sasha williams,Sasha Williams,1
+fiw,msceleb,F0796.4,m.07srrf,melanie williams,Melanie Williams,1
+fiw,msceleb,F0796.5,m.0b4yqr,chris  williams,Chris Bart-Williams,0.94
+fiw,msceleb,F0796.5,m.0g98_ny,chris  williams,Chris Allen Williams,0.94
+fiw,msceleb,F0797.1,m.015z4j,serena williams,Serena Williams,1
+fiw,msceleb,F0797.2,m.016cff,venus williams,Venus Williams,1
+fiw,msceleb,F0797.3,m.026645y,richard williams,Richard Hughes Williams,0.94
+fiw,msceleb,F0797.3,m.03d2n__,richard williams,Richard Tecwyn Williams,0.94
+fiw,msceleb,F0797.3,m.04zx8b6,richard williams,Richard Llewellyn Williams,0.94
+fiw,msceleb,F0797.3,m.05p6qyf,richard williams,Richard Leroy Williams,0.94
+fiw,msceleb,F0797.3,m.05zk20l,richard williams,Richard Garnons Williams,0.94
+fiw,msceleb,F0797.3,m.0hhslyq,richard williams,Richard Bryn Williams,0.94
+fiw,msceleb,F0798.2,m.0h7pj,bruce willis,Bruce Willis,1
+fiw,msceleb,F0798.3,m.05xphx,rumer willis,Rumer Willis,1
+fiw,msceleb,F0798.5,m.04dq1yj,scout willis,Scout LaRue Willis,0.94
+fiw,msceleb,F0798.6,m.0j_j426,mabel willis,Mabel Ray Willis,0.94
+fiw,msceleb,F0799.1,m.01q_ph,owen wilson,Owen Wilson,1
+fiw,msceleb,F0799.2,m.0d750h,robert wilson,Robert Wilson,1
+fiw,msceleb,F0799.2,m.01dhxm,robert wilson,Robert Charles Wilson,0.94
+fiw,msceleb,F0799.2,m.01v5lh,robert wilson,Robert Woodrow Wilson,0.94
+fiw,msceleb,F0799.2,m.02_8h2p,robert wilson,Robert Andrew Wilson,0.94
+fiw,msceleb,F0799.2,m.02t1kr,robert wilson,Robert R. Wilson,0.94
+fiw,msceleb,F0799.2,m.03cg5j4,robert wilson,Robert B. Wilson,0.94
+fiw,msceleb,F0799.2,m.03h5b_z,robert wilson,Robert O. Wilson,0.94
+fiw,msceleb,F0799.2,m.03wbm4f,robert wilson,Robert P. Wilson,0.94
+fiw,msceleb,F0799.3,m.030vnj,luke wilson,Luke Wilson,1
+fiw,msceleb,F0799.4,m.059_vt4,andrew wilson,Andrew P. Wilson,0.94
+fiw,msceleb,F0800.1,m.083chw,rainn wilson wilson,Rainn Wilson,0.94
+fiw,msceleb,F0801.3,m.0h7h0w,rebel wilson,Rebel Wilson,1
+fiw,msceleb,F0802.1,m.083q7,woodrow wilson,Woodrow Wilson,1
+fiw,msceleb,F0802.2,m.025pt3,ellen wilson,Ellen Axson Wilson,0.94
+fiw,msceleb,F0802.5,m.0288mc4,margaret wilson,Margaret Woodrow Wilson,0.94
+fiw,msceleb,F0802.5,m.02pvn7_,margaret wilson,Margaret Nales Wilson,0.94
+fiw,msceleb,F0802.5,m.0cn2wz,margaret wilson,Margaret Bush Wilson,0.94
+fiw,msceleb,F0802.5,m.0gvqz61,margaret wilson,Margaret Dauler Wilson,0.94
+fiw,msceleb,F0803.1,m.01pq5j7,amy winehouse,Amy Winehouse,1
+fiw,msceleb,F0803.3,m.03nbg_3,mitch winehouse,Mitchell Winehouse,0.9090909090909091
+fiw,msceleb,F0804.1,m.0grwj,ophrah winfrey,Oprah Winfrey,0.9629629629629629
+fiw,msceleb,F0805.1,m.0dvld,kate winslet,Kate Winslet,1
+fiw,msceleb,F0805.2,m.0724wf,beth winslet,Beth Winslet,1
+fiw,msceleb,F0805.3,m.08yr2h,roger winslet,Roger Winslet,1
+fiw,msceleb,F0805.4,m.02h7km2,sally winslet,Sally Bridges-Winslet,0.94
+fiw,msceleb,F0805.5,m.0gx3c6v,joss winslet,Joss Winslet,1
+fiw,msceleb,F0805.6,m.07gc56,anna winslet,Anna Winslet,1
+fiw,msceleb,F0806.1,m.0n6f8,reese witherspoon,Reese Witherspoon,1
+fiw,msceleb,F0806.3,m.04ybqzx,jim witherspoon,Jim Witherspoon,1
+fiw,msceleb,F0806.3,m.01jqr4y,jim witherspoon,Jimmy Witherspoon,0.9375
+fiw,msceleb,F0806.6,m.043mqb5,ryan witherspoon,Brian Witherspoon,0.9090909090909091
+fiw,msceleb,F0808.1,m.015t56,elijah wood,Elijah Wood,1
+fiw,msceleb,F0808.2,m.0ks0cx,hannah wood,Hannah Wood,1
+fiw,msceleb,F0809.1,m.0bwdn,tiger woods,Tiger Woods,1
+fiw,msceleb,F0809.3,m.027k5dz,sam woods,Sam Woods,1
+fiw,msceleb,F0809.6,m.078_9r,earl woods,Earl Woods,1
+fiw,msceleb,F0810.1,m.02kxjvv,orville wright,Orville Wright,1
+fiw,msceleb,F0810.2,m.02kxjv_,wilbur wright,Wilbur Wright,1
+fiw,msceleb,F0810.3,m.02sr88g,katharine wright,Katharine Wright,1
+fiw,msceleb,F0811.1,m.05yxdx,malcolm shabazz,Malcolm Shabazz,1
+fiw,msceleb,F0811.2,m.02717j1,llyasah shabazz,Ilyasah Shabazz,0.9333333333333333
+fiw,msceleb,F0811.4,m.019cn_,qubilah shabazz,Qubilah Shabazz,1
+fiw,msceleb,F0811.5,m.02z_zj,betty shabazz,Betty Shabazz,1
+fiw,msceleb,F0811.7,m.0k21pjd,malikah shabazz,Malikah Shabazz,1
+fiw,msceleb,F0813.1,m.01krs,boris yeltsin,Boris Yeltsin,1
+fiw,msceleb,F0813.2,m.02qs1_9,naina yeltsin,Naina Yeltsina,0.9629629629629629
+fiw,msceleb,F0814.1,m.0hncyss,malala yousafzai,Malala Yousafzai,1
+fiw,msceleb,F0814.3,m.0pdcdhz,ziauddin yousafzai,Ziauddin Yousafzai,1
+fiw,msceleb,F0815.1,m.086dny,mark zuckerberg,Mark Zuckerberg,1
+fiw,msceleb,F0815.2,m.0jsfpvb,edward zuckerberg,Edward Zuckerberg,1
+fiw,msceleb,F0815.4,m.0ds7rx1,randi zuckerberg,Randi Zuckerberg,1
+fiw,msceleb,F0815.5,m.0jsfpx7,arielle zuckerberg,Arielle Zuckerberg,1
+fiw,msceleb,F0816.2,m.0261k6z,alma powell,Alma Powell,1
+fiw,msceleb,F0816.3,m.02p_1qx,michael powell,Michael Baden-Powell,0.94
+fiw,msceleb,F0816.3,m.047dk5r,michael powell,Michael J. Powell,0.94
+fiw,msceleb,F0816.4,m.0dm4r26,linda powell,Linda Powell,1
+fiw,msceleb,F0817.1,m.01l87db,bob geldof,Bob Geldof,1
+fiw,msceleb,F0817.3,m.06s28h,peaches geldof,Peaches Geldof,1
+fiw,msceleb,F0817.4,m.0bmjpvr,pixie geldof,Pixie Geldof,1
+fiw,msceleb,F0818.1,m.06myp,sigmund freud,Sigmund Freud,1
+fiw,msceleb,F0818.3,m.01dbsy,anna freud,Anna Freud,1
+fiw,msceleb,F0818.4,m.0f9xwq,ernst freud,Ernst L. Freud,0.94
+fiw,msceleb,F0818.8,m.05x99mm,oliver freud,Oliver Freud,1
+fiw,msceleb,F0818.9,m.0nf3_0x,sophie freud,Sophie Freud,1
+fiw,msceleb,F0819.1,m.01wxmn5,joe,Joe,1
+fiw,msceleb,F0819.6,m.0gkzvlr,michael,Michael Michael,0.94
+fiw,msceleb,F0819.8,m.01wngb1,latoya,Latoya,1
+fiw,msceleb,F0821.4,m.0h5qynw,fuchsia sumner,Fuchsia Sumner,1
+fiw,msceleb,F0821.5,m.03j3302,joe sumner,Joe Sumner,1
+fiw,msceleb,F0821.7,m.0mvt13c,giacomo sumner,Giacomo Sumner,1
+fiw,msceleb,F0821.8,m.09j04s,jake sumner,Jake Sumner,1
+fiw,msceleb,F0821.9,m.04n2vvl,eliot sumner,Eliot Paulina Sumner,0.94
+fiw,msceleb,F0823.1,m.0bky0,haile selassie,Haile Selassie,1
+fiw,msceleb,F0823.3,m.03yp5d,amha selassie,Amha Selassie,1
+fiw,msceleb,F0823.10,m.09n6v9,sahle selassie,Sahle Sellassie,0.9655172413793104
+fiw,msceleb,F0824.1,m.06_bq1,blake lively,Blake Lively,1
+fiw,msceleb,F0824.3,m.0bb8txx,elaine lively,Elaine Lively,1
+fiw,msceleb,F0824.4,m.0bz_t4,ernie lively,Ernie Lively,1
+fiw,msceleb,F0824.5,m.0b_002,robyn lively,Robyn Lively,1
+fiw,msceleb,F0824.6,m.0b_038,lori lively,Lori Lively,1
+fiw,msceleb,F0824.7,m.0bz_w6,jason lively,Jason Lively,1
+fiw,msceleb,F0824.8,m.07lj0y,eric lively,Eric Lively,1
+fiw,msceleb,F0825.1,m.02kz_,ernest hemingway,Ernest Hemingway,1
+fiw,msceleb,F0825.5,m.0k6_xr9,clarence hemingway,Clarence Edmonds Hemingway,0.94
+fiw,msceleb,F0825.6,m.0k6_xrk,grace hemingway,Grace Hall-Hemingway,0.94
+fiw,msceleb,F0825.8,m.0dq_xk,leicester hemingway,Leicester Hemingway,1
+fiw,msceleb,F0825.10,m.02y_ch5,gregory hemingway,Gregory Hemingway,1
+fiw,msceleb,F0825.12,m.047sp0c,john hemingway,John Hemingway,1
+fiw,msceleb,F0826.1,m.09wqf_6,brian williams,Brian P. Williams,0.94
+fiw,msceleb,F0826.1,m.0gc2wbg,brian williams,Brian J. Williams,0.94
+fiw,msceleb,F0826.1,m.0k6_m2m,brian williams,Brian Cheeks Williams,0.94
+fiw,msceleb,F0826.3,m.0gcy6v3,douglas williams,Douglas O. Williams,0.94
+fiw,msceleb,F0826.3,m.0tjv8t3,douglas williams,Douglas C. Williams,0.94
+fiw,msceleb,F0826.4,m.0b686rf,allison williams,Allison Williams,1
+fiw,msceleb,F0827.1,m.01pw2f1,alyssa milano,Alyssa Milano,1
+fiw,msceleb,F0828.1,m.029q_y,holly combs,Holly Marie Combs,0.94
+fiw,msceleb,F0828.5,m.01pws9k,david combs,David M. Combs,0.94
+fiw,msceleb,F0829.1,m.03znkl,ben carson,Ben Carson,1
+fiw,msceleb,F0830.1,m.02pkmg_,bailee madison,Bailee Madison,1
+fiw,msceleb,F0831.1,m.02pv3wn,luciano huck,Luciano Huck,1
+fiw,msceleb,F0832.1,m.0gb_w92,william bonner,William Bonner,1
+fiw,msceleb,F0832.1,m.0h6dd9p,william bonner,William A. Bonner,0.94
+fiw,msceleb,F0833.1,m.03mbjpr,claudia leitte,Claudia Leitte,1
+fiw,msceleb,F0833.2,m.02qsxb_,marcio leitte,Marcio Leite,0.96
+fiw,msceleb,F0833.5,m.03mbjpr,claudio leitte,Claudia Leitte,0.9285714285714286
+fiw,msceleb,F0834.1,m.01ms3fy,ivete sangalo,Ivete Sangalo,1
+fiw,msceleb,F0836.2,m.0t5cxv2,sasha meneghel,Sasha Meneghel,1
+fiw,msceleb,F0837.1,m.02ps8n9,juliana paes,Juliana Paes,1
+fiw,msceleb,F0838.1,m.09gknnq,carolina dieckmann,Carolina Dieckmann,1
+fiw,msceleb,F0839.1,m.0ng0xpz,susana vieira,Susana Vieira,1
+fiw,msceleb,F0839.4,m.0j282bt,bruno vieira,Bruno Vieira,1
+fiw,msceleb,F0839.5,m.0nd2wh8,rafael vieira,Rafael Vieira,1
+fiw,msceleb,F0839.5,m.02w_0pg,rafael vieira,Rafael Pires Vieira,0.94
+fiw,msceleb,F0841.1,m.026d62r,paul ryan,Paul F. Ryan,0.94
+fiw,msceleb,F0841.3,m.06vfrq,elizabeth ryan,Elizabeth Ryan,1
+fiw,msceleb,F0841.4,m.0z6tc4y,charles ryan,Charles Ryan,1
+fiw,msceleb,F0842.1,m.0q9zc,larry david,Larry David,1
+fiw,msceleb,F0842.3,m.07w375,laurie david,Laurie David,1
+fiw,msceleb,F0843.1,m.014zfs,bill cosby,Bill Cosby,1
+fiw,msceleb,F0843.2,m.0c4s5rb,camille cosby,Camille Cosby,1
+fiw,msceleb,F0843.3,m.031tj8,ennis cosby,Ennis Cosby,1
+fiw,msceleb,F0844.2,m.01qs8v,caroline giuliani-hanover,"Caroline, Princess of Hanover",0.94
+fiw,msceleb,F0844.4,m.05h98_,donna giuliani-hanover,Donna Hanover,0.94
+fiw,msceleb,F0845.1,m.03m6_z,ryan gosling,Ryan Gosling,1
+fiw,msceleb,F0845.2,m.0gx93vs,donna gosling,Donna Gosling,1
+fiw,msceleb,F0846.1,m.08qxx9,michael fassbender,Michael Fassbender,1
+fiw,msceleb,F0846.3,m.0bs6_7d,josef fassbender,Joseph Fassbender,0.9090909090909091
+fiw,msceleb,F0847.1,m.02f2p7,charlotte rampling,Charlotte Rampling,1
+fiw,msceleb,F0848.1,m.0gn30,sylvester stallone,Sylvester Stallone,1
+fiw,msceleb,F0848.2,m.063xv__,sistine stallone,Sistine Rose Stallone,0.94
+fiw,msceleb,F0848.3,m.0643lp0,scarlet stallone,Scarlet Rose Stallone,0.94
+fiw,msceleb,F0848.4,m.063x0k0,sophia stallone,Sophia Rose Stallone,0.94
+fiw,msceleb,F0848.6,m.01ppx3y,frank stallone,Frank Stallone,1
+fiw,msceleb,F0850.1,m.080f1pp,fausto silva,Fausto Silva,1
+fiw,msceleb,F0850.2,m.0kh91r3,joao silva,Joao Silva,1
+fiw,msceleb,F0850.5,m.02w7276,rodrigo silva,Rodrigo Souza Silva,0.94
+fiw,msceleb,F0851.1,m.03djp_,silvio santos,Silvio Santos,1
+fiw,msceleb,F0851.4,m.05c1b34,iris santos,Iris Santos,1
+fiw,msceleb,F0852.1,m.01vnmxs,marilia gabriela,Marilia Gabriela,1
+fiw,msceleb,F0855.1,m.01_xtx,bradley cooper,Bradley Cooper,1
+fiw,msceleb,F0855.5,m.0n8_dxm,charles cooper,Charles Cooper,1
+fiw,msceleb,F0855.5,m.02rhdd0,charles cooper,Charles Merian Cooper,0.94
+fiw,msceleb,F0855.5,m.083v7l,charles cooper,Charles J. Cooper,0.94
+fiw,msceleb,F0861.3,m.0zj9ymk,wei wang,Wei-Chung Wang,0.94
+fiw,msceleb,F0863.1,m.02wcs4m,ye liu,Ye Li,0.9090909090909091
+fiw,msceleb,F0863.4,m.0cn8tm,nina liu,Nina Liu,1
+fiw,msceleb,F0865.2,m.0kh9b51,jie zhang,Jie Zhang,1
+fiw,msceleb,F0865.3,m.0hnw3jg,mo zhang,Mo Zhang,1
+fiw,msceleb,F0866.1,m.0ck62r4,liang zhang,Liang Zhang,1
+fiw,msceleb,F0866.1,m.02pp0qk,liang zhang,Liang-Jie Zhang,0.94
+fiw,msceleb,F0869.1,m.05f7qsx,tao guo,Tao Guo,1
+fiw,msceleb,F0871.1,m.022dfm,hassanal bolkiah,Hassanal Bolkiah,1
+fiw,msceleb,F0873.1,m.02rf7xn,eddie murphy,Eddie Murphy,1
+fiw,msceleb,F0873.3,m.05kds98,bria murphy,Bria Murphy,1
+fiw,msceleb,F0873.4,m.02skyl,shayne murphy,Shayne Murphy,1
+fiw,msceleb,F0873.4,m.05kds9g,shayne murphy,Shayne Audra Murphy,0.94
+fiw,msceleb,F0873.5,m.05kds9k,zola murphy,Zola Ivy Murphy,0.94
+fiw,msceleb,F0873.8,m.02kkp0l,nicole murphy,Nicole Mitchell Murphy,0.94
+fiw,msceleb,F0873.9,m.05kds9n,bella murphy,Bella Zahra Murphy,0.94
+fiw,msceleb,F0873.10,m.0vx_4f3,vernon murphy,Vernon Murphy,1
+fiw,msceleb,F0873.11,m.0gy9nvq,lillian murphy,Lillian Murphy,1
+fiw,msceleb,F0874.1,m.020l9r,johnny knoxville,Johnny Knoxville,1
+fiw,msceleb,F0875.1,m.02238b,jimmy kimmel,Jimmy Kimmel,1
+fiw,msceleb,F0875.4,m.05k7_dy,kevin kimmel,Kevin Kimmel,1
+fiw,msceleb,F0877.1,m.0k3qrp8,mateus solano,Mateus Solano,1
+fiw,msceleb,F0878.1,m.02700k7,thiago lacerda,Thiago Lacerda,1
+fiw,msceleb,F0880.1,m.015htz,jodie sweetin,Jodie Sweetin,1
+fiw,msceleb,F0881.1,m.028gwm,bob saget,Bob Saget,1
+fiw,msceleb,F0882.1,m.01p_3k,joe namath,Joe Namath,1
+fiw,msceleb,F0883.4,m.02q9v0k,john newton_john,John P. St. John,0.94
+fiw,msceleb,F0884.1,m.029_3,david letterman,David Letterman,1
+fiw,msceleb,F0885.1,m.04t13z,patrice bergeron,Patrice Bergeron,1
+fiw,msceleb,F0886.1,m.0h1m9,bette davis,Bette Davis,1
+fiw,msceleb,F0886.2,m.0gfpq49,ruth davis,Ruth Augusta Davis,0.94
+fiw,msceleb,F0886.2,m.0glnrxw,ruth davis,Ruth A. Davis,0.94
+fiw,msceleb,F0886.3,m.05y581z,barbara davis,Barbara Davis,1
+fiw,msceleb,F0886.4,m.0p81w,gary davis,Gary Davis,1
+fiw,msceleb,F0886.4,m.0gc3hwp,gary davis,Gary Lee Davis,0.94
+fiw,msceleb,F0886.5,m.05y581z,barbara davis davis,Barbara Davis,0.94
+fiw,msceleb,F0886.7,m.028bdl9,michael davis,Michael Davis,1
+fiw,msceleb,F0886.7,m.02rh6fh,michael davis,Michael DeMond Davis,0.94
+fiw,msceleb,F0886.7,m.080kp7x,michael davis,Michael Cory Davis,0.94
+fiw,msceleb,F0886.7,m.0by753n,michael davis,Michael J. Davis,0.94
+fiw,msceleb,F0886.7,m.0gvv73p,michael davis,Michael Earls-Davis,0.94
+fiw,msceleb,F0886.7,m.0wzqxkm,michael davis,Michael K. Davis,0.94
+fiw,msceleb,F0887.1,m.04cl1,kelsey grammer,Kelsey Grammer,1
+fiw,msceleb,F0887.2,m.06x0s_,camille grammer,Camille Grammer,1
+fiw,msceleb,F0887.8,m.0h0thgv,karen grammer,Karen Grammer,1
+fiw,msceleb,F0887.9,m.0dmszb,spencer grammer,Spencer Grammer,1
+fiw,msceleb,F0888.1,m.023y9d,lori loughlin,Lori Loughlin,1
+fiw,msceleb,F0889.1,m.053_d,marie curie,Marie Curie,1
+fiw,msceleb,F0889.4,m.063wl,pierre curie,Pierre Curie,1
+fiw,msceleb,F0890.1,m.0k9bcnh,francis fitzgerald,Francis Joseph Fitzgerald,0.94
+fiw,msceleb,F0890.2,m.01nwl7,zelda fitzgerald,Zelda Fitzgerald,1
+fiw,msceleb,F0891.1,m.01w_10,katie couric,Katie Couric,1
+fiw,msceleb,F0892.1,m.03ldxq,ann curry,Ann Curry,1
+fiw,msceleb,F0892.4,m.09gc7ms,william curry,William D. Curry,0.94
+fiw,msceleb,F0893.1,m.03m5b_,vanna white,Vanna White,1
+fiw,msceleb,F0893.2,m.033tn6,george white,George White,1
+fiw,msceleb,F0893.2,m.0279y3k,george white,George Stanley White,0.94
+fiw,msceleb,F0893.2,m.04csgn8,george white,George A. White,0.94
+fiw,msceleb,F0893.2,m.04jhrqy,george white,George Robert White,0.94
+fiw,msceleb,F0893.2,m.04zyz6q,george white,George M. White,0.94
+fiw,msceleb,F0893.2,m.05k3yk,george white,George Henry White,0.94
+fiw,msceleb,F0893.2,m.05p0f_w,george white,George Washington White,0.94
+fiw,msceleb,F0894.1,m.049dzvg,wayne brady,Wayne Brady,1
+fiw,msceleb,F0895.1,m.086tn6,charles esten,Charles Esten,1
+fiw,msceleb,F0896.1,m.049_zz,matt lauer,Matt Lauer,1
+fiw,msceleb,F0897.1,m.049gc,kurt vonnegut,Kurt Vonnegut,1
+fiw,msceleb,F0897.2,m.0582jm,edith vonnegut,Edith Vonnegut,1
+fiw,msceleb,F0897.4,m.04m6q6,mark vonnegut,Mark Vonnegut,1
+fiw,msceleb,F0897.7,m.04h1j5,bernard vonnegut,Bernard Vonnegut,1
+fiw,msceleb,F0898.1,m.01q9b9,maya angelou,Maya Angelou,1
+fiw,msceleb,F0899.2,m.0jk2vy7,zhao yazhi zhao,Zhao Zhao,0.94
+fiw,msceleb,F0901.2,m.0j28g0_,wu shilang ying,Wu Ying,0.94
+fiw,msceleb,F0905.1,m.0k8kxl3,cheng qiang chen,Cheng Chen,0.94
+fiw,msceleb,F0905.2,m.02ry_jx,chen peisi chen,Chen Wei-chen,0.94
+fiw,msceleb,F0905.3,m.0gbx39v,wang yanling chen,Wang Han Chen,0.94
+fiw,msceleb,F0905.3,m.0rysr2r,wang yanling chen,Wang Huei-chen,0.94
+fiw,msceleb,F0905.4,m.02ry_jx,chen dayu chen,Chen Wei-chen,0.94
+fiw,msceleb,F0906.1,m.0199pk,ruth ginsburg,Ruth Bader Ginsburg,0.94
+fiw,msceleb,F0906.2,m.04yd27l,martin ginsburg,Martin D. Ginsburg,0.94
+fiw,msceleb,F0906.3,m.06gjlv,jane ginsburg,Jane Ginsburg,1
+fiw,msceleb,F0907.1,m.013tcv,baz luhrmann,Baz Luhrmann,1
+fiw,msceleb,F0908.1,m.06mn7,stanley kubrick,Stanley Kubrick,1
+fiw,msceleb,F0908.2,m.0b6mp1,vivian kubrick,Vivian Kubrick,1
+fiw,msceleb,F0908.3,m.09385j,christiane kubrick,Christiane Kubrick,1
+fiw,msceleb,F0908.4,m.02564bm,anya kubrick,Anya Kubrick,1
+fiw,msceleb,F0908.5,m.02g6wv_,katharina kubrick,Katharina Kubrick,1
+fiw,msceleb,F0909.1,m.06b_0,roman polanski,Roman Polanski,1
+fiw,msceleb,F0909.1,m.010q549v,roman polanski,Roman Polyanskiy,0.9333333333333333
+fiw,msceleb,F0909.3,m.0hj1vty,elvis polanski,Elvis Polanski,1
+fiw,msceleb,F0909.4,m.0h4q727,morgane polanski,Morgane Polanski,1
+fiw,msceleb,F0910.1,m.04sry,martin scorsese,Martin Scorsese,1
+fiw,msceleb,F0910.2,m.0byrddf,francesca scorsese,Francesca Scorsese,1
+fiw,msceleb,F0910.4,m.0fpp7c5,domenica scorsese,Domenica Cameron-Scorsese,0.94
+fiw,msceleb,F0910.5,m.0byrdd2,cathy scorsese,Cathy Scorsese,1
+fiw,msceleb,F0911.1,m.01n70mp,tony scott,Tony Scott,1
+fiw,msceleb,F0911.2,m.0gcyj4v,donna scott,Donna W. Scott,0.94
+fiw,msceleb,F0911.3,m.0cn_htt,frank scott,Frank Scott,1
+fiw,msceleb,F0911.3,m.02q67fy,frank scott,Frank D. Scott,0.94
+fiw,msceleb,F0911.3,m.03h4mb_,frank scott,Frank Stewart Scott,0.94
+fiw,msceleb,F0911.3,m.0bh9jv,frank scott,Frank S. Scott,0.94
+fiw,msceleb,F0911.3,m.0ch2fy9,frank scott,Frank Albert Scott,0.94
+fiw,msceleb,F0911.5,m.06chf,ridley scott,Ridley Scott,1
+fiw,msceleb,F0912.1,m.06pjs,spike lee,Spike Lee,1
+fiw,msceleb,F0912.2,m.0b_k36_,tonya lee,Tonya Lewis Lee,0.94
+fiw,msceleb,F0913.1,m.05p5qsy,james cameron,James R. Cameron,0.94
+fiw,msceleb,F0913.1,m.0c55tq,james cameron,James Sorel-Cameron,0.94
+fiw,msceleb,F0914.1,m.0qf43,danny boyle,Danny Boyle,1
+fiw,msceleb,F0914.2,m.04lg914,frank boyle,Frank Boyle,1
+fiw,msceleb,F0915.1,m.02k21g,maya rudolph,Maya Rudolph,1
+fiw,msceleb,F0915.2,m.06w66mv,paul rudolph,Paul Rudolph,1
+fiw,msceleb,F0916.1,m.016tbr,david schwimmer,David Schwimmer,1
+fiw,msceleb,F0918.1,m.01fh9,billy bob thornton,Billy Bob Thornton,1
+fiw,msceleb,F0918.4,m.02klhm,william thornton,William E. Thornton,0.94
+fiw,msceleb,F0918.4,m.03qhd3g,william thornton,William Wheeler Thornton,0.94
+fiw,msceleb,F0918.4,m.0h27l8s,william thornton,William Raymond Thornton,0.94
+fiw,msceleb,F0918.8,m.0chsmk,john thornton,John Thornton,1
+fiw,msceleb,F0918.8,m.0bc918,john thornton,John L. Thornton,0.94
+fiw,msceleb,F0919.1,m.0gs1_,robert redford,Robert Redford,1
+fiw,msceleb,F0919.3,m.04n3cm_,amy redford,Amy Redford,1
+fiw,msceleb,F0919.4,m.0gyb6wj,shauna redford,Shauna Redford,1
+fiw,msceleb,F0920.1,m.01rnxn,bruce dern,Bruce Dern,1
+fiw,msceleb,F0920.2,m.09zmys,laura dern,Laura Dern,1
+fiw,msceleb,F0921.1,m.063_g_,michelle monaghan,Michelle Monaghan,1
+fiw,msceleb,F0921.6,m.0582bc,tommy monaghan,Tom Monaghan,0.9230769230769231
+fiw,msceleb,F0922.1,m.02bwc7,mark burnett,Mark Burnett,1
+fiw,msceleb,F0923.1,m.0bzzf,andie macdowell,Andie MacDowell,1
+fiw,msceleb,F0924.1,m.0h7dgc,rachel zoe,Rachel Zoe,1
+fiw,msceleb,F0925.2,m.02qj124,vera nabokov,Véra Nabokov,0.9166666666666666
+fiw,msceleb,F0925.3,m.03mg27g,dimitri nabokov,Dmitri Nabokov,0.9655172413793104
+fiw,msceleb,F0926.1,m.0rmz,aleksandr solzhenitsyn,Aleksandr Solzhenitsyn,1
+fiw,msceleb,F0926.3,m.0bfynr,ignat solzhenitsyn,Ignat Solzhenitsyn,1
+fiw,msceleb,F0927.1,m.03cf_78,camila pitanga,Camila Pitanga,1
+fiw,msceleb,F0927.2,m.04p724d,rocco pitanga,Rocco Pitanga,1
+fiw,msceleb,F0927.3,m.0b_slhc,antonia pitanga,Antonio Pitanga,0.9333333333333333
+fiw,msceleb,F0927.4,m.0b_slhc,antonio pitanga,Antonio Pitanga,1
+fiw,msceleb,F0930.1,m.0wzznwt,antonio fagundes,Antonio Augusto Fagundes,0.94
+fiw,msceleb,F0930.1,m.05t6wf,antonio fagundes,Antônio Fagundes,0.9375
+fiw,msceleb,F0931.1,m.060d5l,debora falabella,Débora Falabella,0.9375
+fiw,msceleb,F0931.2,m.0h6584q,cynthia falabella,Cynthia Falabella,1
+fiw,msceleb,F0933.1,m.0d3p78,rodrigo faro,Rodrigo Faro,1
+fiw,msceleb,F0934.1,m.026ly85,eliana bezerra,Eliana Michaelichin Bezerra,0.94
+fiw,msceleb,F0935.1,m.03cfzp_,wagner moura,Wagner Moura,1
+fiw,msceleb,F0935.1,m.03cp558,wagner moura,Wander Moura,0.9166666666666666
+fiw,msceleb,F0936.1,m.0z6r1s8,caio castro,Caio Castro,1
+fiw,msceleb,F0938.3,m.05b1hhh,pedro garcia,Pedro Flores Garcia,0.94
+fiw,msceleb,F0938.5,m.0272s6s,felipe garcia,Felipe Garcia,1
+fiw,msceleb,F0939.1,m.02qb7_9,daniel oliveira,Daniel de Oliveira,0.94
+fiw,msceleb,F0939.4,m.01x09ls,raul oliveira,Raul D'Oliveira,0.94
+fiw,msceleb,F0940.1,m.01l7qw,billy connolly,Billy Connolly,1
+fiw,msceleb,F0941.1,m.01kfq_h,bill engvall,Bill Engvall,1
+fiw,msceleb,F0942.1,m.0cnfch,simon helberg,Simon Helberg,1
+fiw,msceleb,F0943.1,m.02g8h,denis leary,Denis Leary,1
+fiw,msceleb,F0943.3,m.06r6zs1,john leary,John Leary,1
+fiw,msceleb,F0944.1,m.03y90ck,tian liang tian,Tian Tian,0.94
+fiw,msceleb,F0944.3,m.03y90ck,tian yucheng tian,Tian Tian,0.94
+fiw,msceleb,F0944.4,m.03y90ck,tian xinohen tian,Tian Tian,0.94
+fiw,msceleb,F0945.2,m.09gnnnj,wang liping wu,Wang Yun-wu,0.94
+fiw,msceleb,F0949.1,m.0bpgz5,yang wei yang,Yang Yang,0.94
+fiw,msceleb,F0949.2,m.0bpgz5,yang yun yang,Yang Yang,0.94
+fiw,msceleb,F0949.3,m.0bpgz5,yang wenchang yang,Yang Yang,0.94
+fiw,msceleb,F0951.2,m.05q99xl,zhou dongqi lin,Zhou Lin,0.94
+fiw,msceleb,F0952.1,m.01vsn38,jack black black,Jack Black,0.94
+fiw,msceleb,F0952.4,m.0406h0s,samuel black,Samuel Charles Black,0.94
+fiw,msceleb,F0952.4,m.0h1hfk9,samuel black,Samuel Luccock Black,0.94
+fiw,msceleb,F0952.4,m.0vzzb65,samuel black,Samuel Lord Black,0.94
+fiw,msceleb,F0953.1,m.09ypcg,aziz ansari,Aziz Ansari,1
+fiw,msceleb,F0954.1,m.05ytlj,vince wilfork,Vince Wilfork,1
+fiw,msceleb,F0955.1,m.03hg6lv,maja einstein,Maja Einstein,1
+fiw,msceleb,F0955.2,m.0jcx,albert einstein,Albert Einstein,1
+fiw,msceleb,F0955.3,m.07wpwv,eduard einstein,Eduard Einstein,1
+fiw,msceleb,F0955.4,m.0h3n0g,hans einstein,Hans Einstein,1
+fiw,msceleb,F0955.4,m.04xmkm,hans einstein,Hans Albert Einstein,0.94
+fiw,msceleb,F0955.6,m.027gd2x,elsa einstein,Elsa Einstein,1
+fiw,msceleb,F0955.7,m.03gq3xh,hermann einstein,Hermann Einstein,1
+fiw,msceleb,F0955.8,m.03h3fh1,pauline einstein,Pauline Einstein,1
+fiw,msceleb,F0956.1,m.01_f8j,thaksin shinawatra,Thaksin Shinawatra,1
+fiw,msceleb,F0956.2,m.0b3n5q,peathongtan shinawatra,Panthongtae Shinawatra,0.9090909090909091
+fiw,msceleb,F0956.4,m.0b3n5q,panthongtae shinawatra,Panthongtae Shinawatra,1
+fiw,msceleb,F0956.6,m.0gtw43g,yinluck shinawatra,Yingluck Shinawatra,0.972972972972973
+fiw,msceleb,F0956.8,m.0w1yg37,lert shinawatra,Lert Shinawatra,1
+fiw,msceleb,F0957.1,m.02plp3n,chris matthews,Chris Matthews,1
+fiw,msceleb,F0957.2,m.0f0ymv,kathleen matthews,Kathleen Matthews,1
+fiw,msceleb,F0957.3,m.0v3cblb,thomas matthews,Thomas Matthews,1
+fiw,msceleb,F0957.4,m.0ddnnk,michael matthews,Michael J. Matthews,0.94
+fiw,msceleb,F0958.4,m.03d98h0,joe simmons,Joe Simmons,1
+fiw,msceleb,F0959.5,m.0d2m0y,ollanta humala,Ollanta Humala,1
+fiw,msceleb,F0960.1,m.0q9kd,danny devito,Danny DeVito,1
+fiw,msceleb,F0960.3,m.0dgr0qd,lucy devito,Lucy DeVito,1
+fiw,msceleb,F0960.4,m.0h4zzkc,daniel devito,Daniel J. DeVito,0.94
+fiw,msceleb,F0960.5,m.0h4zzk4,grace devito,Grace Fan DeVito,0.94
+fiw,msceleb,F0961.1,m.04tnqn,tracy morgan,Tracy Morgan,1
+fiw,msceleb,F0962.2,m.0fh0hp,rob mcelhenney,Rob McElhenney,1
+fiw,msceleb,F0963.3,m.03lkp7,mike myers,Mike Myers,1
+fiw,msceleb,F0963.5,m.03s23w,paul myers,Paul Myers,1
+fiw,msceleb,F0963.5,m.0k3lch,paul myers,Paul S. Myers,0.94
+fiw,msceleb,F0964.1,m.0bsh5t,selton mello,Selton Mello,1
+fiw,msceleb,F0964.2,m.0d3mkp,danton mello,Danton Mello,1
+fiw,msceleb,F0965.1,m.07k4jwx,dado dolabella,Dado Dolabella,1
+fiw,msceleb,F0965.6,m.07k4jwx,eduardo dolabella,Dado Dolabella,0.9032258064516129
+fiw,msceleb,F0965.8,m.0jss53w,carlos dolabella,Carlos Eduardo Dolabella,0.94
+fiw,msceleb,F0966.1,m.0vptv1d,daniel boaventura,Daniel Boaventura,1
+fiw,msceleb,F0967.1,m.04l_yfv,juliano cazarre,Juliano Cazarre,1
+fiw,msceleb,F0968.4,m.02x2720,rodrigo hilbert,Rodrigo Hilbert,1
+fiw,msceleb,F0969.1,m.02700rf,henri castelli,Henri Castelli,1
+fiw,msceleb,F0969.5,m.05c2489,maria castelli,Marissa Castelli,0.9333333333333333
+fiw,msceleb,F0971.1,m.0gf_61,danielle winits,Danielle Winits,1
+fiw,msceleb,F0972.1,m.0j3f5tg,adriana esteves,Adriana Esteves,1
+fiw,msceleb,F0973.1,m.02vrcyd,carolina ferraz,Carolina Ferraz,1
+fiw,msceleb,F0974.2,m.05z7jy,shakira caine,Shakira Caine,1
+fiw,msceleb,F0974.4,m.0h6485t,michael caine,Michael Caine,1
+fiw,msceleb,F0974.4,m.0ql0js1,michael caine,Michael Harris Caine,0.94
+fiw,msceleb,F0974.6,m.04ctyy4,stanley caine,Stanley Caine,1
+fiw,msceleb,F0975.1,m.0h1nt,sissy spacek spacek,Sissy Spacek,0.94
+fiw,msceleb,F0976.1,m.01g140,dan marino,Dan Marino,1
+fiw,msceleb,F0976.3,m.096ct4h,michael marino,Michael Marino,1
+fiw,msceleb,F0977.1,m.01f6zc,gary oldman oldman,Gary Oldman,0.94
+fiw,msceleb,F0977.3,m.063y0tp,gulliver oldman,Gulliver Flynn Oldman,0.94
+fiw,msceleb,F0977.4,m.063xv1f,charlie john oldman,Charlie John Oldman,1
+fiw,msceleb,F0977.7,m.0644nv2,alfie oldman,Alfie Oldman,1
+fiw,msceleb,F0978.1,m.01l1ls,carol burnett burnett,Carol Burnett,0.94
+fiw,msceleb,F0978.3,m.0dkg24,erin hamilton burnett,Erin Burnett,0.94
+fiw,msceleb,F0978.4,m.03hjwyh,joe hamilton burnett,Joe Burnett,0.94
+fiw,msceleb,F0979.3,m.027g69k,marcos silva,Marcos da Silva,0.94
+fiw,msceleb,F0979.4,m.0b77zht,luis silva,Luis Fernando Silva,0.94
+fiw,msceleb,F0979.4,m.0h7ns3_,luis silva,Luis Santos Silva,0.94
+fiw,msceleb,F0979.5,m.0_hc_sy,fabio silva,Fabio Goncalves Silva,0.94
+fiw,msceleb,F0980.1,m.026m5c8,dilma rousseff,Dilma Rousseff,1
+fiw,msceleb,F0981.1,m.05tk2q,regina duarte,Regina Duarte,1
+fiw,msceleb,F0981.2,m.0h63k7_,gabriela duarte,Gabriela Duarte,1
+fiw,msceleb,F0983.3,m.09hc0c,dani alves,Dani Alves,1
+fiw,msceleb,F0984.1,m.09v5t_4,anderson silva,Anderson Silva,1
+fiw,msceleb,F0984.1,m.04gv67t,anderson silva,Anderson Santos Silva,0.94
+fiw,msceleb,F0984.1,m.0j9phxc,anderson silva,Anderson Da Silva,0.94
+fiw,msceleb,F0984.4,m.0b6mn3l,gabriel silva,Gabriel Silva,1
+fiw,msceleb,F0984.4,m.0dgr5dw,gabriel silva,Gabriel Henrique Silva,0.94
+fiw,msceleb,F0984.5,m.0kh91r3,joao silva,Joao Silva,1
+fiw,msceleb,F0985.1,m.04_3_g,wanderlei silva,Wanderlei Silva,1
+fiw,msceleb,F0985.3,m.0h3njl7,rafaela silva,Rafaela Silva,1
+fiw,msceleb,F0986.2,m.028wjr,princess sofia sweden,Princess Margaretha of Sweden,0.94
+fiw,msceleb,F0986.2,m.03n5dx,princess sofia sweden,Princess Märtha of Sweden,0.94
+fiw,msceleb,F0986.2,m.03xqwj,princess sofia sweden,Princess Birgitta of Sweden,0.94
+fiw,msceleb,F0986.6,m.028wjr,princess estelle sweden,Princess Margaretha of Sweden,0.94
+fiw,msceleb,F0986.6,m.03n5dx,princess estelle sweden,Princess Märtha of Sweden,0.94
+fiw,msceleb,F0986.6,m.03xqwj,princess estelle sweden,Princess Birgitta of Sweden,0.94
+fiw,msceleb,F0986.7,m.0q7qk,carl xvi gustaf sweden,Carl XVI Gustaf of Sweden,0.94
+fiw,msceleb,F0986.8,m.0qmr8,queen silvia sweden,Queen Silvia of Sweden,0.94
+fiw,msceleb,F0986.10,m.028wjr,princess madeleine sweden,Princess Margaretha of Sweden,0.94
+fiw,msceleb,F0986.10,m.03n5dx,princess madeleine sweden,Princess Märtha of Sweden,0.94
+fiw,msceleb,F0986.10,m.03xqwj,princess madeleine sweden,Princess Birgitta of Sweden,0.94
+fiw,msceleb,F0986.11,m.028wjr,princess leonore sweden,Princess Margaretha of Sweden,0.94
+fiw,msceleb,F0986.11,m.03n5dx,princess leonore sweden,Princess Märtha of Sweden,0.94
+fiw,msceleb,F0986.11,m.03xqwj,princess leonore sweden,Princess Birgitta of Sweden,0.94
+fiw,msceleb,F0988.1,m.02r8bh,queen rania jordan,Queen Rania of Jordan,0.94
+fiw,msceleb,F0988.1,m.01dll6,queen rania jordan,Queen Noor of Jordan,0.94
+fiw,msceleb,F0988.8,m.01dll6,queen noor jordan,Queen Noor of Jordan,0.94
+fiw,msceleb,F0988.8,m.02r8bh,queen noor jordan,Queen Rania of Jordan,0.94
+fiw,msceleb,F0988.9,m.0kvhz,hussein of jordan jordan,Hussein of Jordan,0.94
+fiw,msceleb,F0989.1,m.01csb_,princess gabriella monaco,Princess Stéphanie of Monaco,0.94
+fiw,msceleb,F0989.2,m.01csb_,princess jacques monaco,Princess Stéphanie of Monaco,0.94
+fiw,msceleb,F0989.3,m.01csb_,princess charlene monaco,Princess Stéphanie of Monaco,0.94
+fiw,msceleb,F0989.6,m.01csb_,princess caroline monaco,Princess Stéphanie of Monaco,0.94
+fiw,msceleb,F0989.8,m.01csb_,princess stephanie monaco,Princess Stéphanie of Monaco,0.94
+fiw,msceleb,F0989.10,m.0g9tl5,louis ii monaco,Louis Monaco,0.94
+fiw,msceleb,F0989.11,m.01csb_,princess charlotte monaco,Princess Stéphanie of Monaco,0.94
+fiw,msceleb,F0989.12,m.01csb_,princess antoinette monaco,Princess Stéphanie of Monaco,0.94
+fiw,msceleb,F0990.1,m.01qkgt,prince joachim denmark,Prince Joachim of Denmark,0.94
+fiw,msceleb,F0990.1,m.026f2zh,prince joachim denmark,Prince Harald of Denmark,0.94
+fiw,msceleb,F0990.1,m.026f33_,prince joachim denmark,Prince Gustav of Denmark,0.94
+fiw,msceleb,F0990.1,m.02z93pt,prince joachim denmark,Prince Axel of Denmark,0.94
+fiw,msceleb,F0990.1,m.04q7jrv,prince joachim denmark,Prince Gorm of Denmark,0.94
+fiw,msceleb,F0990.1,m.05zknw8,prince joachim denmark,Prince Henrik of Denmark,0.94
+fiw,msceleb,F0990.1,m.060cjl,prince joachim denmark,Prince Nikolai of Denmark,0.94
+fiw,msceleb,F0990.1,m.060ckn,prince joachim denmark,Prince Felix of Denmark,0.94
+fiw,msceleb,F0990.1,m.08cm6y,prince joachim denmark,Prince Valdemar of Denmark,0.94
+fiw,msceleb,F0990.1,m.0g5l30c,prince joachim denmark,Prince Vincent of Denmark,0.94
+fiw,msceleb,F0990.2,m.060cjl,prince nikolai denmark,Prince Nikolai of Denmark,0.94
+fiw,msceleb,F0990.2,m.01qkgt,prince nikolai denmark,Prince Joachim of Denmark,0.94
+fiw,msceleb,F0990.2,m.026f2zh,prince nikolai denmark,Prince Harald of Denmark,0.94
+fiw,msceleb,F0990.2,m.026f33_,prince nikolai denmark,Prince Gustav of Denmark,0.94
+fiw,msceleb,F0990.2,m.02z93pt,prince nikolai denmark,Prince Axel of Denmark,0.94
+fiw,msceleb,F0990.2,m.04q7jrv,prince nikolai denmark,Prince Gorm of Denmark,0.94
+fiw,msceleb,F0990.2,m.05zknw8,prince nikolai denmark,Prince Henrik of Denmark,0.94
+fiw,msceleb,F0990.2,m.060ckn,prince nikolai denmark,Prince Felix of Denmark,0.94
+fiw,msceleb,F0990.2,m.08cm6y,prince nikolai denmark,Prince Valdemar of Denmark,0.94
+fiw,msceleb,F0990.2,m.0g5l30c,prince nikolai denmark,Prince Vincent of Denmark,0.94
+fiw,msceleb,F0990.4,m.01qkgt,prince frederik denmark,Prince Joachim of Denmark,0.94
+fiw,msceleb,F0990.4,m.026f2zh,prince frederik denmark,Prince Harald of Denmark,0.94
+fiw,msceleb,F0990.4,m.026f33_,prince frederik denmark,Prince Gustav of Denmark,0.94
+fiw,msceleb,F0990.4,m.02z93pt,prince frederik denmark,Prince Axel of Denmark,0.94
+fiw,msceleb,F0990.4,m.04q7jrv,prince frederik denmark,Prince Gorm of Denmark,0.94
+fiw,msceleb,F0990.4,m.05zknw8,prince frederik denmark,Prince Henrik of Denmark,0.94
+fiw,msceleb,F0990.4,m.060cjl,prince frederik denmark,Prince Nikolai of Denmark,0.94
+fiw,msceleb,F0990.4,m.060ckn,prince frederik denmark,Prince Felix of Denmark,0.94
+fiw,msceleb,F0990.4,m.08cm6y,prince frederik denmark,Prince Valdemar of Denmark,0.94
+fiw,msceleb,F0990.5,m.016v7v,princess mary denmark,Princess Ingeborg of Denmark,0.94
+fiw,msceleb,F0990.5,m.013p_w,princess mary denmark,Princess Benedikte of Denmark,0.94
+fiw,msceleb,F0990.5,m.026f306,princess mary denmark,Princess Thyra of Denmark,0.94
+fiw,msceleb,F0990.5,m.026f36r,princess mary denmark,Princess Dagmar of Denmark,0.94
+fiw,msceleb,F0990.5,m.026jvn0,princess mary denmark,Princess Feodora of Denmark,0.94
+fiw,msceleb,F0990.5,m.027sm3c,princess mary denmark,Princess Marie of Denmark,0.94
+fiw,msceleb,F0990.5,m.02qq_ly,princess mary denmark,Princess Isabella of Denmark,0.94
+fiw,msceleb,F0990.5,m.06q9jm,princess mary denmark,Princess Elisabeth of Denmark,0.94
+fiw,msceleb,F0990.5,m.08vq97,princess mary denmark,Princess Anne of Denmark,0.94
+fiw,msceleb,F0990.6,m.01qkgt,prince cristian denmark,Prince Joachim of Denmark,0.94
+fiw,msceleb,F0990.6,m.026f2zh,prince cristian denmark,Prince Harald of Denmark,0.94
+fiw,msceleb,F0990.6,m.026f33_,prince cristian denmark,Prince Gustav of Denmark,0.94
+fiw,msceleb,F0990.6,m.02z93pt,prince cristian denmark,Prince Axel of Denmark,0.94
+fiw,msceleb,F0990.6,m.04q7jrv,prince cristian denmark,Prince Gorm of Denmark,0.94
+fiw,msceleb,F0990.6,m.05zknw8,prince cristian denmark,Prince Henrik of Denmark,0.94
+fiw,msceleb,F0990.6,m.060cjl,prince cristian denmark,Prince Nikolai of Denmark,0.94
+fiw,msceleb,F0990.6,m.060ckn,prince cristian denmark,Prince Felix of Denmark,0.94
+fiw,msceleb,F0990.6,m.08cm6y,prince cristian denmark,Prince Valdemar of Denmark,0.94
+fiw,msceleb,F0990.6,m.0g5l30c,prince cristian denmark,Prince Vincent of Denmark,0.94
+fiw,msceleb,F0990.7,m.0g5l30c,prince vincent denmark,Prince Vincent of Denmark,0.94
+fiw,msceleb,F0990.7,m.01qkgt,prince vincent denmark,Prince Joachim of Denmark,0.94
+fiw,msceleb,F0990.7,m.026f2zh,prince vincent denmark,Prince Harald of Denmark,0.94
+fiw,msceleb,F0990.7,m.026f33_,prince vincent denmark,Prince Gustav of Denmark,0.94
+fiw,msceleb,F0990.7,m.02z93pt,prince vincent denmark,Prince Axel of Denmark,0.94
+fiw,msceleb,F0990.7,m.04q7jrv,prince vincent denmark,Prince Gorm of Denmark,0.94
+fiw,msceleb,F0990.7,m.05zknw8,prince vincent denmark,Prince Henrik of Denmark,0.94
+fiw,msceleb,F0990.7,m.060cjl,prince vincent denmark,Prince Nikolai of Denmark,0.94
+fiw,msceleb,F0990.7,m.060ckn,prince vincent denmark,Prince Felix of Denmark,0.94
+fiw,msceleb,F0990.7,m.08cm6y,prince vincent denmark,Prince Valdemar of Denmark,0.94
+fiw,msceleb,F0990.8,m.02qq_ly,princess isabella denmark,Princess Isabella of Denmark,0.94
+fiw,msceleb,F0990.8,m.016v7v,princess isabella denmark,Princess Ingeborg of Denmark,0.94
+fiw,msceleb,F0990.8,m.013p_w,princess isabella denmark,Princess Benedikte of Denmark,0.94
+fiw,msceleb,F0990.8,m.026f306,princess isabella denmark,Princess Thyra of Denmark,0.94
+fiw,msceleb,F0990.8,m.026f36r,princess isabella denmark,Princess Dagmar of Denmark,0.94
+fiw,msceleb,F0990.8,m.026jvn0,princess isabella denmark,Princess Feodora of Denmark,0.94
+fiw,msceleb,F0990.8,m.027sm3c,princess isabella denmark,Princess Marie of Denmark,0.94
+fiw,msceleb,F0990.8,m.06q9jm,princess isabella denmark,Princess Elisabeth of Denmark,0.94
+fiw,msceleb,F0990.8,m.08vq97,princess isabella denmark,Princess Anne of Denmark,0.94
+fiw,msceleb,F0990.8,m.0dsjl_,princess isabella denmark,Princess Margaret of Denmark,0.94
+fiw,msceleb,F0990.9,m.0g5l30q,prince josephine denmark,Princess Josephine of Denmark,0.9056603773584906
+fiw,msceleb,F0990.9,m.01qkgt,prince josephine denmark,Prince Joachim of Denmark,0.94
+fiw,msceleb,F0990.9,m.026f2zh,prince josephine denmark,Prince Harald of Denmark,0.94
+fiw,msceleb,F0990.9,m.026f33_,prince josephine denmark,Prince Gustav of Denmark,0.94
+fiw,msceleb,F0990.9,m.02z93pt,prince josephine denmark,Prince Axel of Denmark,0.94
+fiw,msceleb,F0990.9,m.04q7jrv,prince josephine denmark,Prince Gorm of Denmark,0.94
+fiw,msceleb,F0990.9,m.05zknw8,prince josephine denmark,Prince Henrik of Denmark,0.94
+fiw,msceleb,F0990.9,m.060cjl,prince josephine denmark,Prince Nikolai of Denmark,0.94
+fiw,msceleb,F0990.9,m.060ckn,prince josephine denmark,Prince Felix of Denmark,0.94
+fiw,msceleb,F0990.9,m.08cm6y,prince josephine denmark,Prince Valdemar of Denmark,0.94
+fiw,msceleb,F0990.10,m.05zknw8,prince henrik denmark,Prince Henrik of Denmark,0.94
+fiw,msceleb,F0990.10,m.01qkgt,prince henrik denmark,Prince Joachim of Denmark,0.94
+fiw,msceleb,F0990.10,m.026f2zh,prince henrik denmark,Prince Harald of Denmark,0.94
+fiw,msceleb,F0990.10,m.026f33_,prince henrik denmark,Prince Gustav of Denmark,0.94
+fiw,msceleb,F0990.10,m.02z93pt,prince henrik denmark,Prince Axel of Denmark,0.94
+fiw,msceleb,F0990.10,m.04q7jrv,prince henrik denmark,Prince Gorm of Denmark,0.94
+fiw,msceleb,F0990.10,m.060cjl,prince henrik denmark,Prince Nikolai of Denmark,0.94
+fiw,msceleb,F0990.10,m.060ckn,prince henrik denmark,Prince Felix of Denmark,0.94
+fiw,msceleb,F0990.10,m.08cm6y,prince henrik denmark,Prince Valdemar of Denmark,0.94
+fiw,msceleb,F0990.12,m.027sm3c,princess marie denmark,Princess Marie of Denmark,0.94
+fiw,msceleb,F0990.12,m.016v7v,princess marie denmark,Princess Ingeborg of Denmark,0.94
+fiw,msceleb,F0990.12,m.013p_w,princess marie denmark,Princess Benedikte of Denmark,0.94
+fiw,msceleb,F0990.12,m.026f306,princess marie denmark,Princess Thyra of Denmark,0.94
+fiw,msceleb,F0990.12,m.026f36r,princess marie denmark,Princess Dagmar of Denmark,0.94
+fiw,msceleb,F0990.12,m.026jvn0,princess marie denmark,Princess Feodora of Denmark,0.94
+fiw,msceleb,F0990.12,m.02qq_ly,princess marie denmark,Princess Isabella of Denmark,0.94
+fiw,msceleb,F0990.12,m.06q9jm,princess marie denmark,Princess Elisabeth of Denmark,0.94
+fiw,msceleb,F0990.12,m.08vq97,princess marie denmark,Princess Anne of Denmark,0.94
+fiw,msceleb,F0990.12,m.0dsjl_,princess marie denmark,Princess Margaret of Denmark,0.94
+fiw,msceleb,F0990.13,m.060ckn,prince felix denmark,Prince Felix of Denmark,0.94
+fiw,msceleb,F0990.13,m.01qkgt,prince felix denmark,Prince Joachim of Denmark,0.94
+fiw,msceleb,F0990.13,m.026f2zh,prince felix denmark,Prince Harald of Denmark,0.94
+fiw,msceleb,F0990.13,m.026f33_,prince felix denmark,Prince Gustav of Denmark,0.94
+fiw,msceleb,F0990.13,m.02z93pt,prince felix denmark,Prince Axel of Denmark,0.94
+fiw,msceleb,F0990.13,m.04q7jrv,prince felix denmark,Prince Gorm of Denmark,0.94
+fiw,msceleb,F0990.13,m.05zknw8,prince felix denmark,Prince Henrik of Denmark,0.94
+fiw,msceleb,F0990.13,m.060cjl,prince felix denmark,Prince Nikolai of Denmark,0.94
+fiw,msceleb,F0990.13,m.08cm6y,prince felix denmark,Prince Valdemar of Denmark,0.94
+fiw,msceleb,F0990.13,m.0g5l30c,prince felix denmark,Prince Vincent of Denmark,0.94
+fiw,msceleb,F0990.14,m.0jwwgnw,princess athena denmark,Princess Athena of Denmark,0.94
+fiw,msceleb,F0990.14,m.016v7v,princess athena denmark,Princess Ingeborg of Denmark,0.94
+fiw,msceleb,F0990.14,m.013p_w,princess athena denmark,Princess Benedikte of Denmark,0.94
+fiw,msceleb,F0990.14,m.026f306,princess athena denmark,Princess Thyra of Denmark,0.94
+fiw,msceleb,F0990.14,m.026f36r,princess athena denmark,Princess Dagmar of Denmark,0.94
+fiw,msceleb,F0990.14,m.026jvn0,princess athena denmark,Princess Feodora of Denmark,0.94
+fiw,msceleb,F0990.14,m.027sm3c,princess athena denmark,Princess Marie of Denmark,0.94
+fiw,msceleb,F0990.14,m.02qq_ly,princess athena denmark,Princess Isabella of Denmark,0.94
+fiw,msceleb,F0990.14,m.06q9jm,princess athena denmark,Princess Elisabeth of Denmark,0.94
+fiw,msceleb,F0990.14,m.08vq97,princess athena denmark,Princess Anne of Denmark,0.94
+fiw,msceleb,F0993.2,m.04v7kt,idris elba,Idris Elba,1
+fiw,msceleb,F0994.1,m.01520h,richard dreyfuss,Richard Dreyfuss,1
+fiw,msceleb,F0994.2,m.0c6kqw2,ben dreyfuss,Ben Dreyfuss,1
+fiw,msceleb,F0995.1,m.03cnbzb,michael jackson,Michael J. Jackson,0.94
+fiw,msceleb,F0995.1,m.03qhp3g,michael jackson,Michael W. Jackson,0.94
+fiw,msceleb,F0995.1,m.03wy1x0,michael jackson,Michael L Jackson,0.94
+fiw,msceleb,F0995.1,m.03wy1x5,michael jackson,Michael J Jackson,0.94
+fiw,msceleb,F0995.1,m.05wgj7s,michael jackson,Michael C. Jackson,0.94
+fiw,msceleb,F0995.1,m.0676gh,michael jackson,Michael P. Jackson,0.94
+fiw,msceleb,F0995.1,m.0fzc31,michael jackson,Michael Lee Jackson,0.94
+fiw,msceleb,F0995.3,m.026jm8p,paris jackson,Paris Jackson,1
+fiw,msceleb,F0995.6,m.0247h4,rebbie jackson,Rebbie Jackson,1
+fiw,msceleb,F0995.7,m.013v5j,la toya jackson,La Toya Jackson,1
+fiw,msceleb,F0995.8,m.03f658y,jackie jackson,Jackie Jackson,1
+fiw,msceleb,F0995.8,m.09wvyy,jackie jackson,Jackie Landry Jackson,0.94
+fiw,msceleb,F0995.9,m.01s9b9,tito jackson,Tito Jackson,1
+fiw,msceleb,F0995.10,m.07k3xb0,marlon jackson,Marlon Jackson,1
+fiw,msceleb,F0995.11,m.02z1r_0,randy jackson,Randy Jackson,1
+fiw,msceleb,F0995.14,m.03hnbh_,joseph jackson,Joseph Jackson,1
+fiw,msceleb,F0995.14,m.02rwbpz,joseph jackson,Joseph H. Jackson,0.94
+fiw,msceleb,F0995.14,m.0bmc6mb,joseph jackson,Joseph Raymond Jackson,0.94
+fiw,msceleb,F0995.14,m.0c455gq,joseph jackson,Joseph Henry Jackson,0.94
+fiw,msceleb,F0995.15,m.0640ddr,jermaine jackson,Jermaine Jackson,1
+fiw,msceleb,F0995.15,m.0vmxwfh,jermaine jackson,Jermaine A. Jackson,0.94
+fiw,msceleb,F0996.3,m.0jvrpw,christopher trumbo,Christopher Trumbo,1
+fiw,msceleb,F0996.4,m.026m0,dalton trumbo,Dalton Trumbo,1
+fiw,msceleb,F0997.1,m.03grvjj,roger roger,Roger Roger,1
+fiw,msceleb,F0998.6,m.0464qln,mary white,Mary Jo White,0.94
+fiw,msceleb,F0999.1,m.01chc7,paul bettany,Paul Bettany,1
+fiw,msceleb,F0999.3,m.0h0xgcg,stellan bettany,Stellan Bettany,1
+fiw,msceleb,F0999.6,m.0bt20v,thane bettany,Thane Bettany,1
+fiw,msceleb,F1000.7,m.079cwm,drena de_niro,Drena De Niro,0.96
+fiw,msceleb,F1003.1,m.04wrtk,jamie oliver,Jamie Oliver,1
+fiw,msceleb,F1004.3,m.0h7m_vp,jade laurentiis-thompson,Jade Thompson,0.94
+fiw,msceleb,F1005.1,m.0crzn_,guy fieri,Guy Fieri,1
+fiw,msceleb,F1007.1,m.04d27kq,taylor hanson,Taylor Hanson,1
+fiw,msceleb,F1013.2,m.05qsjt4,shante broadus broadus,Shante Broadus,0.94
+fiw,msceleb,F1013.3,m.05qvpwh,cordell broadus,Corde Broadus,0.9285714285714286
+fiw,msceleb,F1013.4,m.05qvpwh,corde broadus,Corde Broadus,1
+fiw,msceleb,F1016.3,m.01q9f7y,tamar braxtons,Tamar Braxton,0.9629629629629629
+fiw,msceleb,F1016.4,m.0h03gx,towanda braxtons,Towanda Braxton,0.967741935483871
+fiw,msceleb,F1017.1,m.0g9tpn5,todd smith,Todd Joseph Smith,0.94
+fiw,msceleb,F1017.1,m.0qps72y,todd smith,A. Todd Smith,0.9090909090909091
+fiw,msceleb,F1017.4,m.0frvzc,nina smith,Nina Bracewell-Smith,0.94
+fiw,msceleb,F1018.1,m.06n0g3,holly peete,Holly Robinson Peete,0.94
+fiw,msceleb,F1018.2,m.073nmy,rodney peete,Rodney Peete,1
+fiw,msceleb,F1018.3,m.043n25m,ryan peete,Ryan Elizabeth Peete,0.94
+fiw,msceleb,F1018.5,m.073nmy,rodney peete,Rodney Peete,1

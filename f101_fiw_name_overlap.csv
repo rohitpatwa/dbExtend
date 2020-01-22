@@ -1,0 +1,108 @@
+db1,db2,fid,mid,db2.id,name1,name2,confidence,label,db2_imgdir_path
+fiw,family101,F0007,1,94,bhumibol adulyadej,bhumibol adulyadej,1,1,family_101/Family101_150x120/Rama/Bhumibol_Adulyadej
+fiw,family101,F0040,2,616,mackenzie astin,mackenzie astin,1,1,family_101/Family101_150x120/Astin/Mackenzie_Astin
+fiw,family101,F0040,3,614,sean astin,sean astin,1,1,family_101/Family101_150x120/Astin/Sean_Astin
+fiw,family101,F0040,4,617,john astin,john astin,1,1,family_101/Family101_150x120/Astin/John_Astin
+fiw,family101,F0058,1,31,drew barrymore,drew blyth barrymore,0.94,1,family_101/Family101_150x120/Barrymore/Drew_Blyth_Barrymore
+fiw,family101,F0058,3,32,jaid barrymore,jaid barrymore,1,1,family_101/Family101_150x120/Barrymore/Jaid_Barrymore
+fiw,family101,F0072,1,11,ingrid bergman,ingrid bergman,1,1,family_101/Family101_150x120/Rossellini/Ingrid__Bergman
+fiw,family101,F0101,3,521,beau bridges,beau bridges,1,1,family_101/Family101_150x120/Bridges/Beau_Bridges
+fiw,family101,F0101,4,523,emily bridges,emily bridges,1,1,family_101/Family101_150x120/Bridges/Emily_Bridges
+fiw,family101,F0101,5,526,jordan bridges,jordan bridges,1,1,family_101/Family101_150x120/Bridges/Jordan_Bridges
+fiw,family101,F0101,8,518,jeff bridges,jeff bridges,1,1,family_101/Family101_150x120/Bridges/Jeff_Bridges
+fiw,family101,F0104,1,372,james brolin,james brolin,1,1,family_101/Family101_150x120/Brolin/James_Brolin
+fiw,family101,F0104,2,370,josh brolin,josh brolin,1,1,family_101/Family101_150x120/Brolin/Josh_Brolin
+fiw,family101,F0114,1,245,george bush,george w bush,0.94,1,family_101/Family101_150x120/Bush/George_W_Bush
+fiw,family101,F0114,9,246,jeb bush,jeb bush,1,1,family_101/Family101_150x120/Bush/Jeb_Bush
+fiw,family101,F0128,3,38,amy carter,amy lynn carter,0.94,1,family_101/Family101_150x120/Carter/Amy_Lynn_Carter
+fiw,family101,F0129,2,138,june cash,june carter cash,0.94,1,family_101/Family101_150x120/Cash/June_Carter_Cash
+fiw,family101,F0143,1,479,bill clinton,bill clinton,1,1,family_101/Family101_150x120/Clinton/Bill_Clinton
+fiw,family101,F0143,2,481,hillary clinton,hillary clinton,1,1,family_101/Family101_150x120/Clinton/Hillary_Clinton
+fiw,family101,F0143,3,478,chelsea clinton,chelsea clinton,1,1,family_101/Family101_150x120/Clinton/Chelsea_Clinton
+fiw,family101,F0144,1,160,nick clooney clooney,nick clooney,0.94,1,family_101/Family101_150x120/Clooney/Nick_Clooney
+fiw,family101,F0144,3,161,george clooney clooney,george clooney,0.94,1,family_101/Family101_150x120/Clooney/George_Clooney
+fiw,family101,F0144,4,164,rosemary clooney clooney,rosemary clooney,0.94,1,family_101/Family101_150x120/Clooney/Rosemary_Clooney
+fiw,family101,F0154,1,236,calvin coolidge,calvin coolidge,1,1,family_101/Family101_150x120/Coolidge/Calvin_Coolidge
+fiw,family101,F0154,2,239,john coolidge,john coolidge,1,1,family_101/Family101_150x120/Coolidge/John_Coolidge
+fiw,family101,F0154,4,238,grace coolidge,grace goodhue coolidge,0.94,1,family_101/Family101_150x120/Coolidge/Grace_Goodhue_Coolidge
+fiw,family101,F0165,1,311,bing crosby,bing crosby,1,1,family_101/Family101_150x120/Crosby/Bing_Crosby
+fiw,family101,F0165,2,314,mary crosby,mary crosby,1,1,family_101/Family101_150x120/Crosby/Mary_Crosby
+fiw,family101,F0165,6,310,dennis crosby,dennis crosby,1,1,family_101/Family101_150x120/Crosby/Dennis_Crosby
+fiw,family101,F0165,7,313,gary crosby,gary crosby,1,1,family_101/Family101_150x120/Crosby/Gary_Crosby
+fiw,family101,F0173,1,579,billy cyrus,billy ray cyrus,0.94,1,family_101/Family101_150x120/Cyrus/Billy_Ray_Cyrus
+fiw,family101,F0173,2,578,miley cyrus,miley cyrus,1,1,family_101/Family101_150x120/Cyrus/Miley_Cyrus
+fiw,family101,F0173,6,577,noah cyrus,noah lindsey cyrus,0.94,1,family_101/Family101_150x120/Cyrus/Noah_Lindsey_Cyrus
+fiw,family101,F0193,1,605,michael douglas,michael douglas,1,1,family_101/Family101_150x120/Douglas/Michael_Douglas
+fiw,family101,F0193,4,611,carys douglas,carys zeta douglas,0.94,1,family_101/Family101_150x120/Douglas/Carys_Zeta_Douglas
+fiw,family101,F0193,5,612,cameron douglas,cameron douglas,1,1,family_101/Family101_150x120/Douglas/Cameron_Douglas
+fiw,family101,F0193,6,613,kirk douglas,kirk douglas,1,1,family_101/Family101_150x120/Douglas/Kirk_Douglas
+fiw,family101,F0221,2,301,renee estevez,renee estevez,1,1,family_101/Family101_150x120/Sheen/Renee_Estevez
+fiw,family101,F0221,4,299,ramon estevez,ramon estevez,1,1,family_101/Family101_150x120/Sheen/Ramon_Estevez
+fiw,family101,F0235,3,159,miguel ferrer,miguel ferrer,1,1,family_101/Family101_150x120/Clooney/Miguel_Ferrer
+fiw,family101,F0246,1,421,jane fonda,jane fonda,1,1,family_101/Family101_150x120/Fonda/Jane_Fonda
+fiw,family101,F0246,5,424,henry fonda,henry fonda,1,1,family_101/Family101_150x120/Fonda/Henry_Fonda
+fiw,family101,F0248,1,394,betty ford ford,betty ford,0.94,1,family_101/Family101_150x120/FordPresident/Betty_Ford
+fiw,family101,F0250,1,212,henry ford,henry ford,1,1,family_101/Family101_150x120/FordMotor/Henry_Ford
+fiw,family101,F0250,3,217,edsel ford,edsel bryant ford,0.94,1,family_101/Family101_150x120/FordMotor/Edsel_Bryant_Ford
+fiw,family101,F0294,1,185,gwyneth paltrow,gwyneth paltrow,1,1,family_101/Family101_150x120/Paltrow/Gwyneth_Paltrow
+fiw,family101,F0324,1,196,audrey hepburn,audrey hepburn,1,1,family_101/Family101_150x120/Hepburn/Audrey_Hepburn
+fiw,family101,F0327,1,572,paris hilton,paris whitney hilton,0.94,1,family_101/Family101_150x120/Hilton/Paris_Whitney_Hilton
+fiw,family101,F0327,3,571,richard hilton,richard howard hilton,0.94,1,family_101/Family101_150x120/Hilton/Richard_Howard_Hilton
+fiw,family101,F0327,6,570,barron hilton,barron nicholas hilton,0.94,1,family_101/Family101_150x120/Hilton/Barron_Nicholas_Hilton
+fiw,family101,F0333,4,619,herbert hoover,herbert clark hoover,0.94,1,family_101/Family101_150x120/Hoover/Herbert_Clark_Hoover
+fiw,family101,F0338,2,0,bryce howard,bryce dallas howard,0.94,1,family_101/Family101_150x120/Howard/Bryce_Dallas_Howard
+fiw,family101,F0338,3,6,cheryl howard,cheryl howard,1,1,family_101/Family101_150x120/Howard/Cheryl_Howard
+fiw,family101,F0368,1,53,dakota johnson,dakota-johnson,0.96,1,family_101/Family101_150x120/Griffith/Dakota-Johnson
+fiw,family101,F0372,1,134,lyndon johnson,lyndon b johnson,0.94,1,family_101/Family101_150x120/Johnson/Lyndon_B_Johnson
+fiw,family101,F0390,1,123,john kennedy,john fitzgerald kennedy,0.94,1,family_101/Family101_150x120/Kennedy/John_Fitzgerald_Kennedy
+fiw,family101,F0390,7,119,robert kennedy,robert francis kennedy,0.94,1,family_101/Family101_150x120/Kennedy/Robert_Francis_Kennedy
+fiw,family101,F0425,1,446,bruce lee lee,bruce lee,0.94,1,family_101/Family101_150x120/LeeActor/Bruce_Lee
+fiw,family101,F0425,3,447,brandon lee,brandon lee,1,1,family_101/Family101_150x120/LeeActor/Brandon_Lee
+fiw,family101,F0430,1,597,john lennon,john lenon,0.9523809523809523,1,family_101/Family101_150x120/Lenon/John_Lenon
+fiw,family101,F0430,3,600,julian lennon,julian lenon,0.96,1,family_101/Family101_150x120/Lenon/Julian_Lenon
+fiw,family101,F0460,1,486,archie manning,archie manning,1,1,family_101/Family101_150x120/Manning/Archie_Manning
+fiw,family101,F0460,2,487,olivia manning,olivia williams manning,0.94,1,family_101/Family101_150x120/Manning/Olivia_Williams_Manning
+fiw,family101,F0460,3,488,cooper manning,cooper manning,1,1,family_101/Family101_150x120/Manning/Cooper_Manning
+fiw,family101,F0460,4,484,peyton manning,peyton manning,1,1,family_101/Family101_150x120/Manning/Peyton_Manning
+fiw,family101,F0460,5,485,eli manning,eli manning,1,1,family_101/Family101_150x120/Manning/Eli_Manning
+fiw,family101,F0472,3,188,chris martin,chris martin,1,1,family_101/Family101_150x120/Paltrow/Chris_Martin
+fiw,family101,F0531,1,628,richard nixon,richard m nixon,0.94,1,family_101/Family101_150x120/Nixon/Richard_M_Nixon
+fiw,family101,F0532,1,437,joakim noah,joakim noah,1,1,family_101/Family101_150x120/Noah/Joakim_Noah
+fiw,family101,F0532,2,436,yannick noah,yannick noah,1,1,family_101/Family101_150x120/Noah/Yannick_Noah
+fiw,family101,F0532,5,438,zacharie noah,zacharie noah,1,1,family_101/Family101_150x120/Noah/Zacharie_Noah
+fiw,family101,F0539,1,592,barack  obama,barack obama,0.96,1,family_101/Family101_150x120/Obama/Barack_Obama
+fiw,family101,F0539,2,586,michelle obama,michelle obama,1,1,family_101/Family101_150x120/Obama/Michelle_Obama
+fiw,family101,F0539,3,590,malia obama,malia ann obama,0.94,1,family_101/Family101_150x120/Obama/Malia_Ann_Obama
+fiw,family101,F0539,4,588,natasha obama,natasha obama,1,1,family_101/Family101_150x120/Obama/Natasha_Obama
+fiw,family101,F0547,1,376,sharon osbourne,sharon osbourne,1,1,family_101/Family101_150x120/Osbourne/Sharon_Osbourne
+fiw,family101,F0547,3,377,ozzy osbourne,ozzy osbourne,1,1,family_101/Family101_150x120/Osbourne/Ozzy_Osbourne
+fiw,family101,F0547,4,375,jack osbourne,jack osbourne,1,1,family_101/Family101_150x120/Osbourne/Jack_Osbourne
+fiw,family101,F0581,1,583,brad pitt,brad pitt,1,1,family_101/Family101_150x120/Jolie/Brad_Pitt
+fiw,family101,F0617,1,302,ronald reagan,ronald reagan,1,1,family_101/Family101_150x120/Reagan/Ronald_Reagan
+fiw,family101,F0617,2,306,nancy (wife) reagan,nancy reagan,0.94,1,family_101/Family101_150x120/Reagan/Nancy_Reagan
+fiw,family101,F0628,1,201,nicole richie,nicole richie,1,1,family_101/Family101_150x120/Richie/Nicole_Richie
+fiw,family101,F0643,3,496,eleanor roosevelt,eleanor roosevelt,1,1,family_101/Family101_150x120/Roosevelt/Eleanor_Roosevelt
+fiw,family101,F0668,2,115,sargent schriver,sargent shriver,0.967741935483871,1,family_101/Family101_150x120/Kennedy/Sargent_Shriver
+fiw,family101,F0696,1,221,will smith,will smith,1,1,family_101/Family101_150x120/Smith/Will_Smith
+fiw,family101,F0696,2,223,sheree smith,sheree smith,1,1,family_101/Family101_150x120/Smith/Sheree_Smith
+fiw,family101,F0696,3,224,trey smith,trey smith,1,1,family_101/Family101_150x120/Smith/Trey_Smith
+fiw,family101,F0696,4,225,jada smith,jada pinkett smith,0.94,1,family_101/Family101_150x120/Smith/Jada_Pinkett_Smith
+fiw,family101,F0696,5,226,willow smith,willow smith,1,1,family_101/Family101_150x120/Smith/Willow_Smith
+fiw,family101,F0696,6,222,jadan smith,jaden smith,0.9090909090909091,1,family_101/Family101_150x120/Smith/Jaden_Smith
+fiw,family101,F0701,1,255,tori spelling,tori spelling,1,1,family_101/Family101_150x120/Spelling/Tori_Spelling
+fiw,family101,F0701,2,256,aaron spelling,aaron spelling,1,1,family_101/Family101_150x120/Spelling/Aaron_Spelling
+fiw,family101,F0701,3,253,candy spelling,candy spelling,1,1,family_101/Family101_150x120/Spelling/Candy_Spelling
+fiw,family101,F0701,4,254,randy spelling,randy spelling,1,1,family_101/Family101_150x120/Spelling/Randy_Spelling
+fiw,family101,F0708,1,88,elvis presley,elvis presley,1,1,family_101/Family101_150x120/Presley/Elvis_Presley
+fiw,family101,F0708,2,91,priscilla presley,priscilla presley,1,1,family_101/Family101_150x120/Presley/Priscilla_Presley
+fiw,family101,F0728,1,279,william taft,william howard taft,0.94,1,family_101/Family101_150x120/Taft/William_Howard_Taft
+fiw,family101,F0731,1,538,elizabeth taylor,elizabeth taylor,1,1,family_101/Family101_150x120/Taylor/Elizabeth_Taylor
+fiw,family101,F0754,1,18,steven tyler,steven tyler,1,1,family_101/Family101_150x120/Tyler/Steven_Tyler
+fiw,family101,F0754,3,14,liv tyler,liv tyler,1,1,family_101/Family101_150x120/Tyler/Liv_Tyler
+fiw,family101,F0754,4,16,mia tyler,mia tyler,1,1,family_101/Family101_150x120/Tyler/Mia_Tyler
+fiw,family101,F0802,1,562,woodrow wilson,woodrow wilson,1,1,family_101/Family101_150x120/Wilson/Woodrow_Wilson
+fiw,family101,F0802,3,557,jessie wilson,jessie woodrow wilson,0.94,1,family_101/Family101_150x120/Wilson/Jessie_Woodrow_Wilson
+fiw,family101,F0802,5,560,margaret wilson,margaret woodrow wilson,0.94,1,family_101/Family101_150x120/Wilson/Margaret_Woodrow_Wilson
+fiw,family101,F0809,1,59,tiger woods,tiger woods,1,1,family_101/Family101_150x120/Woods/Tiger_Woods
+fiw,family101,F0809,5,58,kutilda woods,kultida woods,0.9230769230769231,1,family_101/Family101_150x120/Woods/Kultida_Woods
+fiw,family101,F0910,1,9,martin scorsese,martin scorsese,1,1,family_101/Family101_150x120/Rossellini/Martin__Scorsese

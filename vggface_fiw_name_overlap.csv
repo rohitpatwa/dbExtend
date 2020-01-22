@@ -1,0 +1,200 @@
+db1,db2,fid.mid,db2.id,name1,name2,confidence
+fiw,vggface,F0005.3,1259,jensen ackles,Jensen Ackles,1
+fiw,vggface,F0008.4,2278,casey affleck,Casey Affleck,1
+fiw,vggface,F0017.1,2542,alan alda,Alan Alda,1
+fiw,vggface,F0021.4,1007,robbie amell,Robbie Amell,1
+fiw,vggface,F0031.1,1718,laura arango,Laura Marano,0.9166666666666666
+fiw,vggface,F0039.1,2197,gloria arroyo,Gloria Macapagal-Arroyo,0.94
+fiw,vggface,F0042.1,2579,rene auberjonois,Rene Auberjonois,1
+fiw,vggface,F0044.1,1930,kevin bacon,Kevin Bacon,1
+fiw,vggface,F0048.2,1103,stephen baldwin,Stephen Baldwin,1
+fiw,vggface,F0048.3,1158,william baldwin,William Baldwin,1
+fiw,vggface,F0052.1,878,christine baranski,Christine Baranski,1
+fiw,vggface,F0061.1,902,jason bateman,Jason Bateman,1
+fiw,vggface,F0061.5,854,justin bateman,Justine Bateman,0.9655172413793104
+fiw,vggface,F0062.1,2543,sean bean,Sean Bean,1
+fiw,vggface,F0065.1,1674,kate beckinsdale,Kate Beckinsale,0.967741935483871
+fiw,vggface,F0072.1,666,ingrid bergman,Ingrid Bergman,1
+fiw,vggface,F0080.1,2013,kim biermann,Kim Zolciak-Biermann,0.94
+fiw,vggface,F0097.1,321,zach braff,Zach Braff,1
+fiw,vggface,F0100.1,50,jordana brewster,Jordana Brewster,1
+fiw,vggface,F0104.2,2572,josh brolin,Josh Brolin,1
+fiw,vggface,F0113.1,225,gary busey,Gary Busey,1
+fiw,vggface,F0121.1,1333,steve carell,Steve Carell,1
+fiw,vggface,F0142.2,1712,john cleese,John Cleese,1
+fiw,vggface,F0146.1,1879,stephen colbert,Stephen Colbert,1
+fiw,vggface,F0147.1,2357,chris colfer,Chris Colfer,1
+fiw,vggface,F0148.2,970,lily collins,Lily Collins,1
+fiw,vggface,F0149.1,2048,misha collins,Misha Collins,1
+fiw,vggface,F0151.1,1895,sean connery,Sean Connery,1
+fiw,vggface,F0156.4,1239,sofia coppola,Sofia Coppola,1
+fiw,vggface,F0156.5,2426,gio coppola,Gia Coppola,0.9090909090909091
+fiw,vggface,F0159.1,1506,marion cotillard,Marion Cotillard,1
+fiw,vggface,F0164.1,1015,darren criss,Darren Criss,1
+fiw,vggface,F0165.6,1289,dennis crosby,Denise Crosby,0.9230769230769231
+fiw,vggface,F0172.1,35,joan cusack,Joan Cusack,1
+fiw,vggface,F0172.6,35,john cusack,Joan Cusack,0.9090909090909091
+fiw,vggface,F0173.2,1837,miley cyrus,Miley Cyrus,1
+fiw,vggface,F0175.1,982,hugh dancy,Hugh Dancy,1
+fiw,vggface,F0183.1,2243,cara delevigne,Cara Delevingne,0.9655172413793104
+fiw,vggface,F0185.1,484,patrick dempsey,Patrick Dempsey,1
+fiw,vggface,F0189.1,1150,zooey deschanel,Zooey Deschanel,1
+fiw,vggface,F0189.4,1598,mary deschanel,Mary Jo Deschanel,0.94
+fiw,vggface,F0200.4,13,josh duhamel,Josh Duhamel,1
+fiw,vggface,F0205.7,2316,allison eastwood,Alison Eastwood,0.967741935483871
+fiw,vggface,F0210.1,1830,zac efron,Zac Efron,1
+fiw,vggface,F0214.3,564,megan ellison,Megan Ellison,1
+fiw,vggface,F0219.1,968,omar epps,Omar Epps,1
+fiw,vggface,F0223.1,2027,peter facinelli,Peter Facinelli,1
+fiw,vggface,F0224.1,1675,jimmy fallon,Jimmy Fallon,1
+fiw,vggface,F0225.1,2428,dakota fanning,Dakota Fanning,1
+fiw,vggface,F0225.2,438,elle fanning,Elle Fanning,1
+fiw,vggface,F0235.3,1336,miguel ferrer,Miguel Ferrer,1
+fiw,vggface,F0241.1,981,jenna fischer fischer,Jenna Fischer,0.94
+fiw,vggface,F0243.1,1376,isla fisher,Isla Fisher,1
+fiw,vggface,F0244.1,699,errol flynn,Errol Flynn,1
+fiw,vggface,F0246.5,1147,henry fonda,Henry Fonda,1
+fiw,vggface,F0253.1,171,megan fox fox,Megan Fox,0.94
+fiw,vggface,F0254.1,41,jamie foxx,Jamie Foxx,1
+fiw,vggface,F0263.1,307,zach galifianakis,Zach Galifianakis,1
+fiw,vggface,F0267.1,784,andrew garfield,Andrew Garfield,1
+fiw,vggface,F0271.1,230,tyrese gibson,Tyrese Gibson,1
+fiw,vggface,F0277.1,866,selena gomez,Selena Gomez,1
+fiw,vggface,F0290.2,1783,mammie gummer,Mamie Gummer,0.96
+fiw,vggface,F0295.1,1732,maggie gyllenhaal,Maggie Gyllenhaal,1
+fiw,vggface,F0297.1,1395,kathryn hahn,Kathryn Hahn,1
+fiw,vggface,F0299.1,692,mark hamill,Mark Hamill,1
+fiw,vggface,F0312.1,238,kevin hart,Kevin Hart,1
+fiw,vggface,F0316.1,987,anne hathaway,Anne Hathaway,1
+fiw,vggface,F0322.2,1262,chris hemsworth,Chris Hemsworth,1
+fiw,vggface,F0324.1,408,audrey hepburn,Audrey Hepburn,1
+fiw,vggface,F0327.4,808,nicky hilton,Nicky Hilton,1
+fiw,vggface,F0339.1,2420,terrence howard,Terrence Howard,1
+fiw,vggface,F0340.1,1207,vanessa hudgens,Vanessa Hudgens,1
+fiw,vggface,F0347.1,163,josh hutcherson,Josh Hutcherson,1
+fiw,vggface,F0352.1,303,jeremy irons,Jeremy Irons,1
+fiw,vggface,F0352.2,1901,max irons,Max Irons,1
+fiw,vggface,F0354.1,1312,hugh jackman,Hugh Jackman,1
+fiw,vggface,F0359.1,1850,ken jeong,Ken Jeong,1
+fiw,vggface,F0361.1,94,penn jillette,Penn Jillette,1
+fiw,vggface,F0363.1,1125,steve jobs,Steve Jobs,1
+fiw,vggface,F0364.3,1849,katie lee joel,Katie Lee Joel,1
+fiw,vggface,F0374.3,1418,joe jonas,Joe Jonas,1
+fiw,vggface,F0379.1,1473,victoria justice,Victoria Justice,1
+fiw,vggface,F0385.1,2389,diane keaton,Diane Keaton,1
+fiw,vggface,F0386.1,1710,harvey keitel,Harvey Keitel,1
+fiw,vggface,F0391.1,2227,tom kenny,Tom Kenny,1
+fiw,vggface,F0411.1,2440,john krasinski krasinski,John Krasinski,0.94
+fiw,vggface,F0432.1,331,adam levine levine,Adam Levine,0.94
+fiw,vggface,F0443.1,1699,julia louis_dreyfus,Julia Louis-Dreyfus,0.96
+fiw,vggface,F0447.1,118,josh lucas,Josh Lucas,1
+fiw,vggface,F0449.1,1102,kelly lynch,Kelly Lynch,1
+fiw,vggface,F0450.1,1650,ross lynch,Ross Lynch,1
+fiw,vggface,F0451.1,501,jack ma,Jack Ma,1
+fiw,vggface,F0451.2,501,jack_dad ma,Jack Ma,0.94
+fiw,vggface,F0451.3,501,jack_mom ma,Jack Ma,0.94
+fiw,vggface,F0451.4,501,jack_sister ma,Jack Ma,0.94
+fiw,vggface,F0451.5,501,jack_brother ma,Jack Ma,0.94
+fiw,vggface,F0457.1,2448,zayn malik,Zayn Malik,1
+fiw,vggface,F0464.1,1542,rooney mara,Rooney Mara,1
+fiw,vggface,F0464.3,329,kate mara,Kate Mara,1
+fiw,vggface,F0465.1,1718,laura marano,Laura Marano,1
+fiw,vggface,F0469.1,1256,mark weber,Mark Webber,0.9523809523809523
+fiw,vggface,F0472.3,2044,chris martin,Chris Martin,1
+fiw,vggface,F0473.2,1368,danny masterson,Danny Masterson,1
+fiw,vggface,F0476.1,190,rachel mcadams,Rachel McAdams,1
+fiw,vggface,F0482.1,2061,jennette mccurdy,Jennette McCurdy,1
+fiw,vggface,F0484.2,1933,steve mcqueen,Steve McQueen,1
+fiw,vggface,F0484.7,1315,steven mcqueen,Steven R. McQueen,0.94
+fiw,vggface,F0484.7,1933,steven mcqueen,Steve McQueen,0.9629629629629629
+fiw,vggface,F0491.1,2328,seth meyers,Seth Meyers,1
+fiw,vggface,F0493.1,2063,lea michele,Lea Michele,1
+fiw,vggface,F0496.1,156,mads mikkelsen,Mads Mikkelsen,1
+fiw,vggface,F0500.1,1764,kylie minogue,Kylie Minogue,1
+fiw,vggface,F0504.2,2608,heidi montag,Heidi Montag,1
+fiw,vggface,F0507.1,942,cory monteith,Cory Monteith,1
+fiw,vggface,F0510.4,1135,hattie morahan,Hattie Morahan,1
+fiw,vggface,F0514.3,209,taj mowry,Tahj Mowry,0.9473684210526315
+fiw,vggface,F0517.1,2248,noah munck,Noah Munck,1
+fiw,vggface,F0519.1,1095,andy murray murray,Andy Murray,0.94
+fiw,vggface,F0521.1,743,elon musk,Elon Musk,1
+fiw,vggface,F0525.4,1520,natasha richardson,Natasha Richardson,1
+fiw,vggface,F0527.3,96,rick nelson,Ricky Nelson,0.9565217391304348
+fiw,vggface,F0541.2,618,sandra oh,Sandra Oh,1
+fiw,vggface,F0544.3,175,rita ora,Rita Ora,1
+fiw,vggface,F0554.1,1437,olivia palermo,Olivia Palermo,1
+fiw,vggface,F0555.1,1450,sarah palin palin,Sarah Palin,0.94
+fiw,vggface,F0573.1,852,russell peters,Russell Peters,1
+fiw,vggface,F0583.1,2071,amy poehler,Amy Poehler,1
+fiw,vggface,F0587.2,2146,whitney port,Whitney Port,1
+fiw,vggface,F0588.1,1120,natalie portman,Natalie Portman,1
+fiw,vggface,F0616.1,2552,usher raymond,Usher Raymond,1
+fiw,vggface,F0628.1,402,nicole richie,Nicole Richie,1
+fiw,vggface,F0629.1,830,alan rickman,Alan Rickman,1
+fiw,vggface,F0632.1,1412,joan rivers,Joan Rivers,1
+fiw,vggface,F0634.1,1750,julia roberts,Julia Roberts,1
+fiw,vggface,F0634.8,722,eric roberts,Eric Roberts,1
+fiw,vggface,F0646.5,2317,evan ross,Evan Ross,1
+fiw,vggface,F0647.1,2576,ronda rousey,Ronda Rousey,1
+fiw,vggface,F0651.1,2183,paul rudd,Paul Rudd,1
+fiw,vggface,F0653.1,2556,mark ruffalo,Mark Ruffalo,1
+fiw,vggface,F0661.4,783,jackie sandler,Jackie Sandler,1
+fiw,vggface,F0670.1,927,amy schumer,Amy Schumer,1
+fiw,vggface,F0675.1,2128,peter sellers,Peter Sellers,1
+fiw,vggface,F0676.1,2621,amanda seyfried,Amanda Seyfried,1
+fiw,vggface,F0677.1,2604,shailene woodley,Shailene Woodley,1
+fiw,vggface,F0681.1,1877,mark sheppard,Mark Sheppard,1
+fiw,vggface,F0694.1,2275,matt smith,Matt Smith,1
+fiw,vggface,F0696.5,1884,willow smith,Willow Smith,1
+fiw,vggface,F0696.6,358,jadan smith,Jaden Smith,0.9090909090909091
+fiw,vggface,F0701.1,559,tori spelling,Tori Spelling,1
+fiw,vggface,F0711.1,2039,hailee steinfeld,Hailee Steinfeld,1
+fiw,vggface,F0713.1,114,booboo stewart,Booboo Stewart,1
+fiw,vggface,F0715.1,1110,kristen stewart,Kristen Stewart,1
+fiw,vggface,F0718.1,1296,ben stiller stiller,Ben Stiller,0.94
+fiw,vggface,F0719.1,1817,emma stone,Emma Stone,1
+fiw,vggface,F0722.1,64,harry styles,Harry Styles,1
+fiw,vggface,F0726.1,1720,taylor swift swift,Taylor Swift,0.94
+fiw,vggface,F0729.1,1357,jeffrey tambor,Jeffrey Tambor,1
+fiw,vggface,F0732.1,1085,christine teigen,Christine Teigen,1
+fiw,vggface,F0733.1,1918,david tennant tennant,David Tennant,0.94
+fiw,vggface,F0747.1,1298,meghan trainor trainor,Meghan Trainor,0.94
+fiw,vggface,F0770.4,2402,natasha wagner,Natasha Gregson Wagner,0.94
+fiw,vggface,F0776.1,349,julie walters,Julie Walters,1
+fiw,vggface,F0780.1,8,kerry washington,Kerry Washington,1
+fiw,vggface,F0785.1,833,marlon wayans,Marlon Wayans,1
+fiw,vggface,F0785.5,1295,damon wayans,Damon Wayans,1
+fiw,vggface,F0788.1,1734,pete wentz wentz,Pete Wentz,0.94
+fiw,vggface,F0798.3,291,rumer willis,Rumer Willis,1
+fiw,vggface,F0799.3,1138,luke wilson,Luke Wilson,1
+fiw,vggface,F0800.1,958,rainn wilson wilson,Rainn Wilson,0.94
+fiw,vggface,F0801.3,903,rebel wilson,Rebel Wilson,1
+fiw,vggface,F0815.1,2196,mark zuckerberg,Mark Zuckerberg,1
+fiw,vggface,F0820.1,2259,alfred hitchcock,Alfred Hitchcock,1
+fiw,vggface,F0824.1,1524,blake lively,Blake Lively,1
+fiw,vggface,F0824.5,343,robyn lively,Robyn Lively,1
+fiw,vggface,F0824.8,1586,eric lively,Eric Lively,1
+fiw,vggface,F0826.4,253,allison williams,Allison Williams,1
+fiw,vggface,F0828.1,123,holly combs,Holly Marie Combs,0.94
+fiw,vggface,F0846.1,1444,michael fassbender,Michael Fassbender,1
+fiw,vggface,F0855.1,1765,bradley cooper,Bradley Cooper,1
+fiw,vggface,F0873.11,493,lillian murphy,Cillian Murphy,0.9285714285714286
+fiw,vggface,F0874.1,1270,johnny knoxville,Johnny Knoxville,1
+fiw,vggface,F0879.1,1891,candace cameron_bure,Candace Cameron Bure,0.96
+fiw,vggface,F0884.1,2603,david letterman,David Letterman,1
+fiw,vggface,F0887.2,189,camille grammer,Camille Grammer,1
+fiw,vggface,F0888.1,599,lori loughlin,Lori Loughlin,1
+fiw,vggface,F0915.1,2614,maya rudolph,Maya Rudolph,1
+fiw,vggface,F0916.1,1216,david schwimmer,David Schwimmer,1
+fiw,vggface,F0920.2,496,laura dern,Laura Dern,1
+fiw,vggface,F0921.1,472,michelle monaghan,Michelle Monaghan,1
+fiw,vggface,F0935.1,1544,wagner moura,Wagner Moura,1
+fiw,vggface,F0940.1,1633,billy connolly,Billy Connolly,1
+fiw,vggface,F0943.1,2485,denis leary,Denis Leary,1
+fiw,vggface,F0952.1,2140,jack black black,Jack Black,0.94
+fiw,vggface,F0958.1,806,jk simmons,J.K. Simmons,0.96
+fiw,vggface,F0959.5,1264,ollanta humala,Ollanta Humala,1
+fiw,vggface,F0961.1,1607,tracy morgan,Tracy Morgan,1
+fiw,vggface,F0993.2,1693,idris elba,Idris Elba,1
+fiw,vggface,F0995.12,1898,janet jackson,Janet Jackson,1
+fiw,vggface,F1016.3,1851,tamar braxtons,Tamar Braxton,0.9629629629629629
